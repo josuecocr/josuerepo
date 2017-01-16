@@ -1,0 +1,1645 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+Timer: 100,0000
+Video Aspect Ratio: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,16,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0
+Style: Top,Arial,14,&H0000FFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,0
+Style: Mid,Arial,16,&H0000FFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,5,10,10,10,0
+Style: Bot,Arial,16,&H00F9FFF9,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,-1:59:59.00,0:00:03.00,Top,,0000,0000,0000,,dawsonm4_585:  This looks promising!
+Dialogue: 0,0:00:01.00,0:00:05.00,Top,,0000,0000,0000,,1109363492489251_131:  ECUADOR💕💕💕💕💕💕💕
+Dialogue: 0,0:00:01.21,0:00:08.15,Bot,,0000,0000,0000,,{\i1}Timing and Subtitles brought to you by I'm Busy Getting Stronger Team @ Viki{\i0}
+Dialogue: 0,0:00:04.00,0:00:08.00,Top,,0000,0000,0000,,dimadalo007_559:  I'm finally watching it yey 
+Dialogue: 0,0:00:06.00,0:00:10.00,Top,,0000,0000,0000,,gwiyomzahin_211:  Xhsn
+Dialogue: 0,0:00:09.00,0:00:13.00,Top,,0000,0000,0000,,falaunah_869:  12/9/16 anyone? 
+Dialogue: 0,0:00:12.00,0:00:16.00,Top,,0000,0000,0000,,gwiyomzahin_211:  China🇨🇳
+Dialogue: 0,0:00:14.00,0:00:18.00,Top,,0000,0000,0000,,jacques_nww_560:  🤤
+Dialogue: 0,0:00:17.00,0:00:21.00,Top,,0000,0000,0000,,632767656864623_562:  Happy New Year 2017🎉🎇🎆🎆🎈🎉🎉🎊
+Dialogue: 0,0:00:19.00,0:00:23.00,Top,,0000,0000,0000,,juraiss_dm_468:  France 🇫🇷🤘🏾✨❣️
+Dialogue: 0,0:00:22.00,0:00:26.00,Top,,0000,0000,0000,,adewoyebisola_451:  From heaven 
+Dialogue: 0,0:00:25.00,0:00:29.00,Top,,0000,0000,0000,,eclectic20:  Down under 
+Dialogue: 0,0:00:27.00,0:00:31.00,Top,,0000,0000,0000,,elsheshenoran_725:  Egypt🇪🇬
+Dialogue: 0,0:00:30.00,0:00:34.00,Top,,0000,0000,0000,,ilsuevcm_421:  Turkey Türkiye 🇹🇷
+Dialogue: 0,0:00:30.40,0:00:36.30,Bot,,0000,0000,0000,,{\i1} People ask me, "Why do you weightlift?"{\i0}
+Dialogue: 0,0:00:33.00,0:00:37.00,Top,,0000,0000,0000,,grizelda_1985_467:  🇸🇻
+Dialogue: 0,0:00:36.00,0:00:40.00,Top,,0000,0000,0000,,amelia_hulme:  Australia ^_^
+Dialogue: 0,0:00:37.46,0:00:40.44,Bot,,0000,0000,0000,,{\i1}When I was ten, I followed my father when he went to the weightlifting room.{\i0}
+Dialogue: 0,0:00:38.00,0:00:42.00,Top,,0000,0000,0000,,amyhasler2013_145:  Texas💙
+Dialogue: 0,0:00:40.44,0:00:45.50,Bot,,0000,0000,0000,,{\i1}I bizarrely liked the metallic smell of barbells that I smelled for the first time.{\i0}
+Dialogue: 0,0:00:42.00,0:00:46.00,Top,,0000,0000,0000,,ken_kin:  word same me too my friend told me to check it out
+Dialogue: 0,0:00:44.00,0:00:48.00,Top,,0000,0000,0000,,alejandraespanol_914:  México 🇲🇽
+Dialogue: 0,0:00:45.50,0:00:50.70,Bot,,0000,0000,0000,,{\i1} I thought to myself then, I would do weightlifting too.{\i0}
+Dialogue: 0,0:00:48.00,0:00:52.00,Top,,0000,0000,0000,,stefany_08_451:  Ecuador 🇪🇨🇪🇨🇪🇨
+Dialogue: 0,0:00:51.00,0:00:55.00,Top,,0000,0000,0000,,soman_shokori_431:  hi from the UK
+Dialogue: 0,0:00:52.68,0:00:57.88,Bot,,0000,0000,0000,,{\i1}Weightlifter Kim Bok Joo from Haneul Sports University is challenging the Clean &amp; Jerk 115 kg for the third time.{\i0}
+Dialogue: 0,0:00:53.00,0:00:57.00,Top,,0000,0000,0000,,l_carbajal0_577:   shes so beautiful 
+Dialogue: 0,0:00:56.00,0:01:00.00,Top,,0000,0000,0000,,coolcutepanda_611:  Hawaii
+Dialogue: 0,0:00:57.88,0:00:59.58,Bot,,0000,0000,0000,,{\i1}Haneul Sports University{\i0}
+Dialogue: 0,0:00:59.58,0:01:02.85,Bot,,0000,0000,0000,,{\i1}I became a weight lifter at such a young age, and{\i0}
+Dialogue: 0,0:01:00.00,0:01:04.00,Top,,0000,0000,0000,,maribushito:  Yeeeeeeei i wanted to see her as a female lead
+Dialogue: 0,0:01:02.00,0:01:06.00,Top,,0000,0000,0000,,ramendesu:  SHE LOOKS SO CUTEEEEE
+Dialogue: 0,0:01:04.74,0:01:07.43,Bot,,0000,0000,0000,,{\i1}I grew up together with weightlifting.{\i0}
+Dialogue: 0,0:01:06.00,0:01:10.00,Top,,0000,0000,0000,,laurabaroi8085_611:  🇫🇷🇫🇷
+Dialogue: 0,0:01:08.66,0:01:11.90,Bot,,0000,0000,0000,,{\i1} I have lifted the barbells and thrown them several thousand times. {\i0}
+Dialogue: 0,0:01:09.00,0:01:13.00,Top,,0000,0000,0000,,jgllawrence_487:  @Ken_kin you're wrong in cinderella and 4K the evil one was an idol from girlgroup, here this actress is a former YGmodel
+Dialogue: 0,0:01:12.00,0:01:16.00,Top,,0000,0000,0000,,analogpanda:  she looks like she'll break if she lifted those weights
+Dialogue: 0,0:01:12.88,0:01:16.21,Bot,,0000,0000,0000,,{\i1}I have scraped out calluses on my hands hundreds of times,{\i0}
+Dialogue: 0,0:01:14.00,0:01:18.00,Top,,0000,0000,0000,,bdiaz89101_533:  Lmao ny
+Dialogue: 0,0:01:17.00,0:01:21.00,Top,,0000,0000,0000,,rubyrenee9_416:  Yeah it looks like she has no muscles 💪 
+Dialogue: 0,0:01:18.60,0:01:23.50,Bot,,0000,0000,0000,,{\i1}and I have poured out thousands of liters of sweat and tears{\i0}
+Dialogue: 0,0:01:20.00,0:01:24.00,Top,,0000,0000,0000,,nyoombunny:  i dont know if i can really believe she is a weightlifter lol...
+Dialogue: 0,0:01:22.00,0:01:26.00,Top,,0000,0000,0000,,jflipc:  K dramas are my porn 
+Dialogue: 0,0:01:24.73,0:01:30.25,Bot,,0000,0000,0000,,{\i1}And now... I am almost on stage!{\i0}
+Dialogue: 0,0:01:26.00,0:01:30.00,Top,,0000,0000,0000,,ikenfly0_61:  She seems so young!
+Dialogue: 0,0:01:29.00,0:01:33.00,Top,,0000,0000,0000,,4d_alien:  😹My Blood Sweat and Tears🎵
+Dialogue: 0,0:01:33.14,0:01:37.59,Bot,,0000,0000,0000,,{\i1}The third attempt of Kim Bok Joo from Haneul Sports University.{\i0}
+Dialogue: 0,0:01:34.00,0:01:38.00,Top,,0000,0000,0000,,137338073432157_875:  China
+
+Dialogue: 0,0:01:37.00,0:01:41.00,Top,,0000,0000,0000,,marilinealvarez2000_865:  Boujour
+Dialogue: 0,0:01:37.59,0:01:39.99,Bot,,0000,0000,0000,,That's what I'm saying.
+Dialogue: 0,0:01:39.99,0:01:42.81,Bot,,0000,0000,0000,,I told you.
+Dialogue: 0,0:01:41.00,0:01:45.00,Top,,0000,0000,0000,,arie_wattara_627:  omg i feel like am so late
+Dialogue: 0,0:01:42.90,0:01:45.90,Bot,,0000,0000,0000,,- Here's the marinated chicken. \N - Look!
+Dialogue: 0,0:01:43.00,0:01:47.00,Top,,0000,0000,0000,,maribushito:  Yeeei i love this guy
+Dialogue: 0,0:01:46.00,0:01:50.00,Top,,0000,0000,0000,,ephraimvuandaghenda_122:  🇨🇩🇨🇩F🇫🇷🇫🇷
+Dialogue: 0,0:01:46.74,0:01:49.04,Bot,,0000,0000,0000,,Aigoo, don't mind me but enjoy your chicken.
+Dialogue: 0,0:01:49.00,0:01:53.00,Top,,0000,0000,0000,,shondim_410:  🍓🍓🍓🍓🍓🍓🍓💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛ايجنن
+Dialogue: 0,0:01:49.04,0:01:52.21,Bot,,0000,0000,0000,,Ah, what the heck?
+Dialogue: 0,0:01:52.00,0:01:56.00,Top,,0000,0000,0000,,katdel:  Sous chef !
+Dialogue: 0,0:01:54.00,0:01:58.00,Top,,0000,0000,0000,,paulinha_nunes_312:  @lc that's me, people always look surprised when I lift stuff bc I am short and they assume I'm weak 
+Dialogue: 0,0:01:57.00,0:02:01.00,Top,,0000,0000,0000,,ann767:  Big ass🍑👀
+Dialogue: 0,0:02:00.00,0:02:04.00,Top,,0000,0000,0000,,rijosg11_169:  Hola it's mee
+Dialogue: 0,0:02:02.00,0:02:06.00,Top,,0000,0000,0000,,youngchan:  Beak Ah 💕
+Dialogue: 0,0:02:05.00,0:02:09.00,Top,,0000,0000,0000,,noir_afro:  😩😂😂😂😂😭are her thighs padded or am I tripping? It looks squishy 
+Dialogue: 0,0:02:08.00,0:02:12.00,Top,,0000,0000,0000,,1184236898321055_536:  Awesome
+Dialogue: 0,0:02:11.00,0:02:15.00,Top,,0000,0000,0000,,johnvarn7_750:  🙈🙈🙈🙈🙈
+Dialogue: 0,0:02:16.00,0:02:20.00,Top,,0000,0000,0000,,dramamama3:  Sorry for all the comments. I know literally nothing about weight lifting 
+Dialogue: 0,0:02:19.00,0:02:23.00,Top,,0000,0000,0000,,ken_kin:  adri from NJ nice to meet yall and i wonder if she had to actually train for this role
+Dialogue: 0,0:02:21.00,0:02:25.00,Top,,0000,0000,0000,,mrs_h3rw1n_736:  So Viki has ads in the middle of a scene too????
+Dialogue: 0,0:02:25.00,0:02:29.00,Top,,0000,0000,0000,,tashianna_bostick:  Fake. Those arms, legs and but will show no matter how thin you are.  THey could have tried to find someone more fit
+Dialogue: 0,0:02:32.00,0:02:36.00,Top,,0000,0000,0000,,lulubelle:  it seems all the weight she gained went into her thighs and ass
+Dialogue: 0,0:02:37.00,0:02:41.00,Top,,0000,0000,0000,,briannachalikulima_526:  It's TV SHOW they're not going to make her carry real weights dumbasses! 
+Dialogue: 0,0:02:40.00,0:02:44.00,Top,,0000,0000,0000,,iltzzu96:  No offence but she doesn't have an ass. I still love her body tho😍
+Dialogue: 0,0:02:42.16,0:02:43.84,Bot,,0000,0000,0000,,Gold medal! She got gold!
+Dialogue: 0,0:02:43.84,0:02:47.64,Bot,,0000,0000,0000,,- Gold medal! Gold medal! \N- She got the gold medal!
+Dialogue: 0,0:02:44.00,0:02:48.00,Top,,0000,0000,0000,,seungkwans:  I AM DEFINETELY THIS GUY AYYYY
+Dialogue: 0,0:02:47.00,0:02:51.00,Top,,0000,0000,0000,,177176999326078_948:  So funny, man I just like his character in every drama❤️
+Dialogue: 0,0:02:49.80,0:02:52.45,Bot,,0000,0000,0000,,She's my daughter! My daughter!
+Dialogue: 0,0:02:51.00,0:02:55.00,Top,,0000,0000,0000,,rose_shn:  i love this guy xd hes such a good comedian xD
+Dialogue: 0,0:02:52.45,0:02:55.47,Bot,,0000,0000,0000,,- She is my niece!! \N - My daughter!
+Dialogue: 0,0:02:53.00,0:02:57.00,Top,,0000,0000,0000,,johnvarn7_750:  Oh ce mec je connais 
+Dialogue: 0,0:02:55.50,0:02:58.50,Bot,,0000,0000,0000,,{\i1}The 96th National Weightlifting Competition \NWeight Lifting Stadium{\i0}
+Dialogue: 0,0:02:57.00,0:03:01.00,Top,,0000,0000,0000,,abidi_kaoutar_674:  So exciteddd for this dramaa
+Dialogue: 0,0:03:00.00,0:03:04.00,Top,,0000,0000,0000,,olawale:  Not to piss off anyone, but horrible casting! She looks like she will break something lifting, it makes it hard to suspend disbelief that...
+Dialogue: 0,0:03:01.99,0:03:04.86,Bot,,0000,0000,0000,,Thank you! Thank you!
+Dialogue: 0,0:03:05.00,0:03:09.00,Top,,0000,0000,0000,,abidi_kaoutar_674:  Thanks you so muuuuh all the subbers fightiing !👊👊
+Dialogue: 0,0:03:08.81,0:03:11.19,Bot,,0000,0000,0000,,I enjoyed your performance. Let's see at Taerung Training Village (Korea National Training Center)
+Dialogue: 0,0:03:09.00,0:03:13.00,Top,,0000,0000,0000,,narasvarosky17_234:  how amazing ... first 3 min and I am in tears
+Dialogue: 0,0:03:11.19,0:03:14.17,Bot,,0000,0000,0000,,You are my role model. I'll work hard, Sunbae.
+Dialogue: 0,0:03:12.00,0:03:16.00,Top,,0000,0000,0000,,lulubelle:  she looks much better skinny.  Her face doesn't look nice when she's this weight
+Dialogue: 0,0:03:14.17,0:03:17.02,Bot,,0000,0000,0000,,- Congrats! \N- Thank you!
+Dialogue: 0,0:03:15.00,0:03:19.00,Top,,0000,0000,0000,,mzzstarlet:  omg she cut her hair she had such long hair 😔😳😳😳
+Dialogue: 0,0:03:19.00,0:03:23.00,Top,,0000,0000,0000,,nikoline_mmc_530:  Stop hating this is a kdrama not everythings realistic
+Dialogue: 0,0:03:20.95,0:03:24.18,Bot,,0000,0000,0000,,{\i1}I am a twenty-one year, in my blossoming year.{\i0}
+Dialogue: 0,0:03:22.00,0:03:26.00,Top,,0000,0000,0000,,adannaonwuka_837:  Wow he is really good looking. That smirk 
+Dialogue: 0,0:03:24.18,0:03:27.09,Bot,,0000,0000,0000,,{\i1}The Weightlifter Kim Bok Joo.{\i0}
+Dialogue: 0,0:03:30.00,0:03:34.00,Top,,0000,0000,0000,,mysparkles_87_779:  she's very tall !!
+Dialogue: 0,0:03:32.00,0:03:36.00,Top,,0000,0000,0000,,simb4lol_620:  i'm sorry but she would look better without bangs ;/
+Dialogue: 0,0:03:33.08,0:03:39.13,Bot,,0000,0000,0000,,{\i1} This is from Olympia Swimming Pool, where the 35th Presidential Cup National Swimming Competition is held.{\i0}
+Dialogue: 0,0:03:36.00,0:03:40.00,Top,,0000,0000,0000,,orangestarpro_483:  Swimmers yasss! ABS!
+Dialogue: 0,0:03:39.00,0:03:43.00,Top,,0000,0000,0000,,osjdjs_709:  YALL AINT READY
+Dialogue: 0,0:03:39.13,0:03:44.48,Bot,,0000,0000,0000,,{\i1}Right now, Men's Group B is swimming the 200 meter freestyle preliminary.{\i0}
+Dialogue: 0,0:03:42.00,0:03:46.00,Top,,0000,0000,0000,,ughhizzy:  My baby is always a swimmer 😭😍😍
+Dialogue: 0,0:03:44.48,0:03:46.18,Bot,,0000,0000,0000,,{\i1}Take your mark!{\i0}
+Dialogue: 0,0:03:45.00,0:03:49.00,Top,,0000,0000,0000,,oyintoluhi_511:  My baby came back as a swimmer yesss!!
+Dialogue: 0,0:03:48.00,0:03:52.00,Top,,0000,0000,0000,,francine_mo:  Had no idea he was this hot with clothes
+Dialogue: 0,0:03:51.00,0:03:55.00,Top,,0000,0000,0000,,sararocks247_287:  Ikr @lc
+Dialogue: 0,0:03:53.18,0:03:55.82,Bot,,0000,0000,0000,,{\i1}Right now, in lane 5...{\i0}
+Dialogue: 0,0:03:55.00,0:03:59.00,Top,,0000,0000,0000,,heather_m_peterson:  HOT men ALERT
+Dialogue: 0,0:03:55.82,0:03:58.56,Bot,,0000,0000,0000,,{\i1}Swimmer Jeong Joon Hyeong from Haneul Sports University{\i0}
+Dialogue: 0,0:03:57.00,0:04:01.00,Top,,0000,0000,0000,,monica10villas_917:  OR RESEX
+Dialogue: 0,0:03:58.56,0:04:02.50,Bot,,0000,0000,0000,,{\i1}is showing us a tremendous speed. What kind of swimmer is he?{\i0}
+Dialogue: 0,0:04:00.00,0:04:04.00,Top,,0000,0000,0000,,abramsbess_759:  Free!
+Dialogue: 0,0:04:02.50,0:04:06.42,Bot,,0000,0000,0000,,{\i1}Yes, that swimmer has a good record during practices, and he is a rising star.{\i0}
+Dialogue: 0,0:04:06.42,0:04:09.76,Bot,,0000,0000,0000,,{\i1}In a previous competition, he was unfortunately disqualified due to an early start.{\i0}
+Dialogue: 0,0:04:08.00,0:04:12.00,Top,,0000,0000,0000,,amberose:  AGAIN??? HE'S A SWIMMER?
+Dialogue: 0,0:04:09.76,0:04:14.62,Bot,,0000,0000,0000,,{\i1}Right now, the first place at the Group B preliminary is Swimmer Jeong Joon Hyeong. {\i0}
+Dialogue: 0,0:04:12.00,0:04:16.00,Top,,0000,0000,0000,,ayushmarana_540:  He always swims in like every kdrama wtf
+Dialogue: 0,0:04:14.00,0:04:18.00,Top,,0000,0000,0000,,fcknhxlls:  IWATOBI SWIM CLUB IM SCREAMING
+Dialogue: 0,0:04:14.62,0:04:16.86,Bot,,0000,0000,0000,,{\i1}When I look at the record, {\i0}
+Dialogue: 0,0:04:16.90,0:04:22.90,Bot,,0000,0000,0000,,{\i1}he is 0.15 second faster than Swimmer Choi Tae Woon in Group A who holds the Korea record.{\i0}
+Dialogue: 0,0:04:17.00,0:04:21.00,Top,,0000,0000,0000,,mejanet:  ALL THE WEEABOOS SHOW YOUSELF HAHAH
+Dialogue: 0,0:04:22.00,0:04:26.00,Top,,0000,0000,0000,,hshsc626hafah_247:  BORINF
+Dialogue: 0,0:04:22.90,0:04:24.20,Bot,,0000,0000,0000,,Yes!
+Dialogue: 0,0:04:25.00,0:04:29.00,Top,,0000,0000,0000,,osjdjs_709:  HE DOESNT EVEN LOOK THAT HAPPY ABT WINNING IM AKNDNSN "YES!"
+Dialogue: 0,0:04:25.17,0:04:28.18,Bot,,0000,0000,0000,,{\i1}Episode 1\NWhen you don't like food, you can give it to dog but when you don't like a person...{\i0}
+Dialogue: 0,0:04:30.00,0:04:34.00,Top,,0000,0000,0000,,ele316:  He's so handsome :D
+Dialogue: 0,0:04:31.45,0:04:33.28,Bot,,0000,0000,0000,,One! One! Two!
+Dialogue: 0,0:04:33.28,0:04:41.70,Bot,,0000,0000,0000,,One! Two! Three! Four!
+Dialogue: 0,0:04:35.00,0:04:39.00,Top,,0000,0000,0000,,analogpanda:  i'm pretty sure he's the lead
+Dialogue: 0,0:04:40.00,0:04:44.00,Top,,0000,0000,0000,,ramendesu:  LC probably because it just came out XDD
+Dialogue: 0,0:04:41.70,0:04:45.26,Bot,,0000,0000,0000,,Hwaiting!
+Dialogue: 0,0:04:45.26,0:04:48.58,Bot,,0000,0000,0000,,Weightlifting Team! Hwaiting!
+Dialogue: 0,0:04:47.00,0:04:51.00,Top,,0000,0000,0000,,mangopopkatfanlol_367:  HE IS THE LEAD GUYS  XD
+Dialogue: 0,0:04:48.58,0:04:50.90,Bot,,0000,0000,0000,,Team!\N Fighting!
+Dialogue: 0,0:04:50.00,0:04:54.00,Top,,0000,0000,0000,,4walls:  But he was the lead in school 2015
+Dialogue: 0,0:04:50.90,0:04:52.60,Bot,,0000,0000,0000,,Team!\NFighting!&lt;
+Dialogue: 0,0:04:52.60,0:04:54.90,Bot,,0000,0000,0000,,Team!\N Fighting!
+Dialogue: 0,0:04:54.95,0:04:56.59,Bot,,0000,0000,0000,,Look! Look!
+Dialogue: 0,0:04:55.00,0:04:59.00,Top,,0000,0000,0000,,methylfurfural_248:  I hope it's good
+Dialogue: 0,0:04:56.59,0:04:59.88,Bot,,0000,0000,0000,,Lift! Good!
+Dialogue: 0,0:04:58.00,0:05:02.00,Top,,0000,0000,0000,,mariaantonieta2222_198:  Those pervert girls😏
+Dialogue: 0,0:05:00.86,0:05:02.33,Bot,,0000,0000,0000,,Watch her.
+Dialogue: 0,0:05:02.87,0:05:06.31,Bot,,0000,0000,0000,,Hey, Bok Joo. Just like that! Okay.
+Dialogue: 0,0:05:03.00,0:05:07.00,Top,,0000,0000,0000,,soman_shokori_431:  i like this ajhussi from reply 1988
+Dialogue: 0,0:05:06.31,0:05:09.01,Bot,,0000,0000,0000,,You should endure it. Lift your gaze.
+Dialogue: 0,0:05:08.00,0:05:12.00,Top,,0000,0000,0000,,kdramarathon:  I love this actress too...so many good actors in this! & by the way, thank you subbers....you complete me!
+Dialogue: 0,0:05:09.01,0:05:12.45,Bot,,0000,0000,0000,,That's right. You have to lift it straight up!
+Dialogue: 0,0:05:12.45,0:05:15.67,Bot,,0000,0000,0000,,Your back leg is shaking.
+Dialogue: 0,0:05:15.67,0:05:17.59,Bot,,0000,0000,0000,,Do you know that you're losing your endurance?
+Dialogue: 0,0:05:17.59,0:05:19.53,Bot,,0000,0000,0000,,Do the strength work later.
+Dialogue: 0,0:05:19.53,0:05:22.92,Bot,,0000,0000,0000,,You were zoning out so you didn't do strength work earnestly.
+Dialogue: 0,0:05:20.00,0:05:24.00,Top,,0000,0000,0000,,maribushito:  I hope they dont get huurt 😩 already worried
+Dialogue: 0,0:05:23.93,0:05:26.36,Bot,,0000,0000,0000,,Alright, let's stop the morning training here.
+Dialogue: 0,0:05:25.00,0:05:29.00,Top,,0000,0000,0000,,methylfurfural_248:  I kind of feel guilty for hating her in doctors already
+Dialogue: 0,0:05:26.36,0:05:28.61,Bot,,0000,0000,0000,,Let's gather.\N Yes!
+Dialogue: 0,0:05:28.61,0:05:31.00,Bot,,0000,0000,0000,,Gather here!
+Dialogue: 0,0:05:29.00,0:05:33.00,Top,,0000,0000,0000,,orange_marmalade:  @lc: I don't think they give them actual weights. I think it weighs a lot less
+Dialogue: 0,0:05:34.00,0:05:38.00,Top,,0000,0000,0000,,minecraftgirl11_648:  Bok joo I'm so sorry 4 hating on u in doctors and cheese in the trap
+Dialogue: 0,0:05:34.22,0:05:38.95,Bot,,0000,0000,0000,,You worked hard. Let me request one thing as your professor-in-charge.
+Dialogue: 0,0:05:38.00,0:05:42.00,Top,,0000,0000,0000,,mailsozin_435:  Coach is taek's father in reply 1977
+Dialogue: 0,0:05:40.15,0:05:44.55,Bot,,0000,0000,0000,,The end is just as important as the start.
+Dialogue: 0,0:05:41.00,0:05:45.00,Top,,0000,0000,0000,,ephraimvuandaghenda_122:  Elle est grande
+Dialogue: 0,0:05:44.00,0:05:48.00,Top,,0000,0000,0000,,discode:  Taek's dad?
+Dialogue: 0,0:05:44.55,0:05:48.10,Bot,,0000,0000,0000,,When I was a weightlifter like you,
+Dialogue: 0,0:05:46.00,0:05:50.00,Top,,0000,0000,0000,,kdramapotato:  omggg Taeki appa
+Dialogue: 0,0:05:48.10,0:05:50.52,Bot,,0000,0000,0000,,I turned on and turned off the lights of the weightlifting training room. Why?
+Dialogue: 0,0:05:50.00,0:05:54.00,Top,,0000,0000,0000,,shanemcgregor03:  Shes tall
+Dialogue: 0,0:05:50.52,0:05:53.38,Bot,,0000,0000,0000,,Because I didn't have the skill? Not at all!
+Dialogue: 0,0:05:53.00,0:05:57.00,Top,,0000,0000,0000,,mrymjama_660:  The professor was in Uncontrollably fond as kim woo bin's uncle
+Dialogue: 0,0:05:53.38,0:05:55.96,Bot,,0000,0000,0000,,The character as much as your inborn talent—
+Dialogue: 0,0:05:55.96,0:05:59.08,Bot,,0000,0000,0000,,- What the professor's saying is to turn off the lights well, understand?\N- YES!
+Dialogue: 0,0:05:57.00,0:06:01.00,Top,,0000,0000,0000,,chayanrodriguez92_80:  This is super cute.
+Dialogue: 0,0:05:59.08,0:06:02.13,Bot,,0000,0000,0000,,- Attention! Bow!\N- Goodbye!
+Dialogue: 0,0:06:02.00,0:06:06.00,Top,,0000,0000,0000,,johnvarn7_750:  comment on la pas respecté 😂😂😂
+Dialogue: 0,0:06:02.13,0:06:04.50,Bot,,0000,0000,0000,,Go! Dismiss!
+Dialogue: 0,0:06:04.50,0:06:06.29,Bot,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:06:05.00,0:06:09.00,Top,,0000,0000,0000,,segen_assefa109_675:  -_-
+Dialogue: 0,0:06:07.99,0:06:11.09,Bot,,0000,0000,0000,,Athlete Lee, what's today's meal menu?
+Dialogue: 0,0:06:09.00,0:06:13.00,Top,,0000,0000,0000,,amari_serrano_102:  I lift food to my mouth :)
+Dialogue: 0,0:06:11.09,0:06:14.10,Bot,,0000,0000,0000,,Stir-fried spicy pork, bean sprout soup, beans cooked in soy sauce, stir-fried anchovy.
+Dialogue: 0,0:06:14.10,0:06:17.19,Bot,,0000,0000,0000,,Ohh, stir-fried spicy pork!\N Be wanted!
+Dialogue: 0,0:06:16.00,0:06:20.00,Top,,0000,0000,0000,,gotchu:  Btw I love watching them eat.. If only I didn't get hungry too..
+Dialogue: 0,0:06:17.19,0:06:20.21,Bot,,0000,0000,0000,,- Metal cooking plates! \N- Be wanted!
+Dialogue: 0,0:06:18.00,0:06:22.00,Top,,0000,0000,0000,,lolwutkaaay:  What was that 😆😆😆😆
+Dialogue: 0,0:06:20.21,0:06:23.01,Bot,,0000,0000,0000,,Then let's go to the metal cooking plates for the first time in a long time.
+Dialogue: 0,0:06:21.00,0:06:25.00,Top,,0000,0000,0000,,c30z01:  SQUAD GOALS I FUCKING CANT O MY GOSH
+Dialogue: 0,0:06:23.01,0:06:26.29,Bot,,0000,0000,0000,,Attention here. Stop.
+Dialogue: 0,0:06:25.00,0:06:29.00,Top,,0000,0000,0000,,laurabaroi8085_611:  Swag swag swag suga suga suga bts ❤️❤️❤️❤️
+Dialogue: 0,0:06:26.29,0:06:29.60,Bot,,0000,0000,0000,,Today, there is an event at the small gym.
+Dialogue: 0,0:06:29.60,0:06:32.82,Bot,,0000,0000,0000,,- What?! \N- Again?
+Dialogue: 0,0:06:32.00,0:06:36.00,Top,,0000,0000,0000,,iheartrick_743:  This ajhussi is in every drama ive seen
+Dialogue: 0,0:06:34.78,0:06:37.71,Bot,,0000,0000,0000,,Seriously, why do we have to do this after every event? We aren't their slaves.
+Dialogue: 0,0:06:37.71,0:06:40.19,Bot,,0000,0000,0000,,I mean, seriously. Are we the only muscles they can use?
+Dialogue: 0,0:06:40.19,0:06:44.81,Bot,,0000,0000,0000,,In judo, shot-putting... rowing, too, the women players have thunder thighs. ({\i1} very wide thighs{\i0})
+Dialogue: 0,0:06:42.00,0:06:46.00,Top,,0000,0000,0000,,queensaarah_12:  I swear she's in Cinderella and the four knights 
+Dialogue: 0,0:06:44.81,0:06:48.84,Bot,,0000,0000,0000,,They probably won one hundred of the gold medals at the last National Sports Game.
+Dialogue: 0,0:06:48.00,0:06:52.00,Top,,0000,0000,0000,,briannachalikulima_526:  I can tell this drama is going to be funny 
+Dialogue: 0,0:06:48.84,0:06:51.41,Bot,,0000,0000,0000,,- Let's give it our all! \N- Yes!
+Dialogue: 0,0:06:52.00,0:06:56.00,Top,,0000,0000,0000,,paulinha_nunes_312:  Is that Amber? 
+Dialogue: 0,0:06:55.00,0:06:59.00,Top,,0000,0000,0000,,sakeenaa14_61:  Omg the girl on the left plays eun  ha won's friend in cinderella and the four knights right?
+Dialogue: 0,0:06:57.00,0:07:01.00,Top,,0000,0000,0000,,cate35:  She was in Cinderella and four knights
+Dialogue: 0,0:07:02.00,0:07:06.00,Top,,0000,0000,0000,,audraguerrero13_423:  😂🤗🙏🏻 this scene, thank you directors 
+Dialogue: 0,0:07:05.00,0:07:09.00,Top,,0000,0000,0000,,diriesumaya2004_361:  Isn't he from scarlet heart 
+Dialogue: 0,0:07:08.00,0:07:12.00,Top,,0000,0000,0000,,icametoslay:  OPPA I MISS YOUR LONG HAIR!! FUCK HE IS SO FINE!! 😻👅
+Dialogue: 0,0:07:11.00,0:07:15.00,Top,,0000,0000,0000,,dark_shinobi:  LMAO BITCH I THOUGHT HE WAS TAKING STEROIDS
+Dialogue: 0,0:07:13.00,0:07:17.00,Top,,0000,0000,0000,,jasminevillalta20_800:  He has the Michael phelps face down packed.
+Dialogue: 0,0:07:16.85,0:07:20.96,Bot,,0000,0000,0000,,{\i1}Indeed, we eagerly look forward to seeing the race he will do against the champion in the final.{\i0}
+Dialogue: 0,0:07:18.00,0:07:22.00,Top,,0000,0000,0000,,sanhapotato_572:  COOKIEE RUNNNN HAHA
+Dialogue: 0,0:07:23.00,0:07:27.00,Top,,0000,0000,0000,,francine_mo:  Them lips
+Dialogue: 0,0:07:26.46,0:07:29.00,Bot,,0000,0000,0000,,{\i1}The swimmers are getting ready to take their places.{\i0}
+Dialogue: 0,0:07:27.00,0:07:31.00,Top,,0000,0000,0000,,iltzzu96:  He looks somehow different from School 2015🤔
+Dialogue: 0,0:07:29.00,0:07:33.66,Bot,,0000,0000,0000,,{\i1}According to the prelim results, lane 4 is assigned to Swimmer Jeong Joon Hyeong.{\i0}
+Dialogue: 0,0:07:31.00,0:07:35.00,Top,,0000,0000,0000,,summayiak:  boy's gotta body for sure tho
+Dialogue: 0,0:07:33.66,0:07:37.91,Bot,,0000,0000,0000,,{\i1}The left side, lane 5 is assigned to Swimmer Choi Tae Woon.{\i0}
+Dialogue: 0,0:07:34.00,0:07:38.00,Top,,0000,0000,0000,,dramaqueen8:  he is so lean but cute
+Dialogue: 0,0:07:37.91,0:07:41.17,Bot,,0000,0000,0000,,{\i1}Yes, that's right. Even though it's done with the results of prelim, {\i0}
+Dialogue: 0,0:07:39.00,0:07:43.00,Top,,0000,0000,0000,,muni81:  His legs are goals
+Dialogue: 0,0:07:41.00,0:07:45.00,Top,,0000,0000,0000,,jdolma57_555:  I love swimming too
+Dialogue: 0,0:07:41.17,0:07:44.72,Bot,,0000,0000,0000,,{\i1} from Swimmer Choi Tae Woon's standpoint, he can't get out of his nervousness about it.{\i0}
+Dialogue: 0,0:07:44.00,0:07:48.00,Top,,0000,0000,0000,,kkpopkb:  Par contre mes yeux se qentent bien tt d'un coup hahaha
+Dialogue: 0,0:07:44.72,0:07:47.88,Bot,,0000,0000,0000,,{\i1}The final heat is very interesting.{\i0}
+Dialogue: 0,0:07:47.00,0:07:51.00,Top,,0000,0000,0000,,c30z01:  i just hod these Free! feels again kms
+Dialogue: 0,0:07:48.76,0:07:53.03,Bot,,0000,0000,0000,,{\i1}Yes, now they have taken their places.{\i0}
+Dialogue: 0,0:07:50.00,0:07:54.00,Top,,0000,0000,0000,,j3nna:  Swimmers are always so cut! 😍
+Dialogue: 0,0:07:53.00,0:07:57.00,Top,,0000,0000,0000,,flowerduet:  ✋🏻✋🏻 I touch 🙋🏻
+Dialogue: 0,0:07:53.03,0:07:55.98,Bot,,0000,0000,0000,,{\i1}The men's 200 meter...{\i0}
+Dialogue: 0,0:07:58.00,0:08:02.00,Top,,0000,0000,0000,,emilyn__833:  Nice body, small, very small package ☹️
+Dialogue: 0,0:08:00.00,0:08:04.00,Top,,0000,0000,0000,,peecess:  aw nooo whats going on ??!!
+Dialogue: 0,0:08:03.00,0:08:07.00,Top,,0000,0000,0000,,simone_myers_13_565:  Me too 
+Dialogue: 0,0:08:06.00,0:08:10.00,Top,,0000,0000,0000,,seungkwans:  u ok fam?
+Dialogue: 0,0:08:08.00,0:08:12.00,Top,,0000,0000,0000,,saadiyo:  What does he have cancer now😒😒😒
+Dialogue: 0,0:08:09.74,0:08:11.95,Bot,,0000,0000,0000,,{\i1}Take your mark!{\i0}
+Dialogue: 0,0:08:12.00,0:08:16.00,Top,,0000,0000,0000,,z_sensei:  maybe he's a grower, not a shower...
+Dialogue: 0,0:08:15.00,0:08:19.00,Top,,0000,0000,0000,,makenza:  wait that his jota right from madtown i didn't recognize him at first
+Dialogue: 0,0:08:18.00,0:08:22.00,Top,,0000,0000,0000,,modupe_2:  shouldn't he stop
+Dialogue: 0,0:08:21.00,0:08:25.00,Top,,0000,0000,0000,,jdolma57_555:  What?
+Dialogue: 0,0:08:24.00,0:08:28.00,Top,,0000,0000,0000,,234430136986368_979:  He should go to Moorim School and meet Shi Woo so they can help each other
+Dialogue: 0,0:08:26.32,0:08:31.76,Bot,,0000,0000,0000,,{\i1}Ah! Swimmer Jeong Joon Hyeong in lane four had a false start.{\i0}
+Dialogue: 0,0:08:27.00,0:08:31.00,Top,,0000,0000,0000,,hansol_bling:  WHO SAID MOORIM SCHOOL YAS LETS BE FRIENDS
+Dialogue: 0,0:08:31.76,0:08:34.58,Bot,,0000,0000,0000,,{\i1}Will he be disqualified again because of this?{\i0}
+Dialogue: 0,0:08:34.58,0:08:36.29,Bot,,0000,0000,0000,,{\i1}Yes, that's right.{\i0}
+Dialogue: 0,0:08:36.29,0:08:37.66,Bot,,0000,0000,0000,,{\i1}He'll get disqualified over this.{\i0}
+Dialogue: 0,0:08:37.66,0:08:41.16,Bot,,0000,0000,0000,,{\i1}He got caught with the same false start as his last competition.{\i0}
+Dialogue: 0,0:08:41.16,0:08:43.62,Bot,,0000,0000,0000,,{\i1}How disappointing for Swimmer Jeong Joon Hyeong.{\i0}
+Dialogue: 0,0:08:42.00,0:08:46.00,Top,,0000,0000,0000,,dukes_music14_467:  that ringing in his ears moment gave me some moorim school flashbacks for real.
+Dialogue: 0,0:08:46.00,0:08:50.00,Top,,0000,0000,0000,,yasi_a2408_76:  Hate adds!!!!
+Dialogue: 0,0:08:49.00,0:08:53.00,Top,,0000,0000,0000,,mikkbourdier09_951:  Oh god omg why jota there too THIS drama about be the death of me
+Dialogue: 0,0:08:52.00,0:08:56.00,Top,,0000,0000,0000,,shannon_334:  This dude is playboy material... so freaking cuteeeeeeeee
+Dialogue: 0,0:08:58.31,0:09:00.36,Bot,,0000,0000,0000,,Hey, Swimmer Jeong Joon Hyeong.
+Dialogue: 0,0:08:59.00,0:09:03.00,Top,,0000,0000,0000,,oyintoluhi_511:  His new hairstyle is so cute
+Dialogue: 0,0:09:00.36,0:09:02.83,Bot,,0000,0000,0000,,You know me, right? Choi Tae Woon.
+Dialogue: 0,0:09:02.00,0:09:06.00,Top,,0000,0000,0000,,getaway0713_248:  Hi
+Dialogue: 0,0:09:02.83,0:09:06.22,Bot,,0000,0000,0000,,I'm Choi Tae Woon's coach. Can we talk for a minute?
+Dialogue: 0,0:09:04.00,0:09:08.00,Top,,0000,0000,0000,,moaastrom_190:  Jota? De hell? What he doin here?
+Dialogue: 0,0:09:06.22,0:09:09.53,Bot,,0000,0000,0000,,Aren't you already talking to me?
+Dialogue: 0,0:09:08.00,0:09:12.00,Top,,0000,0000,0000,,mariya_isse_abdi:  Jota ??!!
+Dialogue: 0,0:09:10.33,0:09:12.35,Bot,,0000,0000,0000,,I have a favor to ask.
+Dialogue: 0,0:09:11.00,0:09:15.00,Top,,0000,0000,0000,,coolcutepanda_611:  The guy from cheese in a trap ❤️
+Dialogue: 0,0:09:12.35,0:09:15.81,Bot,,0000,0000,0000,,Could you be Tae Woon's personal training partner?
+Dialogue: 0,0:09:16.31,0:09:18.29,Bot,,0000,0000,0000,,Be his personal training partner?
+Dialogue: 0,0:09:17.00,0:09:21.00,Top,,0000,0000,0000,,funnystuf3000_49:  "arent u already talking to me" SAVAGE MAN, JUST SAVAGE
+Dialogue: 0,0:09:18.29,0:09:21.75,Bot,,0000,0000,0000,,Our Tae Woon doesn't like training at Taerung.
+Dialogue: 0,0:09:21.00,0:09:25.00,Top,,0000,0000,0000,,courtneyglover08_135:  Jota!!
+Dialogue: 0,0:09:21.75,0:09:24.89,Bot,,0000,0000,0000,,So we're wondering if he should do some personal training.
+Dialogue: 0,0:09:24.89,0:09:28.29,Bot,,0000,0000,0000,,I can enjoy training if I practice with someone in the similar level that's even a practice record.
+Dialogue: 0,0:09:27.00,0:09:31.00,Top,,0000,0000,0000,,jdolma57_555:  Why all kdrama has sickness 
+Dialogue: 0,0:09:28.78,0:09:33.08,Bot,,0000,0000,0000,,It's good to give motivation to each other, kind of a win-win situation.
+Dialogue: 0,0:09:30.00,0:09:34.00,Top,,0000,0000,0000,,seungkwans:  wHOOP WHOOP
+Dialogue: 0,0:09:33.00,0:09:37.00,Top,,0000,0000,0000,,cissavty:  WinWin? From NCT?
+Dialogue: 0,0:09:35.00,0:09:39.00,Top,,0000,0000,0000,,withlove_ells_645:  suspect material
+Dialogue: 0,0:09:36.77,0:09:38.55,Bot,,0000,0000,0000,,Ah, this is an honor.
+Dialogue: 0,0:09:38.55,0:09:43.19,Bot,,0000,0000,0000,,When can a disqualified swimmer like me practice with a world-known swimming star like you?
+Dialogue: 0,0:09:40.00,0:09:44.00,Top,,0000,0000,0000,,tymu94_618:   Goddam in kdramas, everyone is hot 
+Dialogue: 0,0:09:43.00,0:09:47.00,Top,,0000,0000,0000,,daccu3111_601:  no bromance pls
+Dialogue: 0,0:09:43.19,0:09:49.29,Bot,,0000,0000,0000,,But I sleep a lot in the early mornings, so it would be hard for me to do early morning training.
+Dialogue: 0,0:09:49.00,0:09:53.00,Top,,0000,0000,0000,,jdolma57_555:  This boys are killing me with their looks
+Dialogue: 0,0:09:49.29,0:09:51.25,Bot,,0000,0000,0000,,On the weekends, you have to rest.
+Dialogue: 0,0:09:51.25,0:09:54.83,Bot,,0000,0000,0000,,Also, I'm picky about the water quality so we have to practice at my school pool.
+Dialogue: 0,0:09:55.00,0:09:59.00,Top,,0000,0000,0000,,ardaobi_804:  my cheese in a trap babies are here....lol
+Dialogue: 0,0:09:55.74,0:09:57.73,Bot,,0000,0000,0000,,Would you be able to adjust your practice to mine?
+Dialogue: 0,0:09:59.00,0:10:03.00,Top,,0000,0000,0000,,yuri_tan:  China 🇨🇳🇨🇳🇨🇳
+Dialogue: 0,0:10:00.65,0:10:05.06,Bot,,0000,0000,0000,,It won't do, right? It's fine, I thought so.
+Dialogue: 0,0:10:07.00,0:10:11.00,Top,,0000,0000,0000,,z_sensei:  he was so cute with jacked up teeth and he's still cute after braces
+Dialogue: 0,0:10:12.00,0:10:16.00,Top,,0000,0000,0000,,limparion:  He's hiding something, though...
+Dialogue: 0,0:10:14.81,0:10:17.15,Bot,,0000,0000,0000,,It's so heavy.
+Dialogue: 0,0:10:17.15,0:10:19.07,Bot,,0000,0000,0000,,Aish, really.
+Dialogue: 0,0:10:19.07,0:10:20.40,Bot,,0000,0000,0000,,Ah, so annoying!
+Dialogue: 0,0:10:20.40,0:10:23.11,Bot,,0000,0000,0000,,Why do we have to do this all the time?
+Dialogue: 0,0:10:21.00,0:10:25.00,Top,,0000,0000,0000,,epiclyawesome012501:  The lift weighs for sports but carrying plastic chairs is straining? Huhn
+Dialogue: 0,0:10:23.11,0:10:24.30,Bot,,0000,0000,0000,,Until when...
+Dialogue: 0,0:10:24.30,0:10:27.70,Bot,,0000,0000,0000,,- Ow. \N- It's not like they're paying us.
+Dialogue: 0,0:10:25.00,0:10:29.00,Top,,0000,0000,0000,,chalicewright_230:  im glad he's playing the lead role though cuz in cheese in that trap i was wishing he played the lead role
+Dialogue: 0,0:10:27.70,0:10:29.56,Bot,,0000,0000,0000,,Come out, come out.
+Dialogue: 0,0:10:32.00,0:10:36.00,Top,,0000,0000,0000,,jdolma57_555:  I wish I was Korean too
+
+Dialogue: 0,0:10:34.48,0:10:35.39,Bot,,0000,0000,0000,,Come out.
+Dialogue: 0,0:10:35.39,0:10:39.22,Bot,,0000,0000,0000,,Hey, you guys. We need to lay out the chairs, will you move?
+Dialogue: 0,0:10:38.00,0:10:42.00,Top,,0000,0000,0000,,mangopopkatfanlol_367:  Dont wish to be a different culture nor race, you should be happy for who you are and for your culture.
+Dialogue: 0,0:10:40.66,0:10:45.81,Bot,,0000,0000,0000,,Hey, are you deaf? I said move, so we can lay out the chairs.
+Dialogue: 0,0:10:46.00,0:10:50.00,Top,,0000,0000,0000,,empressvenom:  OH! THIS BITCH! WITH THE BALL THAT WILL NOW BE SHOVED UP HER ASS!!! YES THAT TWIRLING HO BAG! XD
+Dialogue: 0,0:10:50.00,0:10:54.00,Top,,0000,0000,0000,,seungkwans:  tRY ME BITCH
+Dialogue: 0,0:10:50.21,0:10:51.16,Bot,,0000,0000,0000,,Hey!
+Dialogue: 0,0:10:51.16,0:10:54.13,Bot,,0000,0000,0000,,Hey, hey, hey. Weightlifter.
+Dialogue: 0,0:10:54.00,0:10:58.00,Top,,0000,0000,0000,,allayna01_66:  If shes not moving then shes going to be knocked over
+Dialogue: 0,0:10:54.13,0:10:59.59,Bot,,0000,0000,0000,,Why are you disturbing someone in the middle of practice? Just lay out the chairs on this side first.
+Dialogue: 0,0:10:59.00,0:11:03.00,Top,,0000,0000,0000,,aer_jade13_184:  waaaaaaa is that the girl from sassy go go?
+Dialogue: 0,0:11:00.61,0:11:01.78,Bot,,0000,0000,0000,,Yes.
+Dialogue: 0,0:11:01.00,0:11:05.00,Top,,0000,0000,0000,,lizlovable_914:  NO NO NO NO NOT HER AGAIN NO
+Dialogue: 0,0:11:01.78,0:11:04.00,Bot,,0000,0000,0000,,They are going crazy.
+Dialogue: 0,0:11:04.00,0:11:07.12,Bot,,0000,0000,0000,,Aigoo, how sad. They're so pitiful.
+Dialogue: 0,0:11:06.00,0:11:10.00,Top,,0000,0000,0000,,prettymonelle_847:  Omdss it her from school 2015 the bully but guy we cant lie she was good at begging a bully like her acting eat good 
+Dialogue: 0,0:11:07.12,0:11:08.18,Bot,,0000,0000,0000,,Who are you trying to pick a fight with?
+Dialogue: 0,0:11:08.18,0:11:10.20,Bot,,0000,0000,0000,,Ahjumma, just lay out the chairs.
+Dialogue: 0,0:11:10.20,0:11:12.09,Bot,,0000,0000,0000,,Did you see them laughing at us?
+Dialogue: 0,0:11:12.09,0:11:15.30,Bot,,0000,0000,0000,,I am going to break those gymnasts' chopsticks!
+Dialogue: 0,0:11:15.30,0:11:19.56,Bot,,0000,0000,0000,,Leave them alone. We have to be on the same physical level to have a proper conversation.
+Dialogue: 0,0:11:18.00,0:11:22.00,Top,,0000,0000,0000,,cissavty:  She's so cute~
+Dialogue: 0,0:11:20.60,0:11:23.40,Bot,,0000,0000,0000,,I knew it would happen.
+Dialogue: 0,0:11:21.00,0:11:25.00,Top,,0000,0000,0000,,seungkwans:  OH ITS ON
+Dialogue: 0,0:11:23.40,0:11:26.95,Bot,,0000,0000,0000,,Why did they bother us? I knew it.
+Dialogue: 0,0:11:24.00,0:11:28.00,Top,,0000,0000,0000,,alena_hollingshead_559:  OH shit
+Dialogue: 0,0:11:26.95,0:11:28.42,Bot,,0000,0000,0000,,How dare they to us?
+Dialogue: 0,0:11:28.00,0:11:32.00,Top,,0000,0000,0000,,vesa2002kelani_909:  she should just pick her up and throw her
+Dialogue: 0,0:11:28.42,0:11:31.75,Bot,,0000,0000,0000,,Oh, sorry. Can you give me the ball?
+Dialogue: 0,0:11:30.00,0:11:34.00,Top,,0000,0000,0000,,sararocks247_287:  Wow seriously to a weightlifter
+Aren't they like hecka strong
+Dialogue: 0,0:11:34.00,0:11:38.00,Top,,0000,0000,0000,,rose_shn:  omg i love her eyes *-* Shes soooo pretty
+Dialogue: 0,0:11:37.00,0:11:41.00,Top,,0000,0000,0000,,cleoninamartin_104:  O-oh I can give you the ball *bang*
+Dialogue: 0,0:11:41.00,0:11:45.00,Top,,0000,0000,0000,,ladyanna_walker_17:  I just she has some beautiful eyes.
+Dialogue: 0,0:11:47.00,0:11:51.00,Top,,0000,0000,0000,,bluequeen796_997:  The girl with the ball she from who are you school 2015
+Dialogue: 0,0:11:52.00,0:11:56.00,Top,,0000,0000,0000,,bluequeen796_997:  It a great move to twin sis got separate 
+Dialogue: 0,0:11:58.00,0:12:02.00,Top,,0000,0000,0000,,empressvenom:  yeah, that what I thought, basic bitches be starting shit they can't finish!! XD LOL
+Dialogue: 0,0:11:58.53,0:12:02.80,Bot,,0000,0000,0000,,Ah, sorry. I can't control my strength that well.
+Dialogue: 0,0:12:00.00,0:12:04.00,Top,,0000,0000,0000,,d_sarahy:  LOL 😂
+Dialogue: 0,0:12:04.00,0:12:08.00,Top,,0000,0000,0000,,lowkeyjimin:  I love her 😂😂👍🏼
+Dialogue: 0,0:12:08.00,0:12:10.21,Bot,,0000,0000,0000,,Ah, this is the last one. Ugh.
+Dialogue: 0,0:12:08.00,0:12:12.00,Top,,0000,0000,0000,,arianavbc_836:  Me encanta que no se deje ❤️
+Dialogue: 0,0:12:12.06,0:12:15.58,Bot,,0000,0000,0000,,Ah, really.
+Dialogue: 0,0:12:14.00,0:12:18.00,Top,,0000,0000,0000,,zebisuki_990:  Is that bich from school 2015 ?
+Dialogue: 0,0:12:18.00,0:12:22.00,Top,,0000,0000,0000,,d_sarahy:  Oh hell to the NO
+Dialogue: 0,0:12:21.00,0:12:25.00,Top,,0000,0000,0000,,paulinha_nunes_312:  Omg, this girl is asking for it
+Dialogue: 0,0:12:21.28,0:12:24.52,Bot,,0000,0000,0000,,- Bok Joo, are you okay?\N - Are you okay?
+Dialogue: 0,0:12:24.00,0:12:28.00,Top,,0000,0000,0000,,cervesita17_975:  can someone just punch her
+Dialogue: 0,0:12:27.00,0:12:31.00,Top,,0000,0000,0000,,sanhawae_942:  IM-
+Dialogue: 0,0:12:27.07,0:12:28.47,Bot,,0000,0000,0000,,Can you stand up?
+Dialogue: 0,0:12:28.47,0:12:31.44,Bot,,0000,0000,0000,,Look at her.
+Dialogue: 0,0:12:31.00,0:12:35.00,Top,,0000,0000,0000,,funnystuf3000_49:  LEMME SLAP THOSE BITCHES
+Dialogue: 0,0:12:31.44,0:12:34.29,Bot,,0000,0000,0000,,Those jerks.
+Dialogue: 0,0:12:33.00,0:12:37.00,Top,,0000,0000,0000,,amrita97:  Wtf bitch... I would have slap shit outa that bitch... 
+Dialogue: 0,0:12:34.29,0:12:37.73,Bot,,0000,0000,0000,,Oh, human tsunami.
+Dialogue: 0,0:12:36.00,0:12:40.00,Top,,0000,0000,0000,,tara47:  Oh it's bout to go down
+Dialogue: 0,0:12:37.73,0:12:41.46,Bot,,0000,0000,0000,,Get up.
+Dialogue: 0,0:12:38.00,0:12:42.00,Top,,0000,0000,0000,,maribushito:  Thats really dangerouuuus in a place where there is only athletes
+Dialogue: 0,0:12:43.00,0:12:47.00,Top,,0000,0000,0000,,jdolma57_555:  Shit happens
+Dialogue: 0,0:12:46.00,0:12:50.00,Top,,0000,0000,0000,,yasylinia:  So funny how ladylike she was in cheese in the trap and now that xD I love her haha
+Dialogue: 0,0:12:49.00,0:12:53.00,Top,,0000,0000,0000,,kadja0:  If that bitch did it to me im gonna make ill break her ugly face!!!!😡
+Dialogue: 0,0:12:52.00,0:12:56.00,Top,,0000,0000,0000,,enqi_lai_852:  Chile☝️️
+Dialogue: 0,0:12:56.00,0:13:00.00,Top,,0000,0000,0000,,habooobie:  Lee Jong Suk comment lol hope you didn't think that it was him 
+Dialogue: 0,0:12:59.00,0:13:03.00,Top,,0000,0000,0000,,mariacamposdebaixo_939:   references to W .... ??😱😍
+Dialogue: 0,0:13:02.00,0:13:06.00,Top,,0000,0000,0000,,habooobie:  Not really yea
+Dialogue: 0,0:13:03.64,0:13:06.55,Bot,,0000,0000,0000,,I've already eaten but I'm still hungry!
+Dialogue: 0,0:13:05.00,0:13:09.00,Top,,0000,0000,0000,,d_sarahy:  That makes 2 of us. 😒
+Dialogue: 0,0:13:06.55,0:13:09.68,Bot,,0000,0000,0000,,- I should eat a sausage. \N- Hey, how many did you bring?
+Dialogue: 0,0:13:09.68,0:13:13.84,Bot,,0000,0000,0000,,Give me one. Hey, Weightlifter Kim, cheer up already!
+Dialogue: 0,0:13:12.00,0:13:16.00,Top,,0000,0000,0000,,bbdderyuudi_641:  love it already
+Dialogue: 0,0:13:13.84,0:13:15.19,Bot,,0000,0000,0000,,Just think like you stepped on dog poop (got bad luck).
+Dialogue: 0,0:13:15.19,0:13:20.30,Bot,,0000,0000,0000,,Stepping on dog poop would be better! What an embarrassment.
+Dialogue: 0,0:13:16.00,0:13:20.00,Top,,0000,0000,0000,,francine_mo:  I really hate her hair cut....
+Dialogue: 0,0:13:19.00,0:13:23.00,Top,,0000,0000,0000,,jaimelechocolat8330_225:  elle avait du caractère dans cheese in the trap ca fait bizarre de la voir comme ca
+Dialogue: 0,0:13:20.30,0:13:23.81,Bot,,0000,0000,0000,,Hey, should I just drop out? Or should I just stick my nose in a bowl of water and die?
+Dialogue: 0,0:13:23.00,0:13:27.00,Top,,0000,0000,0000,,sonyeondan:  She's a model so i would assume she's taller than the average girl
+Dialogue: 0,0:13:23.81,0:13:29.63,Bot,,0000,0000,0000,,Hey, hey, it's okay. Even if the rumors circulate today and tomorrow, they'll disappear soon.
+Dialogue: 0,0:13:25.00,0:13:29.00,Top,,0000,0000,0000,,habooobie:  She's 5'9
+Dialogue: 0,0:13:28.00,0:13:32.00,Top,,0000,0000,0000,,d_sarahy:  The short actress is cute, too. They all r unique
+Dialogue: 0,0:13:31.87,0:13:37.29,Bot,,0000,0000,0000,,I'll be generous. Eat this lovely sausage and cheer up.
+Dialogue: 0,0:13:32.00,0:13:36.00,Top,,0000,0000,0000,,yvodramatic:  She's 5'9
+Dialogue: 0,0:13:34.00,0:13:38.00,Top,,0000,0000,0000,,jadamaee21_391:  That short girl is from "Cinderella and the Four Knights."
+Dialogue: 0,0:13:37.29,0:13:40.80,Bot,,0000,0000,0000,,Yeah. Cheer up Bok Joo. She's making this much of an effort.
+Dialogue: 0,0:13:38.00,0:13:42.00,Top,,0000,0000,0000,,ncedillos23_202:  I think its fake its not raining lol 
+Dialogue: 0,0:13:42.00,0:13:46.00,Top,,0000,0000,0000,,firedragon819:  Cinderella and four knights feels rn 
+Dialogue: 0,0:13:44.85,0:13:49.38,Bot,,0000,0000,0000,,Weightlifting Fairy Kim Bok Joo! Milky skin Kim Bok Joo!
+Dialogue: 0,0:13:47.00,0:13:51.00,Top,,0000,0000,0000,,100002541393814_321:  She 5,9 really then she should be my gf lol i m 5,9 2 😍😂
+Dialogue: 0,0:13:49.38,0:13:50.32,Bot,,0000,0000,0000,,Stop it.
+Dialogue: 0,0:13:50.32,0:13:52.26,Bot,,0000,0000,0000,,Sausage.
+Dialogue: 0,0:13:52.00,0:13:56.00,Top,,0000,0000,0000,,lakreolya_637:  Awww
+Dialogue: 0,0:13:52.26,0:13:55.12,Bot,,0000,0000,0000,,Shall I have a sausage, since two of weightlifters are asking so earnestly?
+Dialogue: 0,0:13:55.00,0:13:59.00,Top,,0000,0000,0000,,yeojaone:  Lee Sung Kyung is really tall, about 5'9 or 176 cm i believe
+Dialogue: 0,0:13:55.12,0:13:56.85,Bot,,0000,0000,0000,,Of course.
+Dialogue: 0,0:13:57.00,0:14:01.00,Top,,0000,0000,0000,,hechos120de_1d_515:  La chica de pelo corto me recordó a Amber xD
+Dialogue: 0,0:14:00.00,0:14:04.00,Top,,0000,0000,0000,,jdolma57_555:  I miss my friends
+Dialogue: 0,0:14:02.22,0:14:06.41,Bot,,0000,0000,0000,,If many of us went there...
+Dialogue: 0,0:14:04.00,0:14:08.00,Top,,0000,0000,0000,,salwa_zozo_277:  Yeaaaahh I was Waiting for their first meeting
+Dialogue: 0,0:14:07.80,0:14:09.56,Bot,,0000,0000,0000,,How many do you have?
+Dialogue: 0,0:14:09.00,0:14:13.00,Top,,0000,0000,0000,,osjdjs_709:  YALL I CALLED IT
+Dialogue: 0,0:14:09.56,0:14:10.92,Bot,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:14:10.92,0:14:12.69,Bot,,0000,0000,0000,,Oh!
+Dialogue: 0,0:14:12.00,0:14:16.00,Top,,0000,0000,0000,,osjdjs_709:  now they're gonna stand up and b like "what r U doin hmm heee JEJSJSJ an" and fight and then see each other later and then fall in love
+Dialogue: 0,0:14:14.24,0:14:16.42,Bot,,0000,0000,0000,,Omo, Weightlifter Kim!
+Dialogue: 0,0:14:15.00,0:14:19.00,Top,,0000,0000,0000,,d_sarahy:  & Down goes the sausage. 
+Dialogue: 0,0:14:16.42,0:14:19.42,Bot,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:14:19.00,0:14:23.00,Top,,0000,0000,0000,,johnvarn7_750:  Wtf il s'est passé quoi c'était quoi cette grosse voix😂😂😂😂😂
+Dialogue: 0,0:14:19.42,0:14:21.77,Bot,,0000,0000,0000,,WHAT?
+Dialogue: 0,0:14:22.00,0:14:26.00,Top,,0000,0000,0000,,flowerduet:  OMG 😂😂😂
+Dialogue: 0,0:14:25.00,0:14:29.00,Top,,0000,0000,0000,,friedkimchi:  Was the Lil Jon's voice?
+Dialogue: 0,0:14:27.19,0:14:29.84,Bot,,0000,0000,0000,,I thought I cut off a finger.
+Dialogue: 0,0:14:28.00,0:14:32.00,Top,,0000,0000,0000,,ohrtance:  @LC yes haha
+Dialogue: 0,0:14:30.00,0:14:34.00,Top,,0000,0000,0000,,jtsui4020_543:  LOL 
+Dialogue: 0,0:14:33.00,0:14:37.00,Top,,0000,0000,0000,,djfhigibttrbrbgrbt_473:  Hot
+Dialogue: 0,0:14:36.29,0:14:38.01,Bot,,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:14:37.00,0:14:41.00,Top,,0000,0000,0000,,eviehan:  Don't think he was thinking "finger"
+Dialogue: 0,0:14:38.01,0:14:39.73,Bot,,0000,0000,0000,,I'm fine, but
+Dialogue: 0,0:14:39.73,0:14:42.94,Bot,,0000,0000,0000,,I think my sausage just died.
+Dialogue: 0,0:14:41.00,0:14:45.00,Top,,0000,0000,0000,,khryhstall_636:  #sausagelivesmatter
+Dialogue: 0,0:14:42.94,0:14:46.40,Bot,,0000,0000,0000,,You should've kept the proper speed in the school yard. Don't you know "keep eyes forward"?
+Dialogue: 0,0:14:44.00,0:14:48.00,Top,,0000,0000,0000,,alena_hollingshead_559:  lmao
+Dialogue: 0,0:14:46.00,0:14:50.00,Top,,0000,0000,0000,,jozmorn98_58:  Ella tiene unos ojos hermosos 😍
+Dialogue: 0,0:14:46.40,0:14:49.56,Bot,,0000,0000,0000,,Then do you want me to pray for the soul of the departed sausage?
+Dialogue: 0,0:14:49.56,0:14:51.87,Bot,,0000,0000,0000,,What did you say "praying for"?
+Dialogue: 0,0:14:50.00,0:14:54.00,Top,,0000,0000,0000,,casthee:  so petty for a convinience store sasauge
+Dialogue: 0,0:14:52.87,0:14:58.11,Bot,,0000,0000,0000,,But have I seen you somewhere? You look familiar.
+Dialogue: 0,0:14:56.00,0:15:00.00,Top,,0000,0000,0000,,gail_d_533:  Its a Cheese In the Trap actor reunion - let's count how many we can round up...
+Dialogue: 0,0:14:58.00,0:15:02.00,Top,,0000,0000,0000,,djfhigibttrbrbgrbt_473:  Hiiii paris
+Dialogue: 0,0:14:58.11,0:14:59.52,Bot,,0000,0000,0000,,What?
+Dialogue: 0,0:15:00.36,0:15:03.49,Bot,,0000,0000,0000,,I'm sure I've seen this face before...
+Dialogue: 0,0:15:01.00,0:15:05.00,Top,,0000,0000,0000,,lony87:  Yeah you are both under YG ENTERTAINMENT  🌚
+Dialogue: 0,0:15:05.00,0:15:09.00,Top,,0000,0000,0000,,rc137:  She has pretty eyes.
+Dialogue: 0,0:15:07.55,0:15:13.45,Bot,,0000,0000,0000,,That's because she participated in the National Games and the article about it came out on the bulletin board.
+Dialogue: 0,0:15:09.00,0:15:13.00,Top,,0000,0000,0000,,maribushito:  Can we all agree we shippp? Good
+Dialogue: 0,0:15:14.00,0:15:18.00,Top,,0000,0000,0000,,stargirl714:  yes he was also in cheese in the trap, he was with bora XD love both of them
+Dialogue: 0,0:15:15.94,0:15:21.23,Bot,,0000,0000,0000,,Anyhow, I apologize for this death but I also have a misfortune today, so...
+Dialogue: 0,0:15:17.00,0:15:21.00,Top,,0000,0000,0000,,mariacamposdebaixo_939:  Omg i love W omg omg  im crying 😭😭😭
+Dialogue: 0,0:15:20.00,0:15:24.00,Top,,0000,0000,0000,,mellduckie_887:  Isn't he from Scarlet Heart Ryeo and not Cheese in the trap? She's from Cheese in the trap.
+Dialogue: 0,0:15:21.23,0:15:27.36,Bot,,0000,0000,0000,,Oh, excuse me, this may seem out of the blue in this situation,
+Dialogue: 0,0:15:22.00,0:15:26.00,Top,,0000,0000,0000,,evelynpagayon_35:  Disclaimer: No Sausage was Harmed in the Making of this Drama
+Dialogue: 0,0:15:27.36,0:15:31.39,Bot,,0000,0000,0000,,but do you possibly like Messi? {\i1}(Famous Argentine soccer player){\i0}
+Dialogue: 0,0:15:30.00,0:15:34.00,Top,,0000,0000,0000,,khryhstall_636:  Do you really have to say who Messi is? He doesn't need an introduction because the god of soccer
+Dialogue: 0,0:15:32.00,0:15:36.00,Top,,0000,0000,0000,,evelynpagayon_35:  Messi is awesome but he's short only 5'6"/5'7", I like Ronaldo more, awesome player and 6'1" 😻
+Dialogue: 0,0:15:32.52,0:15:33.94,Bot,,0000,0000,0000,,Pardon?
+Dialogue: 0,0:15:33.94,0:15:36.60,Bot,,0000,0000,0000,,Never mind, it's a bit sudden, right?
+Dialogue: 0,0:15:36.00,0:15:40.00,Top,,0000,0000,0000,,eclectic20:  Not everyone, we all have our own interests ( soccer/football is not one of mine) 
+Dialogue: 0,0:15:36.60,0:15:40.29,Bot,,0000,0000,0000,,Then, please be careful on your way.
+Dialogue: 0,0:15:39.00,0:15:43.00,Top,,0000,0000,0000,,jestemtora_559:  she's so kawaii omg
+Dialogue: 0,0:15:40.29,0:15:42.28,Bot,,0000,0000,0000,,Depart!
+Dialogue: 0,0:15:41.00,0:15:45.00,Top,,0000,0000,0000,,epiclyawesome012501:  Randomly mentioned Messi. I have a FBC Barcelona hoodie! 
+Dialogue: 0,0:15:44.28,0:15:46.94,Bot,,0000,0000,0000,,Okay! Alright! Be careful.
+Dialogue: 0,0:15:45.00,0:15:49.00,Top,,0000,0000,0000,,ruben_valenzuela7_786:  Meeesssi 😊best soccer player ever❤️❤️❤️
+Dialogue: 0,0:15:47.96,0:15:50.15,Bot,,0000,0000,0000,,Depart!
+Dialogue: 0,0:15:48.00,0:15:52.00,Top,,0000,0000,0000,,rafaella_9:  The short actress is so cute !!!
+Dialogue: 0,0:15:50.15,0:15:52.99,Bot,,0000,0000,0000,,Aish, his way of talking is seriously annoying.
+Dialogue: 0,0:15:51.00,0:15:55.00,Top,,0000,0000,0000,,jiwoo_exo:  messi is a bitch ... RONALDO ROCKS
+Dialogue: 0,0:15:52.99,0:15:54.74,Bot,,0000,0000,0000,,Maybe I should have gotten the price of the sausage out of him.
+Dialogue: 0,0:15:53.00,0:15:57.00,Top,,0000,0000,0000,,kita_cellhy_jimenez:  She's too cute 😍
+Dialogue: 0,0:15:54.74,0:15:57.16,Bot,,0000,0000,0000,,What's wrong? He's so fresh.
+Dialogue: 0,0:15:56.00,0:16:00.00,Top,,0000,0000,0000,,sanhawae_942:  THIS GIVES ME ANXIETY 
+Dialogue: 0,0:15:57.16,0:16:00.61,Bot,,0000,0000,0000,,Don't you know him? He's the famous flower boy swimmer.
+Dialogue: 0,0:16:00.61,0:16:03.66,Bot,,0000,0000,0000,,Flower boy, my ass. I'm sure it's "common," not "flower boy".
+Dialogue: 0,0:16:03.00,0:16:07.00,Top,,0000,0000,0000,,minecraftgirl11_648:  Messi is gay he makes every ball his bitch😏😏😂
+Dialogue: 0,0:16:03.66,0:16:05.44,Bot,,0000,0000,0000,,His face is just common.
+Dialogue: 0,0:16:05.44,0:16:07.98,Bot,,0000,0000,0000,,But what did you say to him earlier? Something about Messi?
+Dialogue: 0,0:16:06.00,0:16:10.00,Top,,0000,0000,0000,,jukestaposition:  OMG SHE SOUNDS LIKE BAEK IN HA (CHEESE IN THE TRAP) LOL
+Dialogue: 0,0:16:07.98,0:16:10.93,Bot,,0000,0000,0000,,"Excuse me, but do you like Messi?"
+Dialogue: 0,0:16:09.00,0:16:13.00,Top,,0000,0000,0000,,dark_shinobi:  Shut up about Cheese in the Trap seriously y'ass are annoying ass fuck
+Dialogue: 0,0:16:10.93,0:16:12.57,Bot,,0000,0000,0000,,It's my best tip.
+Dialogue: 0,0:16:12.57,0:16:16.54,Bot,,0000,0000,0000,,Men are attracted to women who have the same common interests as them.
+Dialogue: 0,0:16:14.00,0:16:18.00,Top,,0000,0000,0000,,dark_shinobi:  Shut the fuck up about Cheese in the Trap. Y'all are annoying as fuck
+Dialogue: 0,0:16:16.54,0:16:18.31,Bot,,0000,0000,0000,,What do guys like the most?
+Dialogue: 0,0:16:18.31,0:16:21.77,Bot,,0000,0000,0000,,Sports. Among sports, soccer!
+Dialogue: 0,0:16:19.00,0:16:23.00,Top,,0000,0000,0000,,iygyuv_3:  Although it was too random
+Dialogue: 0,0:16:21.77,0:16:28.18,Bot,,0000,0000,0000,,He'll want to have a glass of alcohol with a woman who like Messi.
+Dialogue: 0,0:16:23.00,0:16:27.00,Top,,0000,0000,0000,,bageljams:  LOL I was going to comment that. She does look like F(x)'s Amber..
+Dialogue: 0,0:16:25.00,0:16:29.00,Top,,0000,0000,0000,,145254182585991_265:  She reminds me more of the girl from twice wig short hair
+Dialogue: 0,0:16:28.18,0:16:31.20,Bot,,0000,0000,0000,,That seems possible. Doesn't that seem convincing?
+Dialogue: 0,0:16:30.00,0:16:34.00,Top,,0000,0000,0000,,miamomonkeys_933:  The one girl looks a lot like Amber...
+Dialogue: 0,0:16:31.20,0:16:33.57,Bot,,0000,0000,0000,,You're really passionate about blabbering nonsense.
+Dialogue: 0,0:16:32.00,0:16:36.00,Top,,0000,0000,0000,,linnamlange_842:  The short haired girl looks like Amber and I love it xD WHERES MY LLAMA SQUAD
+Dialogue: 0,0:16:33.57,0:16:35.48,Bot,,0000,0000,0000,,Don't talk back what you're saying.
+Dialogue: 0,0:16:35.00,0:16:39.00,Top,,0000,0000,0000,,ashurichan24:  That's not amber that's lee joo young
+Dialogue: 0,0:16:35.48,0:16:40.47,Bot,,0000,0000,0000,,Aish, what do you mean, what nonsense am I saying? \N "Do you like Messi?"
+Dialogue: 0,0:16:40.00,0:16:44.00,Top,,0000,0000,0000,,jordi_jcan_283:   Omg she doesn't look anything like Amber.
+Dialogue: 0,0:16:41.63,0:16:45.45,Bot,,0000,0000,0000,,Ah, why am I so unlucky today?
+Dialogue: 0,0:16:44.00,0:16:48.00,Top,,0000,0000,0000,,may_mgbee_562:  Ah this girl reminds me of bobby ikon somehow 😂👌🏻
+Dialogue: 0,0:16:45.45,0:16:49.73,Bot,,0000,0000,0000,,Oh, I think that jerk dropped this.
+Dialogue: 0,0:16:49.00,0:16:53.00,Top,,0000,0000,0000,,osjdjs_709:  OF COURSE HE DID
+Dialogue: 0,0:16:53.48,0:16:58.08,Bot,,0000,0000,0000,,Oh, look at this preferences. Is he a pervert or what?
+Dialogue: 0,0:16:54.00,0:16:58.00,Top,,0000,0000,0000,,chalicewright_230:  wait why is she mad at him? he didn't even do anything
+Dialogue: 0,0:16:56.00,0:17:00.00,Top,,0000,0000,0000,,ramendesu:  LOL
+Dialogue: 0,0:16:58.96,0:17:03.46,Bot,,0000,0000,0000,,Were you nervous before the match? Your thigh is so tense.
+Dialogue: 0,0:17:00.00,0:17:04.00,Top,,0000,0000,0000,,christine_hcmc_943:  how about the sausage what happened to the sausage
+Dialogue: 0,0:17:02.00,0:17:06.00,Top,,0000,0000,0000,,bandaanamaria_573:  I wanna be that doctor 
+Dialogue: 0,0:17:03.46,0:17:07.00,Bot,,0000,0000,0000,,It's not that, but I was a bit startled because of Sausage.
+Dialogue: 0,0:17:07.00,0:17:08.30,Bot,,0000,0000,0000,,Sausage?
+Dialogue: 0,0:17:07.00,0:17:11.00,Top,,0000,0000,0000,,xxuvjuliexx:  this so entertaining tho
+Dialogue: 0,0:17:08.30,0:17:10.41,Bot,,0000,0000,0000,,There's something like that.
+Dialogue: 0,0:17:12.00,0:17:16.00,Top,,0000,0000,0000,,cosmicgirl712:  I'm loving all these sausage hashtags! 😂😂😂
+Dialogue: 0,0:17:12.97,0:17:16.22,Bot,,0000,0000,0000,,Aren't you putting your personal feelings into this?
+Dialogue: 0,0:17:16.22,0:17:20.82,Bot,,0000,0000,0000,,Hey, I'm sorry but I don't feel anything for you.
+Dialogue: 0,0:17:17.00,0:17:21.00,Top,,0000,0000,0000,,lizlovable_914:  omg 😂😂
+Dialogue: 0,0:17:20.82,0:17:25.70,Bot,,0000,0000,0000,,That can't be. With a thigh like this, your heart should flutter a bit.
+Dialogue: 0,0:17:21.00,0:17:25.00,Top,,0000,0000,0000,,newrachelle:  LMAO why is her voice so different in this drama?
+Dialogue: 0,0:17:25.00,0:17:29.00,Top,,0000,0000,0000,,amari_serrano_102:  #fuckboyalert
+Dialogue: 0,0:17:25.70,0:17:29.78,Bot,,0000,0000,0000,,Aigoo, please try to make my heart flutter.
+Dialogue: 0,0:17:28.00,0:17:32.00,Top,,0000,0000,0000,,queensaarah_12:  *2 words*. Fuckkkkk boiiii
+Dialogue: 0,0:17:29.78,0:17:33.97,Bot,,0000,0000,0000,,All done. Just be careful for today. And massage it once more before going to bed.
+Dialogue: 0,0:17:32.00,0:17:36.00,Top,,0000,0000,0000,,kkuhaulua211_809:  Oh hae yong
+Dialogue: 0,0:17:33.97,0:17:37.62,Bot,,0000,0000,0000,,I understand. Thank you.
+Dialogue: 0,0:17:35.00,0:17:39.00,Top,,0000,0000,0000,,sonyeondan:  Girl you're made of steal cuz i wouldn't resist
+Dialogue: 0,0:17:38.00,0:17:42.00,Top,,0000,0000,0000,,ly_artist_998:  Doctor Crush
+Dialogue: 0,0:17:42.00,0:17:46.00,Top,,0000,0000,0000,,cate35:  She's was doc in doctors
+Dialogue: 0,0:17:45.00,0:17:49.00,Top,,0000,0000,0000,,minecraftgirl11_648:  Where my condoms at??😂😂
+Dialogue: 0,0:17:48.00,0:17:52.00,Top,,0000,0000,0000,,busayo_omonijo:  Omo..she's from one more happy ending 
+Dialogue: 0,0:17:51.10,0:17:53.65,Bot,,0000,0000,0000,,What's wrong? Are you looking for something?
+Dialogue: 0,0:17:53.65,0:17:55.69,Bot,,0000,0000,0000,,No, no.
+Dialogue: 0,0:17:59.00,0:18:03.00,Top,,0000,0000,0000,,ggwolf_2000_960:  I can't believe I can talk in this! Gee what should I say? The last time I watched real Japanese/Korean I couldn't share those opinions...
+Dialogue: 0,0:18:00.60,0:18:02.48,Bot,,0000,0000,0000,,If you guys don't know, who does?
+Dialogue: 0,0:18:01.00,0:18:05.00,Top,,0000,0000,0000,,sanhawae_942:  FUCKING ADS 
+Dialogue: 0,0:18:02.48,0:18:05.29,Bot,,0000,0000,0000,,We're telling the truth. We gave you everything we pulled out of the washing machine.
+Dialogue: 0,0:18:04.00,0:18:08.00,Top,,0000,0000,0000,,kitchenprincess368_505:  She is a big fat ugly bitch
+Dialogue: 0,0:18:05.29,0:18:07.82,Bot,,0000,0000,0000,,You don't know what I went through to get that when I was in Canada.
+Dialogue: 0,0:18:07.82,0:18:11.92,Bot,,0000,0000,0000,,By any chance, couldn't this be the work of that big pig?
+Dialogue: 0,0:18:08.00,0:18:12.00,Top,,0000,0000,0000,,soman_shokori_431:  when**
+Dialogue: 0,0:18:11.00,0:18:15.00,Top,,0000,0000,0000,,amberose:  So those WERE panties?!?!?! OMGZ?!?
+Dialogue: 0,0:18:11.92,0:18:12.67,Bot,,0000,0000,0000,,What?
+Dialogue: 0,0:18:12.67,0:18:17.02,Bot,,0000,0000,0000,,The Weightlifting Club. Their washing machine breaks easily, so they use ours often.
+Dialogue: 0,0:18:15.00,0:18:19.00,Top,,0000,0000,0000,,mz_kpop01_601:  I fucking hate this bitch 
+Dialogue: 0,0:18:17.02,0:18:20.47,Bot,,0000,0000,0000,,They put on a big show because we left one piece of laundry before. They're doing it again just like last time!
+Dialogue: 0,0:18:19.00,0:18:23.00,Top,,0000,0000,0000,,senamara246_412:  I hope she's not a bitch in this one omg
+Dialogue: 0,0:18:20.47,0:18:22.03,Bot,,0000,0000,0000,,Hey, Weightlifters!
+Dialogue: 0,0:18:22.03,0:18:23.65,Bot,,0000,0000,0000,,Yes?
+Dialogue: 0,0:18:23.65,0:18:25.48,Bot,,0000,0000,0000,,Come here.
+Dialogue: 0,0:18:26.00,0:18:30.00,Top,,0000,0000,0000,,mharviamae_936:  The set is from sassy gogo and that bitch is from School 2015! Psh bitch
+Dialogue: 0,0:18:27.85,0:18:29.51,Bot,,0000,0000,0000,,You're first years right?
+Dialogue: 0,0:18:29.51,0:18:31.39,Bot,,0000,0000,0000,,Yes.
+Dialogue: 0,0:18:30.00,0:18:34.00,Top,,0000,0000,0000,,diana_blackjack10_575:  My internet is bad 😭
+Dialogue: 0,0:18:33.00,0:18:37.00,Top,,0000,0000,0000,,maryasoler_702:  Comoooooo la oooodioooo, si va a hacerle la vida imposible a la prota....mi odio crecerá XD
+Eso sí, su papel lo hace muy bien 
+Dialogue: 0,0:18:34.99,0:18:38.57,Bot,,0000,0000,0000,,You guys, did you see my tights?
+Dialogue: 0,0:18:37.00,0:18:41.00,Top,,0000,0000,0000,,camille2707:  Why are they afraid of them? They're stronger, no reason, she's just a weak bitch
+Dialogue: 0,0:18:38.57,0:18:41.47,Bot,,0000,0000,0000,,Did they not get mixed in with your laundry when you used our washing machine?
+Dialogue: 0,0:18:40.00,0:18:44.00,Top,,0000,0000,0000,,kandy09_fay:  and she is a mean girl here.. yikess
+Dialogue: 0,0:18:41.47,0:18:43.68,Bot,,0000,0000,0000,,No, it didn't.
+Dialogue: 0,0:18:43.68,0:18:45.15,Bot,,0000,0000,0000,,How could I believe that?
+Dialogue: 0,0:18:45.15,0:18:47.20,Bot,,0000,0000,0000,,Hey, what are you doing with our kids?
+Dialogue: 0,0:18:46.00,0:18:50.00,Top,,0000,0000,0000,,saadiyo:  She's always a bully
+Dialogue: 0,0:18:47.20,0:18:49.70,Bot,,0000,0000,0000,,- Sunbaenim!\N - Sunbaenim!
+Dialogue: 0,0:18:49.00,0:18:53.00,Top,,0000,0000,0000,,ggwolf_2000_960:  I like it when they say Dunbar I'm in unison!!
+Dialogue: 0,0:18:50.43,0:18:51.48,Bot,,0000,0000,0000,,What is it?
+Dialogue: 0,0:18:51.48,0:18:55.57,Bot,,0000,0000,0000,,This unni's clothes went missing, and she's telling us to give them.
+Dialogue: 0,0:18:54.00,0:18:58.00,Top,,0000,0000,0000,,chogi_wrong_75:  Shes so tall! Im glad someone is the same height as me 
+Dialogue: 0,0:18:55.57,0:19:00.45,Bot,,0000,0000,0000,,We really didn't use RG's washing machine because they complain so much these days.
+Dialogue: 0,0:18:57.00,0:19:01.00,Top,,0000,0000,0000,,taehyungismywaifu:  she is really tall
+Dialogue: 0,0:19:00.00,0:19:04.00,Top,,0000,0000,0000,,osjdjs_709:  EXPOSE HER
+Dialogue: 0,0:19:00.45,0:19:03.12,Bot,,0000,0000,0000,,Is that true?
+Dialogue: 0,0:19:03.12,0:19:04.38,Bot,,0000,0000,0000,,Yeah. I did.
+Dialogue: 0,0:19:04.38,0:19:05.23,Bot,,0000,0000,0000,,Do you have any evidence?
+Dialogue: 0,0:19:05.23,0:19:06.44,Bot,,0000,0000,0000,,Do you think I would make this up?
+Dialogue: 0,0:19:06.44,0:19:08.69,Bot,,0000,0000,0000,,I asked, do you have evidence that our kids took it?
+Dialogue: 0,0:19:07.00,0:19:11.00,Top,,0000,0000,0000,,ayan_20_703:  She's not very tall, they're just too short
+Dialogue: 0,0:19:08.69,0:19:11.55,Bot,,0000,0000,0000,,I don't have evidence but you have the previous convictions.
+Dialogue: 0,0:19:10.00,0:19:14.00,Top,,0000,0000,0000,,iltzzu96:  Actually she is pretty tall. She is 176cm.
+Dialogue: 0,0:19:11.55,0:19:14.36,Bot,,0000,0000,0000,,Is it once or twice that you used our washing machine?
+Dialogue: 0,0:19:14.36,0:19:17.49,Bot,,0000,0000,0000,,This is nothing to do with the previous convictions. You need to have evidence.
+Dialogue: 0,0:19:16.00,0:19:20.00,Top,,0000,0000,0000,,yeojaone:  shes 5'9
+Dialogue: 0,0:19:17.49,0:19:23.79,Bot,,0000,0000,0000,,That's why our society hasn't improved. Ex-convicts can't start their life anew at ease.
+Dialogue: 0,0:19:19.00,0:19:23.00,Top,,0000,0000,0000,,jozmorn98_58:  😍
+Dialogue: 0,0:19:23.00,0:19:27.00,Top,,0000,0000,0000,,danielavalle99_414:  Yas girl
+Dialogue: 0,0:19:24.63,0:19:29.04,Bot,,0000,0000,0000,,Don't uselessly bother our kids, got it?
+Dialogue: 0,0:19:26.00,0:19:30.00,Top,,0000,0000,0000,,stargirl714:  Omg her character reminds me of Ha Ji from Hot Blooded WOman (manhwa) by Hwang Mi Ri
+Dialogue: 0,0:19:31.32,0:19:33.10,Bot,,0000,0000,0000,,Let's go, kids.
+Dialogue: 0,0:19:34.24,0:19:36.92,Bot,,0000,0000,0000,,- Sunbaenim, you're the best!\N - Sunbaenim, you're the best!
+Dialogue: 0,0:19:35.00,0:19:39.00,Top,,0000,0000,0000,,cissavty:  She look's like a mom protecting her kids from bullies~ Cute
+Dialogue: 0,0:19:36.92,0:19:39.16,Bot,,0000,0000,0000,,Right?
+Dialogue: 0,0:19:37.00,0:19:41.00,Top,,0000,0000,0000,,alondra8biblia_arae_753:  Aww cute 
+Dialogue: 0,0:19:43.00,0:19:47.00,Top,,0000,0000,0000,,ethiolilley:  @lc yeah... I quite like her here 
+Dialogue: 0,0:19:45.00,0:19:49.00,Top,,0000,0000,0000,,kitchenprincess368_505:  That was funny
+Dialogue: 0,0:19:50.00,0:19:54.00,Top,,0000,0000,0000,,tymu94_618:  This character is so different from her roles in doctors and cheese in the trap
+Dialogue: 0,0:19:52.30,0:19:54.26,Bot,,0000,0000,0000,,It looks delicious.
+Dialogue: 0,0:19:55.00,0:19:59.00,Top,,0000,0000,0000,,alayeh_11_344:  Shes taller than jackson if he saw her he would be pissed off 😭😂🌚
+Dialogue: 0,0:19:55.04,0:19:56.70,Bot,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:58.00,0:20:02.00,Top,,0000,0000,0000,,thrilla4u_619:  Yeah she's 5'9. Tall for an Asian girl
+Dialogue: 0,0:20:00.51,0:20:02.72,Bot,,0000,0000,0000,,Now, they're even labeling us as laundry thieves.
+Dialogue: 0,0:20:02.72,0:20:06.30,Bot,,0000,0000,0000,,They're making their eyes like this. If they gave a sidelong scowl a little bit more, their eyes would be on the back of their heads.
+Dialogue: 0,0:20:05.00,0:20:09.00,Top,,0000,0000,0000,,sariechuu:  she's the same height as me and i'm a model too
+Dialogue: 0,0:20:06.30,0:20:09.76,Bot,,0000,0000,0000,,Are we jinxed with those chopsticks? I wonder why we've gotten tangled up with them in everything.
+Dialogue: 0,0:20:09.00,0:20:13.00,Top,,0000,0000,0000,,gail_d_533:  it was worth waiting for her first lead role, she's learnt so much!
+Dialogue: 0,0:20:09.76,0:20:14.06,Bot,,0000,0000,0000,,Hey, our dark history with them goes much further back than just yesterday and today.
+Dialogue: 0,0:20:11.00,0:20:15.00,Top,,0000,0000,0000,,lowkeyjimin:  What the heck I'm 5'2! 
+Dialogue: 0,0:20:14.11,0:20:17.52,Bot,,0000,0000,0000,,{\i1} This is all thanks to you. Let's keep this up and win.{\i0}
+Dialogue: 0,0:20:16.00,0:20:20.00,Top,,0000,0000,0000,,minecraftgirl11_648:  I'm 4'6 ;-;
+Dialogue: 0,0:20:17.52,0:20:19.90,Bot,,0000,0000,0000,,{\i1} Yes!\N Rhythmic Gymnastics Club{\i0}
+Dialogue: 0,0:20:19.00,0:20:23.00,Top,,0000,0000,0000,,yxsminoo:  turn off the comments section and shut up if you dont like it
+Dialogue: 0,0:20:19.90,0:20:20.80,Bot,,0000,0000,0000,,{\i1}- Great job!\N - Wow!{\i0}
+Dialogue: 0,0:20:20.80,0:20:26.40,Bot,,0000,0000,0000,,{\i1} -The RG Club's practice room they're using right now used to be our Weightlifting Club room.\NWeightlifting Club{\i0}
+Dialogue: 0,0:20:23.00,0:20:27.00,Top,,0000,0000,0000,,junghoseokismybae:  @lc yeah just turn off the comments 🤷🏽‍♀️
+Dialogue: 0,0:20:26.00,0:20:30.00,Top,,0000,0000,0000,,100002541393814_321:  I m 5,9😂😍🦄
+Dialogue: 0,0:20:26.40,0:20:32.15,Bot,,0000,0000,0000,,Was it during the Asian Games? I heard that our seniors shed tears of blood after losing it to the RG Club who won Gold.
+Dialogue: 0,0:20:32.00,0:20:36.00,Top,,0000,0000,0000,,santanatalia8_819:  Her hair would look pretty longer😍
+Dialogue: 0,0:20:35.00,0:20:39.00,Top,,0000,0000,0000,,molly_chen:  Last night took and L but tonight I bounce back
+Dialogue: 0,0:20:38.00,0:20:42.00,Top,,0000,0000,0000,,johnvarn7_750:  😂😂😂😂
+Dialogue: 0,0:20:41.00,0:20:45.00,Top,,0000,0000,0000,,177176999326078_948:  I agree💞❤️
+Dialogue: 0,0:20:43.73,0:20:46.90,Bot,,0000,0000,0000,,{\i1}- Wow! \N- Noona, I love you!{\i0}
+Dialogue: 0,0:20:46.90,0:20:48.08,Bot,,0000,0000,0000,,{\i1} Is that a puppy or a bear?{\i0}
+Dialogue: 0,0:20:48.08,0:20:50.11,Bot,,0000,0000,0000,,{\i1} Is she wearing that shirt or did she draw it on?{\i0}
+Dialogue: 0,0:20:50.11,0:20:51.43,Bot,,0000,0000,0000,,{\i1} Is that all?{\i0}
+Dialogue: 0,0:20:51.43,0:20:55.52,Bot,,0000,0000,0000,,{\i1} Every single time we have a field day, we're always put right next to each other and get humiliated.{\i0}
+Dialogue: 0,0:20:55.52,0:20:59.71,Bot,,0000,0000,0000,,Still, that's nothing compared to the Goo Seul revolt last year.
+Dialogue: 0,0:20:59.71,0:21:02.23,Bot,,0000,0000,0000,,Ah, Goo Seul revolt!
+Dialogue: 0,0:21:02.23,0:21:05.95,Bot,,0000,0000,0000,,{\i1} Soo Sang! Soo Sang, you can hear me, right?{\i0}
+Dialogue: 0,0:21:04.00,0:21:08.00,Top,,0000,0000,0000,,kla46:  Ain't that suji from gag concert😂
+Dialogue: 0,0:21:05.98,0:21:10.68,Bot,,0000,0000,0000,,{\i1} If you want, I won't put any chalk on my hands anymore (I'll quit weightlifting). I'll only touch powder for my face!{\i0}
+Dialogue: 0,0:21:10.00,0:21:14.00,Top,,0000,0000,0000,,casthee:  ohmygosh!!! YASSS GIRL
+Dialogue: 0,0:21:10.68,0:21:12.94,Bot,,0000,0000,0000,,{\i1} Seriously, what's the problem?{\i0}
+Dialogue: 0,0:21:12.94,0:21:16.96,Bot,,0000,0000,0000,,{\i1} - Is this a problem? Don't you see this? \N- No, you're fine!{\i0}
+Dialogue: 0,0:21:16.96,0:21:20.22,Bot,,0000,0000,0000,,{\i1} What's wrong?!{\i0}
+Dialogue: 0,0:21:17.00,0:21:21.00,Top,,0000,0000,0000,,gail_d_533:  omg dying from laughter
+Dialogue: 0,0:21:21.70,0:21:23.51,Bot,,0000,0000,0000,,{\i1} It's you, isn't it? It is you.{\i0}
+Dialogue: 0,0:21:22.00,0:21:26.00,Top,,0000,0000,0000,,santanatalia8_819:  Yeah😂
+Dialogue: 0,0:21:23.51,0:21:25.24,Bot,,0000,0000,0000,,{\i1}Unni!{\i0}
+Dialogue: 0,0:21:25.00,0:21:29.00,Top,,0000,0000,0000,,venus_sgs55_409:  My kink
+Dialogue: 0,0:21:25.24,0:21:29.85,Bot,,0000,0000,0000,,{\i1}This bad wench! You just have a mouth hole but no flesh at all.{\i0}
+Dialogue: 0,0:21:29.00,0:21:33.00,Top,,0000,0000,0000,,1109363492489251_131:  😂😂😂😂😂😂😂
+Dialogue: 0,0:21:33.00,0:21:37.00,Top,,0000,0000,0000,,directed89_706:  GIRL GET IT. lol now this is a rivalry I can feel in my bones. :-)
+Dialogue: 0,0:21:34.75,0:21:38.49,Bot,,0000,0000,0000,,{\i1}You don't have even any size!{\i0}
+Dialogue: 0,0:21:36.00,0:21:40.00,Top,,0000,0000,0000,,titiviolet88_170:  😂😂😂
+Dialogue: 0,0:21:38.49,0:21:40.16,Bot,,0000,0000,0000,,{\i1}Aigoo! Really!{\i0}
+Dialogue: 0,0:21:40.16,0:21:44.35,Bot,,0000,0000,0000,,Unni Goo Seul almost made a boyfriend after one year of effort,
+Dialogue: 0,0:21:44.35,0:21:46.99,Bot,,0000,0000,0000,,but RG Club seduced him. Ugh!
+Dialogue: 0,0:21:45.00,0:21:49.00,Top,,0000,0000,0000,,santanatalia8_819:  Almost😂
+Dialogue: 0,0:21:46.99,0:21:49.12,Bot,,0000,0000,0000,,In the end, that unni was kicked out of the dorms.
+Dialogue: 0,0:21:49.12,0:21:51.85,Bot,,0000,0000,0000,,After that shock, she couldn't even remember well.
+Dialogue: 0,0:21:51.85,0:21:54.22,Bot,,0000,0000,0000,,That's what I'm saying. To me, she was a very promising rhythmic gymnast.
+Dialogue: 0,0:21:52.00,0:21:56.00,Top,,0000,0000,0000,,minecraftgirl11_648:  I have the same hair as the short haired one but mine is light pinkish orangish😊☺️🐙like that but lighter
+Dialogue: 0,0:21:54.22,0:21:57.80,Bot,,0000,0000,0000,,Anyway, those RG people are aggravating. They don't give up anything at all.
+Dialogue: 0,0:21:57.00,0:22:01.00,Top,,0000,0000,0000,,dimadalo007_559:  I'm hungry
+Dialogue: 0,0:22:00.22,0:22:02.16,Bot,,0000,0000,0000,,Bok Joo, we're out of chicken.
+Dialogue: 0,0:22:01.00,0:22:05.00,Top,,0000,0000,0000,,amberose:  The face and sound she makes when she saw that thick ass chicken leg!!!
+Dialogue: 0,0:22:02.16,0:22:04.13,Bot,,0000,0000,0000,,Huh? Okay.
+Dialogue: 0,0:22:04.00,0:22:08.00,Top,,0000,0000,0000,,dawsonm4_585:  I'm hungry now...they needs to stop! hungry...
+Dialogue: 0,0:22:04.13,0:22:08.39,Bot,,0000,0000,0000,,Ah! Uncle!
+Dialogue: 0,0:22:07.00,0:22:11.00,Top,,0000,0000,0000,,sarahely2000_547:   😂😂😂😂
+Dialogue: 0,0:22:08.39,0:22:10.61,Bot,,0000,0000,0000,,You should stop eating now. This is already your 4th chicken.
+Dialogue: 0,0:22:10.61,0:22:13.04,Bot,,0000,0000,0000,,- It's our 3rd! \N- It's our 3rd!
+Dialogue: 0,0:22:12.00,0:22:16.00,Top,,0000,0000,0000,,audraguerrero13_423:  Lol he pours the chicken from a distance like they're wild animals 
+Dialogue: 0,0:22:13.04,0:22:15.70,Bot,,0000,0000,0000,,I'm sorry. I committed a sin worthy of death.
+Dialogue: 0,0:22:15.00,0:22:19.00,Top,,0000,0000,0000,,princessghibli:  i love this actor, he's so funny in everything he does
+Dialogue: 0,0:22:15.70,0:22:19.24,Bot,,0000,0000,0000,,Eat until your stomachs burst, Do, Mi, and Sol.
+Dialogue: 0,0:22:19.00,0:22:23.00,Top,,0000,0000,0000,,rubyrenee9_416:  He was really fun in the drama W 😂
+Dialogue: 0,0:22:19.24,0:22:20.53,Bot,,0000,0000,0000,,- Why hit us? \N- Why hit us?
+Dialogue: 0,0:22:20.53,0:22:22.08,Bot,,0000,0000,0000,,Then at least pay before you eat!
+Dialogue: 0,0:22:22.08,0:22:23.86,Bot,,0000,0000,0000,,Please leave immediately.
+Dialogue: 0,0:22:23.00,0:22:27.00,Top,,0000,0000,0000,,francine_mo:  I'm so going to marry him
+Dialogue: 0,0:22:23.86,0:22:26.18,Bot,,0000,0000,0000,,Is this a chicken grave?!
+Dialogue: 0,0:22:27.42,0:22:29.79,Bot,,0000,0000,0000,,Hey, hey, hey! Bok Joo, we have 10 minutes before they take attendance! 10 minutes! Hurry up!
+Dialogue: 0,0:22:29.79,0:22:32.50,Bot,,0000,0000,0000,,- Go, hurry!\N - Ah, oh my god!
+Dialogue: 0,0:22:32.00,0:22:36.00,Top,,0000,0000,0000,,hashleyp0913_653:  Is this really what college is like in Korea? Most USA colleges don't have curfew
+Dialogue: 0,0:22:34.67,0:22:36.71,Bot,,0000,0000,0000,,Wow...
+Dialogue: 0,0:22:38.25,0:22:40.17,Bot,,0000,0000,0000,,Why are you here? Isn't it almost time for night attendance?
+Dialogue: 0,0:22:40.17,0:22:41.37,Bot,,0000,0000,0000,,Goodbye!
+Dialogue: 0,0:22:41.00,0:22:45.00,Top,,0000,0000,0000,,salineogoti_841:  This cast is just daebak 
+Dialogue: 0,0:22:41.37,0:22:42.69,Bot,,0000,0000,0000,,Yeah, yeah...
+Dialogue: 0,0:22:42.69,0:22:46.09,Bot,,0000,0000,0000,,Ah Dad! I told you to make Hae Too do the delivery. I'll go to the hospital--
+Dialogue: 0,0:22:46.09,0:22:49.06,Bot,,0000,0000,0000,,What is that? Dad, you picked that up on the street again, didn't you?
+Dialogue: 0,0:22:49.06,0:22:53.51,Bot,,0000,0000,0000,,Someone threw this perfectly fine thing away. It was clean on the inside too.
+Dialogue: 0,0:22:50.00,0:22:54.00,Top,,0000,0000,0000,,inkdrauhl_610:  surplus prncss
+Dialogue: 0,0:22:53.00,0:22:57.00,Top,,0000,0000,0000,,ramendesu:  LOL HE IS ME ALWAYS PICKING UP THINGS PPL THROW
+Dialogue: 0,0:22:53.51,0:22:56.10,Bot,,0000,0000,0000,,They must have thrown it away because it can't make rice anymore! What are you going to use that for?
+Dialogue: 0,0:22:56.00,0:23:00.00,Top,,0000,0000,0000,,paulinha_nunes_312:  He is my uncle ugh, legimate everything
+Dialogue: 0,0:22:56.10,0:23:00.38,Bot,,0000,0000,0000,,Why wouldn't I have a use for this, you rascal? I can put chicken in here for delivery
+Dialogue: 0,0:23:00.38,0:23:02.53,Bot,,0000,0000,0000,,and that, what is that...
+Dialogue: 0,0:23:02.53,0:23:05.58,Bot,,0000,0000,0000,,Even when you think about it, it doesn't make sense, right?
+Dialogue: 0,0:23:04.00,0:23:08.00,Top,,0000,0000,0000,,paulinha_nunes_312:  I think she is doing to sound more masculine which would match more with a weightlifter 
+Dialogue: 0,0:23:06.69,0:23:08.91,Bot,,0000,0000,0000,,Hey, be quiet! Hurry up and leave!
+Dialogue: 0,0:23:08.91,0:23:10.66,Bot,,0000,0000,0000,,Shove that chicken into your mouth with moderation!
+Dialogue: 0,0:23:10.66,0:23:12.60,Bot,,0000,0000,0000,,Don't you have anything to do? Leave! Don't come tomorrow either!
+Dialogue: 0,0:23:12.60,0:23:15.62,Bot,,0000,0000,0000,,Just throw that away, Dad. I'll see you at the hospital. Bye!
+Dialogue: 0,0:23:14.00,0:23:18.00,Top,,0000,0000,0000,,pgionani_62:  I love her character 
+Dialogue: 0,0:23:15.62,0:23:16.96,Bot,,0000,0000,0000,,- Hurry!\N - Hurry up!
+Dialogue: 0,0:23:16.96,0:23:20.59,Bot,,0000,0000,0000,,Hey, run slower! You'll get hurt!
+Dialogue: 0,0:23:20.00,0:23:24.00,Top,,0000,0000,0000,,gail_d_533:  such a refreshing drama *sigh*
+Dialogue: 0,0:23:20.59,0:23:24.34,Bot,,0000,0000,0000,,Ugh! Those pretty kids.
+Dialogue: 0,0:23:23.00,0:23:27.00,Top,,0000,0000,0000,,tara47:  That running tho😁
+Dialogue: 0,0:23:25.56,0:23:27.86,Bot,,0000,0000,0000,,Aigoo, run!
+Dialogue: 0,0:23:26.00,0:23:30.00,Top,,0000,0000,0000,,khryhstall_636:  that so me running in the subway station
+Dialogue: 0,0:23:27.86,0:23:30.19,Bot,,0000,0000,0000,,Come on!
+Dialogue: 0,0:23:29.00,0:23:33.00,Top,,0000,0000,0000,,mayphompheng_663:  I like the way she runs 😂😂
+Dialogue: 0,0:23:30.19,0:23:34.01,Bot,,0000,0000,0000,,Ugh, let's do some laundry.
+Dialogue: 0,0:23:34.01,0:23:35.96,Bot,,0000,0000,0000,,Ah, I smell sweat.
+Dialogue: 0,0:23:38.00,0:23:42.00,Top,,0000,0000,0000,,orange_marmalade:  This reminds me of the dorms in Sassy Go Go
+Dialogue: 0,0:23:38.44,0:23:39.90,Bot,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:23:40.54,0:23:42.66,Bot,,0000,0000,0000,,I just thought something was there.
+Dialogue: 0,0:23:42.71,0:23:45.22,Bot,,0000,0000,0000,,What's there? Nothing's there.
+Dialogue: 0,0:23:45.22,0:23:47.41,Bot,,0000,0000,0000,,Really?
+Dialogue: 0,0:23:46.00,0:23:50.00,Top,,0000,0000,0000,,hollabaekgirl:  He's a pervert...
+Dialogue: 0,0:23:47.41,0:23:50.06,Bot,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:23:51.00,0:23:55.00,Top,,0000,0000,0000,,ggwolf_2000_960:  Haposai
+Dialogue: 0,0:23:54.00,0:23:58.00,Top,,0000,0000,0000,,francine_mo:  Staker
+Dialogue: 0,0:23:58.00,0:24:02.00,Top,,0000,0000,0000,,pgionani_62:  It's a pervert 
+Dialogue: 0,0:24:00.82,0:24:04.39,Bot,,0000,0000,0000,,We'll start taking attendance. Team Captain, please come to the head resident's room.
+Dialogue: 0,0:24:01.00,0:24:05.00,Top,,0000,0000,0000,,danielavalle99_414:  Ew
+Dialogue: 0,0:24:04.39,0:24:06.31,Bot,,0000,0000,0000,,Hey, haven't you seen a handkerchief?
+Dialogue: 0,0:24:05.00,0:24:09.00,Top,,0000,0000,0000,,modupe_2:  ewwww!! pant sniffers!! ewwww!
+Dialogue: 0,0:24:06.31,0:24:08.85,Bot,,0000,0000,0000,,A handkerchief, my ass. Just clean up.
+Dialogue: 0,0:24:08.00,0:24:12.00,Top,,0000,0000,0000,,hashleyp0913_653:  Nice room. They even have a TV
+Dialogue: 0,0:24:08.85,0:24:11.89,Bot,,0000,0000,0000,,Hey, hurry up! Gi Seok will be here to check soon.
+Dialogue: 0,0:24:11.89,0:24:15.44,Bot,,0000,0000,0000,,Ah, where could that have gone? Did I leave that at home?
+Dialogue: 0,0:24:18.00,0:24:22.00,Top,,0000,0000,0000,,628996887264676_194:  A PERVERT
+Dialogue: 0,0:24:18.33,0:24:22.12,Bot,,0000,0000,0000,,Hey, hey, hey, hey! He's right next-door, next-door!
+Dialogue: 0,0:24:21.00,0:24:25.00,Top,,0000,0000,0000,,chaoskitten:  It's the abusive boyfriend from Age of Youth!
+Dialogue: 0,0:24:24.00,0:24:28.00,Top,,0000,0000,0000,,andieee:  He was in age of youth 
+Dialogue: 0,0:24:27.00,0:24:31.00,Top,,0000,0000,0000,,mangopopkatfanlol_367:  GALD I'M NOT THE ONLY ONE WHO WANTED AGE OF YOUTH   XD
+Dialogue: 0,0:24:29.00,0:24:33.00,Top,,0000,0000,0000,,mharviamae_936:  Omg So many familiar faces! It's that psycho guy from Age of youth
+Dialogue: 0,0:24:33.00,0:24:37.00,Top,,0000,0000,0000,,mbogle75_yahoo_com:  Must be hopposai
+Dialogue: 0,0:24:37.09,0:24:39.33,Bot,,0000,0000,0000,,You two are in charge of the stairs, right?
+Dialogue: 0,0:24:38.00,0:24:42.00,Top,,0000,0000,0000,,kdrama_dreamer:  His voice (o.o)
+Dialogue: 0,0:24:39.33,0:24:41.96,Bot,,0000,0000,0000,,Did you mop?
+Dialogue: 0,0:24:41.00,0:24:45.00,Top,,0000,0000,0000,,iltzzu96:  Damn his voice is hot. So low.
+Dialogue: 0,0:24:41.96,0:24:44.70,Bot,,0000,0000,0000,,Of course, Sunbae.
+Dialogue: 0,0:24:44.70,0:24:48.39,Bot,,0000,0000,0000,,You left alone in the middle of the competition.
+Dialogue: 0,0:24:47.00,0:24:51.00,Top,,0000,0000,0000,,kdramaluv101:  Omg isn't that healer's dad 😳😂
+Dialogue: 0,0:24:48.39,0:24:49.70,Bot,,0000,0000,0000,,My condition wasn't good.
+Dialogue: 0,0:24:49.70,0:24:52.70,Bot,,0000,0000,0000,,What's to brag about being disqualified?
+Dialogue: 0,0:24:51.00,0:24:55.00,Top,,0000,0000,0000,,priszant_643:  Too many hot guys I just 25 minutes😏❤️
+Dialogue: 0,0:24:52.70,0:24:54.04,Bot,,0000,0000,0000,,I told the coach before I left.
+Dialogue: 0,0:24:54.04,0:24:58.44,Bot,,0000,0000,0000,,That's why I'm saying this. You don't think about your teammates or comrades, do you?
+Dialogue: 0,0:24:56.00,0:25:00.00,Top,,0000,0000,0000,,esthermak_hotmail_fr:  Il a maigri je trouve 😕
+Dialogue: 0,0:24:58.44,0:25:01.52,Bot,,0000,0000,0000,,You only think about yourself, right?
+Dialogue: 0,0:25:01.52,0:25:03.96,Bot,,0000,0000,0000,,After listening to your words, I think I was wrong.
+Dialogue: 0,0:25:03.96,0:25:06.14,Bot,,0000,0000,0000,,After listening?
+Dialogue: 0,0:25:06.14,0:25:08.32,Bot,,0000,0000,0000,,This bastard, seriously...
+Dialogue: 0,0:25:08.00,0:25:12.00,Top,,0000,0000,0000,,lakreolya_637:  Leurs cheuveux sont tjrs parfait 
+Dialogue: 0,0:25:08.32,0:25:11.46,Bot,,0000,0000,0000,,Team Captain, what are you doing? Do you want to spend the night here?
+Dialogue: 0,0:25:11.46,0:25:13.78,Bot,,0000,0000,0000,,Yes, I'm coming!
+Dialogue: 0,0:25:12.00,0:25:16.00,Top,,0000,0000,0000,,chayadekola_113:  Why is that guy's voice so quiet. That's really new to me!😂😂😂😂
+Dialogue: 0,0:25:16.00,0:25:20.00,Top,,0000,0000,0000,,modupe_2:  @lc for real! this drama is rilling my blood
+Dialogue: 0,0:25:17.45,0:25:19.50,Bot,,0000,0000,0000,,Good work.
+Dialogue: 0,0:25:21.00,0:25:25.00,Top,,0000,0000,0000,,sonyeondan:  ok i'm in love with the main lead's personality his nonchalance is so refreshing to see
+Dialogue: 0,0:25:22.53,0:25:24.39,Bot,,0000,0000,0000,,Ugh!
+Dialogue: 0,0:25:25.00,0:25:29.00,Top,,0000,0000,0000,,anas123tasia_10:  I'm so looking forward to this drama
+Dialogue: 0,0:25:25.28,0:25:29.82,Bot,,0000,0000,0000,,That sociopath, seriously! Every time he sees you, he can't wait to scold you.
+Dialogue: 0,0:25:29.82,0:25:32.71,Bot,,0000,0000,0000,,I have a character that aggravates people.
+Dialogue: 0,0:25:30.00,0:25:34.00,Top,,0000,0000,0000,,miley_warmheart:  The guy wih the pink black shirt is the actor in the drama age of youth. Played the role of the asshole and the kidnapper. 
+Dialogue: 0,0:25:32.74,0:25:36.29,Bot,,0000,0000,0000,,Imagine if you were a senior. Would you adore a junior who does whatever he wants?
+Dialogue: 0,0:25:34.00,0:25:38.00,Top,,0000,0000,0000,,jeronahdunlop_502:  The guy in red is from hello my twenties he's the cheating boyfriend 
+Dialogue: 0,0:25:36.29,0:25:39.05,Bot,,0000,0000,0000,,Aw, you even made an anti-fan. You amazing rascal.
+Dialogue: 0,0:25:39.00,0:25:43.00,Top,,0000,0000,0000,,archrp000:  I smell bromance!!!!!!!!!
+Dialogue: 0,0:25:39.05,0:25:42.65,Bot,,0000,0000,0000,,Was I too perfect? Too perfect to be a human?
+Dialogue: 0,0:25:42.65,0:25:45.82,Bot,,0000,0000,0000,,Such a perfect bastard got disqualified again? Again?!
+Dialogue: 0,0:25:43.00,0:25:47.00,Top,,0000,0000,0000,,esthermak_hotmail_fr:  Il a maigri je trouve 😕
+Dialogue: 0,0:25:45.82,0:25:50.59,Bot,,0000,0000,0000,,You're even worse than me, who placed 5th place. Just go, go out and die.
+Dialogue: 0,0:25:46.00,0:25:50.00,Top,,0000,0000,0000,,tymu94_618:  Isn't the guy playing the roommate like 30 years old, the ahjusshi is a bit too old for this role
+Dialogue: 0,0:25:48.00,0:25:52.00,Top,,0000,0000,0000,,santanatalia8_819:  I love this❤️
+Dialogue: 0,0:25:50.59,0:25:53.39,Bot,,0000,0000,0000,,Fine! I feel refreshed after hearing you curse me out!
+Dialogue: 0,0:25:51.00,0:25:55.00,Top,,0000,0000,0000,,ughhizzy:  I FINALLY FOUND OUT WHERE THE NURSE IS FROM
+Dialogue: 0,0:25:53.39,0:25:55.57,Bot,,0000,0000,0000,,This bastard.
+Dialogue: 0,0:25:54.00,0:25:58.00,Top,,0000,0000,0000,,abidi_kaoutar_674:  His friend😳😻
+Dialogue: 0,0:25:55.57,0:25:58.23,Bot,,0000,0000,0000,,Aish!
+Dialogue: 0,0:25:57.00,0:26:01.00,Top,,0000,0000,0000,,hanadrocks23_794:  Didn't that guy play the crazy boyfriend in that drama with the girls sharing a dorm
+Dialogue: 0,0:26:00.00,0:26:04.00,Top,,0000,0000,0000,,erinpark0114_03_986:  i kinda want a friends like them heheh
+Dialogue: 0,0:26:00.25,0:26:02.52,Bot,,0000,0000,0000,,Hey, forget that. Let's go out.
+Dialogue: 0,0:26:02.52,0:26:03.79,Bot,,0000,0000,0000,,Let's go play some games.
+Dialogue: 0,0:26:03.00,0:26:07.00,Top,,0000,0000,0000,,minecraftgirl11_648:  Lol my and my friends pull our ears
+Dialogue: 0,0:26:03.79,0:26:07.50,Bot,,0000,0000,0000,,Night attendance is over. Where would we go, you crazy bastard?
+Dialogue: 0,0:26:07.50,0:26:11.48,Bot,,0000,0000,0000,,Come on! This is amazing!
+Dialogue: 0,0:26:10.00,0:26:14.00,Top,,0000,0000,0000,,linnamlange_842:  I love this drama
+Dialogue: 0,0:26:11.48,0:26:16.02,Bot,,0000,0000,0000,,Oh, Min Kyung! It's been a while. I haven't seen you before.
+Dialogue: 0,0:26:13.00,0:26:17.00,Top,,0000,0000,0000,,pisicuta_iuliana10_854:  Now he can sniff more panties.
+Dialogue: 0,0:26:16.02,0:26:19.67,Bot,,0000,0000,0000,,Wow, cheers! Here, have a drink. Here.
+Dialogue: 0,0:26:17.00,0:26:21.00,Top,,0000,0000,0000,,modupe_2:  @lc she is not the one!
+Dialogue: 0,0:26:19.67,0:26:23.10,Bot,,0000,0000,0000,,Cheers! Woo!
+Dialogue: 0,0:26:20.00,0:26:24.00,Top,,0000,0000,0000,,adamadeola444_377:  It dangerous to the eyes.
+
+Dialogue: 0,0:26:23.00,0:26:27.00,Top,,0000,0000,0000,,minecraftgirl11_648:  Rip my eyes👀
+Dialogue: 0,0:26:26.00,0:26:30.00,Top,,0000,0000,0000,,queensaarah_12:  I'm not used to bright things Oml
+Dialogue: 0,0:26:26.80,0:26:29.28,Bot,,0000,0000,0000,,You're the swimmer, aren't you?
+Dialogue: 0,0:26:29.00,0:26:33.00,Top,,0000,0000,0000,,hajar_nafli203_39:  Aie ! Mes yeux !
+Dialogue: 0,0:26:29.28,0:26:32.17,Bot,,0000,0000,0000,,Wow, your shoulders are amazing.
+Dialogue: 0,0:26:32.00,0:26:36.00,Top,,0000,0000,0000,,salazarrubenn_760:  KDrama producers love this song
+Dialogue: 0,0:26:32.17,0:26:35.54,Bot,,0000,0000,0000,,I saw you on Hye Jin's SNS (social media).
+Dialogue: 0,0:26:35.00,0:26:39.00,Top,,0000,0000,0000,,sanhawae_942:  IMDONE THE SONG GET LIT 
+Dialogue: 0,0:26:35.54,0:26:39.47,Bot,,0000,0000,0000,,Um, could you please give me your number?
+Dialogue: 0,0:26:39.00,0:26:43.00,Top,,0000,0000,0000,,alicia_tordane_376:  My eyes help meeee 😱😖
+Dialogue: 0,0:26:39.47,0:26:42.70,Bot,,0000,0000,0000,,My mom took my phone away.
+Dialogue: 0,0:26:42.00,0:26:46.00,Top,,0000,0000,0000,,johnvarn7_750:  Je vais l'utiliser celle-là
+Dialogue: 0,0:26:42.70,0:26:44.76,Bot,,0000,0000,0000,,My grades dropped recently
+Dialogue: 0,0:26:44.76,0:26:47.74,Bot,,0000,0000,0000,,and she thought that was because of women...
+Dialogue: 0,0:26:47.74,0:26:49.79,Bot,,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:26:48.00,0:26:52.00,Top,,0000,0000,0000,,biancajaninaortiz_857:  my eyes😭😭
+Dialogue: 0,0:26:51.00,0:26:55.00,Top,,0000,0000,0000,,tahaiqbalrahman_535:  LOL
+Dialogue: 0,0:26:51.98,0:26:54.65,Bot,,0000,0000,0000,,Hey! Hey, where are you going?
+Dialogue: 0,0:26:54.65,0:26:56.27,Bot,,0000,0000,0000,,Hey!
+Dialogue: 0,0:26:57.00,0:27:01.00,Top,,0000,0000,0000,,maryasoler_702:  Yo también XD
+Dialogue: 0,0:27:01.00,0:27:05.00,Top,,0000,0000,0000,,alena_hollingshead_559:  GREAT ADS T_T
+Dialogue: 0,0:27:02.15,0:27:05.71,Bot,,0000,0000,0000,,Joon Hyeong! You're going to eat, right? I'll set a place for you.
+Dialogue: 0,0:27:05.71,0:27:08.36,Bot,,0000,0000,0000,,Of course! Just a minute, Mom!
+Dialogue: 0,0:27:07.00,0:27:11.00,Top,,0000,0000,0000,,diriesumaya2004_361:  Me too 
+Dialogue: 0,0:27:12.00,0:27:16.00,Top,,0000,0000,0000,,dawsonm4_585:  There is no way that bed fits him. He's 6'2! That looks like it can fit a child.
+Dialogue: 0,0:27:14.00,0:27:18.00,Top,,0000,0000,0000,,4d_alien:  Dat Å$$😂
+Dialogue: 0,0:27:15.46,0:27:18.61,Bot,,0000,0000,0000,,Where the heck did you go?
+Dialogue: 0,0:27:18.61,0:27:20.32,Bot,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:27:19.00,0:27:23.00,Top,,0000,0000,0000,,soman_shokori_431:  is he looking for the panties loool i hope not
+Dialogue: 0,0:27:20.32,0:27:23.23,Bot,,0000,0000,0000,,Hey, you're out early.
+Dialogue: 0,0:27:22.00,0:27:26.00,Top,,0000,0000,0000,,monicaviterimoreira_21:  This drama has To the beautiful you vibes 
+Dialogue: 0,0:27:23.23,0:27:24.60,Bot,,0000,0000,0000,,Get in. I'll give you a ride.
+Dialogue: 0,0:27:24.60,0:27:27.90,Bot,,0000,0000,0000,,Forget it. I'll just run there.
+Dialogue: 0,0:27:26.00,0:27:30.00,Top,,0000,0000,0000,,cate35:  Yaaaasssss Bae. The reason I'm watching this
+Dialogue: 0,0:27:27.90,0:27:32.59,Bot,,0000,0000,0000,,Just take the car. You must have had a hard time because of the competition.
+Dialogue: 0,0:27:31.00,0:27:35.00,Top,,0000,0000,0000,,krisakai122816_578:  This drama is the best I love it sm
+Dialogue: 0,0:27:33.92,0:27:36.55,Bot,,0000,0000,0000,,Now you're talking about the competition?
+Dialogue: 0,0:27:34.00,0:27:38.00,Top,,0000,0000,0000,,kdramapotato:  guy from Another Oh Hae Young. so many familiar people yesss!
+Dialogue: 0,0:27:37.00,0:27:41.00,Top,,0000,0000,0000,,princessghibli:  brothers?
+Dialogue: 0,0:27:37.78,0:27:41.39,Bot,,0000,0000,0000,,Both Mom and Dad must have been so curious to ask, but neither of them said a word about the competition.
+Dialogue: 0,0:27:40.00,0:27:44.00,Top,,0000,0000,0000,,princessghibli:  hottest brothers ever
+Dialogue: 0,0:27:41.39,0:27:43.45,Bot,,0000,0000,0000,,I guess acting cool is a genetic trait in our family.
+Dialogue: 0,0:27:42.00,0:27:46.00,Top,,0000,0000,0000,,adela_hussaini_messi_342:    His uncle 
+Dialogue: 0,0:27:43.45,0:27:46.19,Bot,,0000,0000,0000,,Out of all of us, you're the most upset. There's no need for us to bring that up.
+Dialogue: 0,0:27:45.00,0:27:49.00,Top,,0000,0000,0000,,francine_mo:  2 many hot men😘😘😘😘😘
+Dialogue: 0,0:27:46.19,0:27:49.58,Bot,,0000,0000,0000,,Yes, I deviated for the night because I was so upset
+Dialogue: 0,0:27:48.00,0:27:52.00,Top,,0000,0000,0000,,arubi2001:  Wtf this cast is so good looking his brother 😫😫😫😫😍😍😍😍
+Dialogue: 0,0:27:49.58,0:27:51.50,Bot,,0000,0000,0000,,and since I can't be cool about it, I'll leave now.
+Dialogue: 0,0:27:51.00,0:27:55.00,Top,,0000,0000,0000,,daghreer2016_383:  💓🔥
+Dialogue: 0,0:27:51.50,0:27:55.67,Bot,,0000,0000,0000,,I don't know if you'll be able to catch your younger brother with this crappy car.
+Dialogue: 0,0:27:57.00,0:28:01.00,Top,,0000,0000,0000,,firedragon819:  The ex fiance from another oh hae young
+Dialogue: 0,0:27:57.13,0:27:59.90,Bot,,0000,0000,0000,,What are you doing? Why aren't you following me?
+Dialogue: 0,0:27:59.90,0:28:01.89,Bot,,0000,0000,0000,,Oh? Look at this.
+Dialogue: 0,0:28:01.00,0:28:05.00,Top,,0000,0000,0000,,youjustgotjennied:  He was from Another Oh Hae Young...
+Dialogue: 0,0:28:01.89,0:28:05.40,Bot,,0000,0000,0000,,Hey, Lee Seon Ok. You must be so excited, you gained 2 kilograms.
+Dialogue: 0,0:28:04.00,0:28:08.00,Top,,0000,0000,0000,,ninuninu:  He was so Fine in oh hae Young. Curly hair does not fit him 
+Dialogue: 0,0:28:05.40,0:28:07.59,Bot,,0000,0000,0000,,Um, I ate some chicken last night so...
+Dialogue: 0,0:28:08.00,0:28:12.00,Top,,0000,0000,0000,,nicole_szabo:  The brother was also the main detective in Heartless City whose girlfriend was killed in the beginning.
+Dialogue: 0,0:28:11.60,0:28:16.10,Bot,,0000,0000,0000,,Wow, you'll suffer big time right before the competition if you just eat whatever you want like this.
+Dialogue: 0,0:28:16.00,0:28:20.00,Top,,0000,0000,0000,,keshamenz_482:  he was inMarriage Contract as well
+Dialogue: 0,0:28:16.10,0:28:17.43,Bot,,0000,0000,0000,,I told you this before, didn't I?
+Dialogue: 0,0:28:17.43,0:28:19.83,Bot,,0000,0000,0000,,When the Olympics were held in Atlanta, in America,
+Dialogue: 0,0:28:19.00,0:28:23.00,Top,,0000,0000,0000,,zaryah:    I LIVE IN ATLANTA 
+Dialogue: 0,0:28:19.83,0:28:23.49,Bot,,0000,0000,0000,,when I had to change the weight class division suddenly and to reduce 3 kg in one week,
+Dialogue: 0,0:28:23.49,0:28:29.02,Bot,,0000,0000,0000,,I starved myself, and at the sauna, I sweated out the rest of the pounds and barely made the needed weight.
+Dialogue: 0,0:28:24.00,0:28:28.00,Top,,0000,0000,0000,,tom_welling_digital_77:  I love ATL , my friends live there
+Dialogue: 0,0:28:29.02,0:28:31.45,Bot,,0000,0000,0000,,And in any case, that's for someone like me, who looks after their body with extreme care. However--
+Dialogue: 0,0:28:30.00,0:28:34.00,Top,,0000,0000,0000,,janekim1225:  Love this actress! She was in Pinocchio and as Park Boyoung's mom in A Werewolf Boy
+Dialogue: 0,0:28:31.45,0:28:32.73,Bot,,0000,0000,0000,,- Hey! \N- Oh, that scared me.
+Dialogue: 0,0:28:32.73,0:28:36.56,Bot,,0000,0000,0000,,You rascals, this is why we're telling you to take care of your body early on. Hold back on the meat.
+Dialogue: 0,0:28:36.00,0:28:40.00,Top,,0000,0000,0000,,francine_mo:  Lol he's talking to much
+Dialogue: 0,0:28:36.56,0:28:38.53,Bot,,0000,0000,0000,,- Yes!\N - Yes!
+Dialogue: 0,0:28:38.53,0:28:40.09,Bot,,0000,0000,0000,,Aigoo, Trainer Yook!
+Dialogue: 0,0:28:40.09,0:28:41.44,Bot,,0000,0000,0000,,- Oh?\N - Hello.
+Dialogue: 0,0:28:41.44,0:28:43.35,Bot,,0000,0000,0000,,- Hello.\N - Kids, hello.
+Dialogue: 0,0:28:43.35,0:28:44.63,Bot,,0000,0000,0000,,Hehe.
+Dialogue: 0,0:28:44.63,0:28:46.62,Bot,,0000,0000,0000,,What brings you all the way here?
+Dialogue: 0,0:28:46.62,0:28:51.17,Bot,,0000,0000,0000,,Someone ordered some chicken but cancelled their order and I couldn't think of anyone else to give it to.
+Dialogue: 0,0:28:50.00,0:28:54.00,Top,,0000,0000,0000,,iboast681_532:  Oh yeah, he was the main character's father in Cheese in the Trap. :)
+Dialogue: 0,0:28:51.17,0:28:54.16,Bot,,0000,0000,0000,,Goodness, you don't have to do this. I have no words.
+Dialogue: 0,0:28:54.16,0:28:57.06,Bot,,0000,0000,0000,,What are you talking about? You're making me upset.
+Dialogue: 0,0:28:57.00,0:29:01.00,Top,,0000,0000,0000,,itzel_rosales:  🏋️‍♀️🏋️‍♀️🏋️‍♀️🏋️‍♀️🏋️‍♀️🏋️‍♀️🏋️‍♀️🏋️‍♀️🏋️‍♀️🏋️‍♀️
+Dialogue: 0,0:28:57.06,0:28:59.90,Bot,,0000,0000,0000,,Who's the one who created the Bok Joo of today?
+Dialogue: 0,0:28:59.90,0:29:01.77,Bot,,0000,0000,0000,,She was tall and had long limbs
+Dialogue: 0,0:29:01.00,0:29:05.00,Top,,0000,0000,0000,,analogpanda:  dad's hair colour is kina cool
+Dialogue: 0,0:29:01.77,0:29:06.09,Bot,,0000,0000,0000,,so she was wondering whether she should give up weightlifting, but you assured her that it was possible.
+Dialogue: 0,0:29:03.00,0:29:07.00,Top,,0000,0000,0000,,littlefoottigerpaws_111:    Lol Just realized the dad is the loan shark from Dream High 
+Dialogue: 0,0:29:06.09,0:29:09.39,Bot,,0000,0000,0000,,You told her that it was possible with her love for weightlifting. Do I have to list every single one of my thanks--
+Dialogue: 0,0:29:07.00,0:29:11.00,Top,,0000,0000,0000,,habooobie:  Mermaid *
+Dialogue: 0,0:29:09.39,0:29:12.03,Bot,,0000,0000,0000,,Applause!
+Dialogue: 0,0:29:12.03,0:29:15.34,Bot,,0000,0000,0000,,- Thank you for the food!\N - We'll eat well.
+Dialogue: 0,0:29:13.00,0:29:17.00,Top,,0000,0000,0000,,eclectic20:  She's a  'cut off' King 
+Dialogue: 0,0:29:15.00,0:29:19.00,Top,,0000,0000,0000,,480000153962859_524:  The lady is so funny😂😂😂
+Dialogue: 0,0:29:15.34,0:29:18.26,Bot,,0000,0000,0000,,- Thank you for the food!\N - Thank you!
+Dialogue: 0,0:29:18.26,0:29:21.18,Bot,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:29:20.00,0:29:24.00,Top,,0000,0000,0000,,analogpanda:  this lady reminds me of when the person on stage cuts of people giving long ass testimonies in my church
+Dialogue: 0,0:29:21.18,0:29:23.81,Bot,,0000,0000,0000,,Why did you come here? I would have gone to the hospital later.
+Dialogue: 0,0:29:23.81,0:29:26.53,Bot,,0000,0000,0000,,{\i1} You have to work some magic like this occasionally.{\i0}
+Dialogue: 0,0:29:26.53,0:29:30.22,Bot,,0000,0000,0000,,{\i1} Do you know how much he looked after your comfort?{\i0}
+Dialogue: 0,0:29:27.00,0:29:31.00,Top,,0000,0000,0000,,simpleinthemoonlight:  Her sweater changed
+Dialogue: 0,0:29:30.22,0:29:32.60,Bot,,0000,0000,0000,,Ah, Professor Yoon! Eat with them, go eat!
+Dialogue: 0,0:29:31.00,0:29:35.00,Top,,0000,0000,0000,,netti93_338:  Lol, her jacket are closed set afar, then open when the camara are close. .... o:
+Dialogue: 0,0:29:32.60,0:29:35.35,Bot,,0000,0000,0000,,I fried the middle size of chickens, not small ones.
+Dialogue: 0,0:29:35.35,0:29:37.23,Bot,,0000,0000,0000,,Yes, I'll eat well.
+Dialogue: 0,0:29:37.00,0:29:41.00,Top,,0000,0000,0000,,iboast681_532:  Now I remember, this guy was in Uncontrollably Fond as the boyfriend of the main character's mother. :)
+Dialogue: 0,0:29:37.23,0:29:41.36,Bot,,0000,0000,0000,,Bok Joo. Since your father is here, you should escort him to the hospital.
+Dialogue: 0,0:29:41.00,0:29:45.00,Top,,0000,0000,0000,,minecraftgirl11_648:  In other words don't touch my chicken bitch🙃 ur welcome
+Dialogue: 0,0:29:41.36,0:29:46.29,Bot,,0000,0000,0000,,Night practice is just individual practice anyway. Go on.
+Dialogue: 0,0:29:44.00,0:29:48.00,Top,,0000,0000,0000,,alayeh_11_344:  Lool! When your teacher 'FAKES IT' infront of your parents
+Dialogue: 0,0:29:46.29,0:29:48.16,Bot,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:29:49.00,0:29:53.00,Top,,0000,0000,0000,,kei21:  Oh no hes on dialysis?  :(
+Dialogue: 0,0:29:53.00,0:29:57.00,Top,,0000,0000,0000,,dramamama3:  Dialysis? That's not good 
+Dialogue: 0,0:29:57.00,0:30:01.00,Top,,0000,0000,0000,,gail_d_533:  why are parents always in danger of dying in dramas aaaaargh
+Dialogue: 0,0:29:59.00,0:30:03.00,Top,,0000,0000,0000,,samantha0694_131:  Hemodialisis 😢😢
+Dialogue: 0,0:30:02.00,0:30:06.00,Top,,0000,0000,0000,,eclectic20:  Or already dead. I
+Dialogue: 0,0:30:08.00,0:30:12.00,Top,,0000,0000,0000,,moogibuns:  oh noooo
+Dialogue: 0,0:30:11.00,0:30:15.00,Top,,0000,0000,0000,,shimmmjun_61:  im like TT
+Dialogue: 0,0:30:13.00,0:30:17.00,Top,,0000,0000,0000,,shimmmjun_61:  just like TT
+Dialogue: 0,0:30:18.28,0:30:21.91,Bot,,0000,0000,0000,,Hyung, Hyung! I think I have to leave for a bit.
+Dialogue: 0,0:30:19.00,0:30:23.00,Top,,0000,0000,0000,,sakina_gadson_885:  @lc 😂😂
+Dialogue: 0,0:30:21.91,0:30:25.12,Bot,,0000,0000,0000,,Um, Jong Gi's father passed away.
+Dialogue: 0,0:30:25.12,0:30:27.09,Bot,,0000,0000,0000,,You know him, my army comrade, right?
+Dialogue: 0,0:30:27.00,0:30:31.00,Top,,0000,0000,0000,,aer_jade13_184:  i thought he said joong ki
+Dialogue: 0,0:30:27.09,0:30:29.86,Bot,,0000,0000,0000,,Of course, I know.
+Dialogue: 0,0:30:29.86,0:30:31.38,Bot,,0000,0000,0000,,Huh?
+Dialogue: 0,0:30:31.00,0:30:35.00,Top,,0000,0000,0000,,jgaelle10_728:  That boy was in let's fight ghost 
+Dialogue: 0,0:30:31.38,0:30:35.56,Bot,,0000,0000,0000,,But you know... Jong Gi's father
+Dialogue: 0,0:30:36.91,0:30:39.95,Bot,,0000,0000,0000,,will be so happy you came in sparkly clothes.
+Dialogue: 0,0:30:38.00,0:30:42.00,Top,,0000,0000,0000,,sakina_gadson_885:  What the "sparkly clothes" 😳😳😳😅😅
+Dialogue: 0,0:30:39.95,0:30:43.82,Bot,,0000,0000,0000,,What is it this time? A nighttime singer?
+Dialogue: 0,0:30:41.00,0:30:45.00,Top,,0000,0000,0000,,ramendesu:  OMG AHAHAHAHA
+Dialogue: 0,0:30:43.82,0:30:46.42,Bot,,0000,0000,0000,,I'll go change.
+Dialogue: 0,0:30:44.00,0:30:48.00,Top,,0000,0000,0000,,shaxinka__shamanova_658:  lol his rat hahahah
+Dialogue: 0,0:30:46.42,0:30:48.82,Bot,,0000,0000,0000,,Ugh, that lacking fool.
+Dialogue: 0,0:30:48.82,0:30:51.27,Bot,,0000,0000,0000,,If he's going to put up an act, he should do it properly.
+Dialogue: 0,0:30:51.00,0:30:55.00,Top,,0000,0000,0000,,dawsonm4_585:  OMG!!! This fool. bahahahahaha
+Dialogue: 0,0:30:51.27,0:30:55.44,Bot,,0000,0000,0000,,He only takes a role of the extra who doesn't speak one word all the time.
+Dialogue: 0,0:30:54.00,0:30:58.00,Top,,0000,0000,0000,,liane7:  lol that's so bright 😂😂😂😂😂😂
+Dialogue: 0,0:30:59.00,0:31:03.00,Top,,0000,0000,0000,,carolsilva21345_637:  Kkkkkkkkkkk
+Dialogue: 0,0:31:03.00,0:31:07.00,Top,,0000,0000,0000,,loyalchiilc_856:  lol he's just like haru from free!
+Dialogue: 0,0:31:06.00,0:31:10.00,Top,,0000,0000,0000,,usbyeolbit:  the dude in the sparkly outfit was also in king of high school and pretty much anything with lee tae hwan
+Dialogue: 0,0:31:09.00,0:31:13.00,Top,,0000,0000,0000,,parmardivyasingh_958:  reminds me of BOF
+Dialogue: 0,0:31:13.00,0:31:17.00,Top,,0000,0000,0000,,moaastrom_190:  No bish , haru didn't have no godamn beep problem in his head.😂👌🏻👏🏻
+Dialogue: 0,0:31:17.00,0:31:21.00,Top,,0000,0000,0000,,biancaaaaa_x:  Swimming always reminds me of Red Velvet's Joy
+Dialogue: 0,0:31:18.58,0:31:20.86,Bot,,0000,0000,0000,,Okay, nice!
+Dialogue: 0,0:31:20.86,0:31:23.81,Bot,,0000,0000,0000,,Your turn is good, Joon Hyeong. You're doing well.
+Dialogue: 0,0:31:23.81,0:31:26.79,Bot,,0000,0000,0000,,Gi Seok, don't slack off.
+Dialogue: 0,0:31:25.00,0:31:29.00,Top,,0000,0000,0000,,mangojogo:  no, he's the first lead. Besides, look at how much screen time he has in one ep, he's def lead.
+Dialogue: 0,0:31:32.00,0:31:36.00,Top,,0000,0000,0000,,cissavty:  *HELP ME*
+Dialogue: 0,0:31:35.00,0:31:39.00,Top,,0000,0000,0000,,analogpanda:  friends expression looks like he's a chicken in between an angry lion and a tiger
+Dialogue: 0,0:31:38.00,0:31:42.00,Top,,0000,0000,0000,,nexh22_573:  His smileeeee 😍👌
+Dialogue: 0,0:31:40.40,0:31:42.71,Bot,,0000,0000,0000,,Calluses.
+Dialogue: 0,0:31:42.00,0:31:46.00,Top,,0000,0000,0000,,maribushito:  Auuch 😩 calluses are the worst
+Dialogue: 0,0:31:42.71,0:31:45.51,Bot,,0000,0000,0000,,Hey, hey, look. These are my scars of honor.
+Dialogue: 0,0:31:44.00,0:31:48.00,Top,,0000,0000,0000,,beegwenhure_823:  Nam joo hyunk in who are you:School 2015 was a swimmer in this drama he is also a swimmer 
+Dialogue: 0,0:31:49.00,0:31:53.00,Top,,0000,0000,0000,,bayleighraine16_605:  The new girly thing " Showing off your calluses "🤤🤤
+Dialogue: 0,0:31:54.00,0:31:56.63,Bot,,0000,0000,0000,,- You came, Weightlifter Kim?\N - You came?
+Dialogue: 0,0:31:56.00,0:32:00.00,Top,,0000,0000,0000,,sunshine1014:  That outfit is horrible!
+Dialogue: 0,0:31:59.11,0:32:02.93,Bot,,0000,0000,0000,,Ah, why are you two always doing this in my room? The smell!
+Dialogue: 0,0:32:00.00,0:32:04.00,Top,,0000,0000,0000,,jessi_14_aguilar_890:  the one with the dark short hair kind of looks like a mix of F(x) AMBER & EXO D.o    o.o
+Dialogue: 0,0:32:02.93,0:32:05.39,Bot,,0000,0000,0000,,Even if you color your nails, the polish will just peel off if you weightlift.
+Dialogue: 0,0:32:03.00,0:32:07.00,Top,,0000,0000,0000,,gracehui23_7_831:  seriously...I want those kind of DORM TOO!!
+Dialogue: 0,0:32:05.39,0:32:07.79,Bot,,0000,0000,0000,,I don't know why you slather it on.
+Dialogue: 0,0:32:07.79,0:32:11.40,Bot,,0000,0000,0000,,It's not coloring, it's nail art.
+Dialogue: 0,0:32:11.00,0:32:15.00,Top,,0000,0000,0000,,czareenabianca_145:  She was shaving her calluses' off lol
+Dialogue: 0,0:32:11.40,0:32:14.89,Bot,,0000,0000,0000,,Art, my ass. Just take off the calluses of your hands.
+Dialogue: 0,0:32:14.89,0:32:17.77,Bot,,0000,0000,0000,,Don't cry after they come off all bloody when you're lifting barbells.
+Dialogue: 0,0:32:16.00,0:32:20.00,Top,,0000,0000,0000,,gail_d_533:  who says you can't lift weights and have pretty nails at the same time hahahaha
+Dialogue: 0,0:32:17.77,0:32:21.55,Bot,,0000,0000,0000,,Hey, hey. Leave her alone. She has the same intention as " Do you like Messi?"
+Dialogue: 0,0:32:18.00,0:32:22.00,Top,,0000,0000,0000,,orange_marmalade:  @lc: It's a sports college so they do sports mostly but I think there are other classes too
+Dialogue: 0,0:32:21.55,0:32:26.03,Bot,,0000,0000,0000,,Hey, don't try to appeal to a man with these things but cultivate your inner side.
+Dialogue: 0,0:32:24.00,0:32:28.00,Top,,0000,0000,0000,,adela_hussaini_messi_342:       Who where likes Messi , I love him😍😍😍😍😍⚽️⚽️⚽️⚽️⚽️❤️
+Dialogue: 0,0:32:26.03,0:32:27.87,Bot,,0000,0000,0000,,That's faster!
+Dialogue: 0,0:32:27.87,0:32:31.29,Bot,,0000,0000,0000,,To be honest, we're much more charming than those RG kids.
+Dialogue: 0,0:32:31.00,0:32:35.00,Top,,0000,0000,0000,,sierra_23:  LOOOOVE Messi.....that boy got ⚽️ skills
+Dialogue: 0,0:32:31.29,0:32:32.59,Bot,,0000,0000,0000,,We have good personalities, right?
+Dialogue: 0,0:32:32.59,0:32:35.29,Bot,,0000,0000,0000,,We have amazing life skills, right?!
+Dialogue: 0,0:32:34.00,0:32:38.00,Top,,0000,0000,0000,,mdac82:  the dorm rooms in this school are so nice???
+Dialogue: 0,0:32:35.29,0:32:38.45,Bot,,0000,0000,0000,,And we have this much glamor. Is there anything else to say?
+Dialogue: 0,0:32:36.00,0:32:40.00,Top,,0000,0000,0000,,gwenniv11:  The ponytail friend reminds me of hey it's fei I think that's how u spell it
+Dialogue: 0,0:32:38.45,0:32:41.71,Bot,,0000,0000,0000,,- As expected, Kim Bok Joo's glamor is swag. \N- Swag.
+Dialogue: 0,0:32:40.00,0:32:44.00,Top,,0000,0000,0000,,lcb38018_859:  Wonder if actress is hot wearing all those clothes to look heavier?
+Dialogue: 0,0:32:41.71,0:32:45.52,Bot,,0000,0000,0000,,Whenever I look at you, you're so positive. You have so much confidence.
+Dialogue: 0,0:32:43.00,0:32:47.00,Top,,0000,0000,0000,,seungkwans:  swag
+Dialogue: 0,0:32:45.52,0:32:49.42,Bot,,0000,0000,0000,,You know, I don't know if that's confidence or bluff.
+Dialogue: 0,0:32:46.00,0:32:50.00,Top,,0000,0000,0000,,ashori:  Hahahaha Sugas Sweg XD
+Dialogue: 0,0:32:48.00,0:32:52.00,Top,,0000,0000,0000,,christianaokwedy_927:  The way they say swag is so cute I love them 
+Dialogue: 0,0:32:49.42,0:32:53.84,Bot,,0000,0000,0000,,Nan Hee, out. Leave. Go to your own room!
+Dialogue: 0,0:32:54.00,0:32:58.00,Top,,0000,0000,0000,,wolfiechild101_313:  Youngi's moto
+Dialogue: 0,0:32:57.86,0:32:59.04,Bot,,0000,0000,0000,,Where did it go?
+Dialogue: 0,0:32:59.00,0:33:03.00,Top,,0000,0000,0000,,gail_d_533:  i could watch a whole drama just of these three and their school lives tbh
+Dialogue: 0,0:32:59.04,0:33:00.18,Bot,,0000,0000,0000,,- Why?\N - What?
+Dialogue: 0,0:33:00.18,0:33:03.16,Bot,,0000,0000,0000,,My cotton T-shirt I wore during my last competition, it's not here.
+Dialogue: 0,0:33:03.16,0:33:04.76,Bot,,0000,0000,0000,,Where could that have gone?
+Dialogue: 0,0:33:04.76,0:33:06.76,Bot,,0000,0000,0000,,Where did it go?
+Dialogue: 0,0:33:07.47,0:33:09.45,Bot,,0000,0000,0000,,Really? You really don't know where my cotton T-shirt is?
+Dialogue: 0,0:33:09.45,0:33:12.55,Bot,,0000,0000,0000,,Yes. I'm sure I saw it when I did the laundry.
+Dialogue: 0,0:33:12.55,0:33:14.50,Bot,,0000,0000,0000,,Ah, this can't happen.
+Dialogue: 0,0:33:14.50,0:33:19.05,Bot,,0000,0000,0000,,I wore that when I won gold in the last competition, so I have to wear it again for my next one.
+Dialogue: 0,0:33:20.21,0:33:21.66,Bot,,0000,0000,0000,,It's not here, I can't find it.
+Dialogue: 0,0:33:21.66,0:33:24.55,Bot,,0000,0000,0000,,It's not in our room and I asked all of the other rooms, but they don't have it either.
+Dialogue: 0,0:33:23.00,0:33:27.00,Top,,0000,0000,0000,,aer_jade13_184:  why is she wearing two hoodies?
+Dialogue: 0,0:33:24.55,0:33:28.22,Bot,,0000,0000,0000,,What will you do, Weightlifter Kim? You need to wear that for your competition.
+Dialogue: 0,0:33:27.00,0:33:31.00,Top,,0000,0000,0000,,seungkwans:  lmao is she wearing two hoodies?
+Dialogue: 0,0:33:28.22,0:33:32.53,Bot,,0000,0000,0000,,Ah, I'm doomed. Without that shirt, I won't be able to win the medal either.
+Dialogue: 0,0:33:32.00,0:33:36.00,Top,,0000,0000,0000,,clareth_larila_409:  I think it's the design of her hoodie!
+Dialogue: 0,0:33:32.53,0:33:37.22,Bot,,0000,0000,0000,,Um, by any chance, this is just a guess...
+Dialogue: 0,0:33:36.00,0:33:40.00,Top,,0000,0000,0000,,junghoseokismybae:  @lc because she is that cool 
+Dialogue: 0,0:33:37.22,0:33:41.09,Bot,,0000,0000,0000,,Isn't it possible the RG Club took it with the intent of getting revenge?
+Dialogue: 0,0:33:41.09,0:33:44.47,Bot,,0000,0000,0000,,Ah, they said that we're the ones who took their clothes, so
+Dialogue: 0,0:33:44.00,0:33:48.00,Top,,0000,0000,0000,,francine_mo:  Stop being to drop dead gorgeous
+Dialogue: 0,0:33:44.47,0:33:47.02,Bot,,0000,0000,0000,,on purpose they—
+Dialogue: 0,0:33:47.81,0:33:50.04,Bot,,0000,0000,0000,,No... wait, Bok Joo! It was just a guess!
+Dialogue: 0,0:33:50.04,0:33:53.47,Bot,,0000,0000,0000,,Hey, don't you know that she acts first and then thinks?!
+Dialogue: 0,0:33:53.47,0:33:54.49,Bot,,0000,0000,0000,,Hey, Bok Joo!
+Dialogue: 0,0:33:54.49,0:33:58.33,Bot,,0000,0000,0000,,I can just take a guess, can't I?!
+Dialogue: 0,0:33:59.26,0:34:04.68,Bot,,0000,0000,0000,,What did we do to your clothes? We deliberately stole it?
+Dialogue: 0,0:34:04.68,0:34:06.33,Bot,,0000,0000,0000,,- Did you not?\N - Are you crazy?
+Dialogue: 0,0:34:06.33,0:34:10.83,Bot,,0000,0000,0000,,Why would we? What use would we have for that unfitting smelly rag?
+Dialogue: 0,0:34:10.00,0:34:14.00,Top,,0000,0000,0000,,rubyrenee9_416:  Why does that girl in RG play the bad giro in  dramas
+Dialogue: 0,0:34:10.83,0:34:13.23,Bot,,0000,0000,0000,,You said that we were the ones who took your clothes
+Dialogue: 0,0:34:13.23,0:34:15.49,Bot,,0000,0000,0000,,but you have no evidence, so out of anger—
+Dialogue: 0,0:34:15.49,0:34:17.67,Bot,,0000,0000,0000,,We stole your clothes as revenge?
+Dialogue: 0,0:34:18.60,0:34:19.75,Bot,,0000,0000,0000,,I'm about to go crazy.
+Dialogue: 0,0:34:19.00,0:34:23.00,Top,,0000,0000,0000,,resse:  waaa her sweater is aweeesommee
+Dialogue: 0,0:34:19.75,0:34:23.21,Bot,,0000,0000,0000,,- I guess she thinks we're as immature as they are.\N - I know.
+Dialogue: 0,0:34:22.00,0:34:26.00,Top,,0000,0000,0000,,step135ie:  They seem to have the same amount of people, guess there is gonna be a fight.
+Dialogue: 0,0:34:23.21,0:34:26.14,Bot,,0000,0000,0000,,Do you have evidence? You were the one who said evidence was the most important.
+Dialogue: 0,0:34:26.14,0:34:29.78,Bot,,0000,0000,0000,,Yeah, so I'm going to look for some evidence.
+Dialogue: 0,0:34:27.00,0:34:31.00,Top,,0000,0000,0000,,sharathlsips_505:  The willing is from who r u 2015 right?
+Dialogue: 0,0:34:29.78,0:34:31.35,Bot,,0000,0000,0000,,Let me see your rooms for a minute.
+Dialogue: 0,0:34:31.35,0:34:35.64,Bot,,0000,0000,0000,,No. Why do I have to show you my room? Why?
+Dialogue: 0,0:34:34.00,0:34:38.00,Top,,0000,0000,0000,,kimsoeub_988:  Shes from school2015 "who are you"
+Dialogue: 0,0:34:35.64,0:34:39.10,Bot,,0000,0000,0000,,I have to find those clothes. Move.
+Dialogue: 0,0:34:37.00,0:34:41.00,Top,,0000,0000,0000,,whittjee:  @ughhizzy she is the bully from school 2015
+Dialogue: 0,0:34:39.87,0:34:43.02,Bot,,0000,0000,0000,,What's wrong with you? Seriously, what are you doing?
+Dialogue: 0,0:34:43.75,0:34:47.31,Bot,,0000,0000,0000,,Those are my lucky clothes. I have to find them.
+Dialogue: 0,0:34:44.00,0:34:48.00,Top,,0000,0000,0000,,doryrigual1946_602:  That girl is not the one from Who are you school 2015.  That actress name is  Kang So-young.
+Dialogue: 0,0:34:47.31,0:34:49.90,Bot,,0000,0000,0000,,I said no!
+Dialogue: 0,0:34:49.90,0:34:52.15,Bot,,0000,0000,0000,,You'll get hurt, move!
+Dialogue: 0,0:34:50.00,0:34:54.00,Top,,0000,0000,0000,,iboast681_532:  I like her Simpsons jacket. :)
+Dialogue: 0,0:34:52.15,0:34:55.51,Bot,,0000,0000,0000,,- Ah, seriously!\N - Why are you like this?!
+Dialogue: 0,0:34:55.51,0:34:59.14,Bot,,0000,0000,0000,,- Ah, I got it!\N - Move!
+Dialogue: 0,0:35:01.00,0:35:05.00,Top,,0000,0000,0000,,jadamaee21_391:  Wow...
+Dialogue: 0,0:35:01.43,0:35:04.28,Bot,,0000,0000,0000,,- Unni! \N- Unni!
+Dialogue: 0,0:35:03.00,0:35:07.00,Top,,0000,0000,0000,,bjdanddd_237:  Go now's your chance
+Dialogue: 0,0:35:07.00,0:35:11.00,Top,,0000,0000,0000,,francine_mo:  Cry baby 
+Dialogue: 0,0:35:08.76,0:35:10.76,Bot,,0000,0000,0000,,{\i1}Health Care Center{\i0}
+Dialogue: 0,0:35:12.00,0:35:16.00,Top,,0000,0000,0000,,empressvenom:  fake ass cry <_<
+Dialogue: 0,0:35:15.00,0:35:19.00,Top,,0000,0000,0000,,nomadish:  she fell down by herself.
+Dialogue: 0,0:35:15.07,0:35:18.87,Bot,,0000,0000,0000,,Who said you could relax now? Arms straight!
+Dialogue: 0,0:35:18.00,0:35:22.00,Top,,0000,0000,0000,,aliceharuka_234:  I love her so muuuch  <3  Everybody's freaking out xD lol
+Dialogue: 0,0:35:18.87,0:35:20.72,Bot,,0000,0000,0000,,Bok Joo, get up.
+Dialogue: 0,0:35:23.00,0:35:27.00,Top,,0000,0000,0000,,miamayamina_536:  I swear these dramas are a little too dramatic when it comes to  "injuries" (-_-)
+Dialogue: 0,0:35:25.16,0:35:28.36,Bot,,0000,0000,0000,,What is this? Hey, are you a gangster?
+Dialogue: 0,0:35:26.00,0:35:30.00,Top,,0000,0000,0000,,bjdanddd_237:  She's so pretty but her clothes look... not great. Wish they styled her better, although I guess that's supposed to be part pf her...
+Dialogue: 0,0:35:28.36,0:35:32.56,Bot,,0000,0000,0000,,Or like the other students say, are you a human bulldozer? Why would you hit someone with the strength you use to lift a barbell?
+Dialogue: 0,0:35:29.00,0:35:33.00,Top,,0000,0000,0000,,francine_mo:  Hell yes
+Dialogue: 0,0:35:32.56,0:35:34.72,Bot,,0000,0000,0000,,No, I was wrong.
+Dialogue: 0,0:35:34.00,0:35:38.00,Top,,0000,0000,0000,,kristalatkor_745:  Omg بالأول على بالي سخيف عشان الكل طاح عليه فقلت غريبه خليني اشوفه ههههههههه.
+Dialogue: 0,0:35:34.72,0:35:39.13,Bot,,0000,0000,0000,,Ah, is that the reason why you strengthen your upper body and exercise so much?
+Dialogue: 0,0:35:39.00,0:35:43.00,Top,,0000,0000,0000,,nomadish:  she didn't hit her.
+Dialogue: 0,0:35:39.13,0:35:40.94,Bot,,0000,0000,0000,,- But what happened today was—\N - Don't make excuses.
+Dialogue: 0,0:35:40.94,0:35:44.25,Bot,,0000,0000,0000,,You've already caused the accident and excuses like that don't work anymore.
+Dialogue: 0,0:35:42.00,0:35:46.00,Top,,0000,0000,0000,,ayan_20_703:  Damnnnnn
+Dialogue: 0,0:35:44.25,0:35:47.02,Bot,,0000,0000,0000,,Behave properly. Hey, we're the club that uses our strength.
+Dialogue: 0,0:35:47.02,0:35:51.09,Bot,,0000,0000,0000,,If you mess up, the entire club will be blamed. Understand?
+Dialogue: 0,0:35:51.00,0:35:55.00,Top,,0000,0000,0000,,q8shooe_913:   اتتت
+Dialogue: 0,0:36:00.00,0:36:04.00,Top,,0000,0000,0000,,alena_hollingshead_559:  ads T_T
+Dialogue: 0,0:36:03.00,0:36:07.00,Top,,0000,0000,0000,,allayna01_66:   They're going to ban her from the competition 
+Dialogue: 0,0:36:07.00,0:36:11.00,Top,,0000,0000,0000,,angelight313_168:  is obvious she's overloaded with clothes something rarely seen in dramas.
+Dialogue: 0,0:36:07.64,0:36:08.96,Bot,,0000,0000,0000,,Professor.
+Dialogue: 0,0:36:08.96,0:36:13.60,Bot,,0000,0000,0000,,It seems her muscle was overused. She has to be careful for 2-3 weeks.
+Dialogue: 0,0:36:13.60,0:36:15.32,Bot,,0000,0000,0000,,What you did was so unlike you, why?
+Dialogue: 0,0:36:15.32,0:36:17.71,Bot,,0000,0000,0000,,I didn't do that on purpose, Coach.
+Dialogue: 0,0:36:17.00,0:36:21.00,Top,,0000,0000,0000,,lollyrodsquad3_287:  Yeah she's just a weakling
+Dialogue: 0,0:36:17.71,0:36:21.68,Bot,,0000,0000,0000,,She blocked me from entering her room so I just slightly pushed her and...
+Dialogue: 0,0:36:20.00,0:36:24.00,Top,,0000,0000,0000,,gail_d_533:  she's model thin, its a tactic to make her look more bulky at least *shrugs*
+Dialogue: 0,0:36:21.68,0:36:24.27,Bot,,0000,0000,0000,,I'm telling the truth! I didn't use any strength.
+Dialogue: 0,0:36:24.27,0:36:26.13,Bot,,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,0:36:26.00,0:36:30.00,Top,,0000,0000,0000,,kristalatkor_745:  اي لايك ذات ------ > i like that 
+Dialogue: 0,0:36:26.13,0:36:30.96,Bot,,0000,0000,0000,,But you should still apologize. From now on, avoid contact with the RG Club as much as possible.
+Dialogue: 0,0:36:29.00,0:36:33.00,Top,,0000,0000,0000,,francine_mo:  Oh plz the bitch deserved it
+Dialogue: 0,0:36:30.96,0:36:32.49,Bot,,0000,0000,0000,,Ugh, seriously.
+Dialogue: 0,0:36:32.49,0:36:35.59,Bot,,0000,0000,0000,,Goodness.
+Dialogue: 0,0:36:35.59,0:36:38.78,Bot,,0000,0000,0000,,Hey, the professor apologized profusely to Coach Seong.
+Dialogue: 0,0:36:37.00,0:36:41.00,Top,,0000,0000,0000,,kaykay85:  i can't not see him as Taek's father from reply 1988
+Dialogue: 0,0:36:38.78,0:36:42.35,Bot,,0000,0000,0000,,He's doing that in case problems arise in the future, so just do as he tells you.
+Dialogue: 0,0:36:43.00,0:36:47.00,Top,,0000,0000,0000,,wasifahmed58_883:  Wow
+Dialogue: 0,0:36:46.55,0:36:48.82,Bot,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:36:47.00,0:36:51.00,Top,,0000,0000,0000,,taileen:   Lol
+Dialogue: 0,0:36:48.82,0:36:52.83,Bot,,0000,0000,0000,,What? I can't hear you at all.
+Dialogue: 0,0:36:51.00,0:36:55.00,Top,,0000,0000,0000,,alseay0_583:  Just remember next time I will be sure to actually break it!
+Dialogue: 0,0:36:54.00,0:36:58.00,Top,,0000,0000,0000,,francine_mo:  She SAID  SORRY  HO
+Dialogue: 0,0:36:54.90,0:36:58.57,Bot,,0000,0000,0000,,I said I'm sorry! I'm sorry. Happy now?
+Dialogue: 0,0:36:59.75,0:37:02.83,Bot,,0000,0000,0000,,I don't know. Ah,
+Dialogue: 0,0:37:00.00,0:37:04.00,Top,,0000,0000,0000,,wasifahmed58_883:  Her face
+Dialogue: 0,0:37:02.83,0:37:06.76,Bot,,0000,0000,0000,,I'll look at your behavior from now on and decide whether I'll forgive you or not.
+Dialogue: 0,0:37:06.76,0:37:08.50,Bot,,0000,0000,0000,,{\i1} Let's go.{\i0}
+Dialogue: 0,0:37:07.00,0:37:11.00,Top,,0000,0000,0000,,wasifahmed58_883:  Lol
+Dialogue: 0,0:37:10.00,0:37:14.00,Top,,0000,0000,0000,,taileen:  Hate cliques like that 
+Dialogue: 0,0:37:10.40,0:37:14.09,Bot,,0000,0000,0000,,Wow, those people are jerks.
+Dialogue: 0,0:37:14.09,0:37:16.40,Bot,,0000,0000,0000,,I can't help it because I got so furious.
+Dialogue: 0,0:37:16.00,0:37:20.00,Top,,0000,0000,0000,,joooune:  Fragile.
+Dialogue: 0,0:37:20.00,0:37:24.00,Top,,0000,0000,0000,,victoriamink30_624:  Just watching this annoys me like hell. I could feel the urge to punch them. Just if it were real life 
+Dialogue: 0,0:37:22.00,0:37:26.00,Top,,0000,0000,0000,,victoriamink30_624:  These b*tches
+Dialogue: 0,0:37:22.60,0:37:24.14,Bot,,0000,0000,0000,,Come on.
+Dialogue: 0,0:37:34.00,0:37:38.00,Top,,0000,0000,0000,,iygyuv_3:  Maybe cause she looks like one...
+Dialogue: 0,0:37:37.00,0:37:41.00,Top,,0000,0000,0000,,seungkwans:  SASSY GO GO 2.0
+Dialogue: 0,0:37:39.15,0:37:43.02,Bot,,0000,0000,0000,,Here you go. Yeah. \N♬ {\i1} How can I get your love {\i0} ♬
+Dialogue: 0,0:37:40.00,0:37:44.00,Top,,0000,0000,0000,,casthee:  When it rains.....
+Dialogue: 0,0:37:43.02,0:37:46.43,Bot,,0000,0000,0000,,Let's drink here until drunk.
+Dialogue: 0,0:37:44.00,0:37:48.00,Top,,0000,0000,0000,,eclectic20:  Just remembered who the pigtail  girl reminds me of, the chick from Grease , she does the same head shake 
+Dialogue: 0,0:37:46.43,0:37:53.86,Bot,,0000,0000,0000,,Cheers! \N♬ {\i1} How can I make you smile{\i0} ♬
+Dialogue: 0,0:37:48.00,0:37:52.00,Top,,0000,0000,0000,,liliblossier_349:  J'adore la musique 😍😍
+Dialogue: 0,0:37:53.86,0:37:59.69,Bot,,0000,0000,0000,,♬ {\i1} This heart-throbbing excitement {\i0} ♬
+Dialogue: 0,0:37:54.00,0:37:58.00,Top,,0000,0000,0000,,alena_hollingshead_559:  goals
+Dialogue: 0,0:37:59.00,0:38:03.00,Top,,0000,0000,0000,,taileen:  @lc i wondered that too
+Dialogue: 0,0:37:59.69,0:38:02.09,Bot,,0000,0000,0000,,Today was a really long day. \N ♬ {\i1}colors my feelings {\i0} ♬
+Dialogue: 0,0:38:02.09,0:38:05.16,Bot,,0000,0000,0000,,What is all this drama over a single laundry machine?
+Dialogue: 0,0:38:03.00,0:38:07.00,Top,,0000,0000,0000,,ele316:  Why is there a bed on the rooftop? xD
+Dialogue: 0,0:38:05.16,0:38:08.57,Bot,,0000,0000,0000,,Anyway, what are we going to do about your cotton T-shirt, Bok Joo? You said that was your lucky T-shirt.
+Dialogue: 0,0:38:06.00,0:38:10.00,Top,,0000,0000,0000,,imthetopic_278:  I thought of sassy gogo too
+Dialogue: 0,0:38:08.57,0:38:11.36,Bot,,0000,0000,0000,,Aish! RG, those jerks!
+Dialogue: 0,0:38:09.00,0:38:13.00,Top,,0000,0000,0000,,gail_d_533:  korean dramas make beer and soju look so tasty...LIES, ALL OF IT
+Dialogue: 0,0:38:11.36,0:38:17.19,Bot,,0000,0000,0000,,Our dad's words are right. "When you don't like food, you can give it to the dog but when you don't like a person..."
+Dialogue: 0,0:38:14.00,0:38:18.00,Top,,0000,0000,0000,,pgionani_62:  When it rains it gets wet🤓 the. It's ruined 
+Dialogue: 0,0:38:17.19,0:38:21.63,Bot,,0000,0000,0000,,Hey, you rascals! Is having a pretty face and being popular everything?!
+Dialogue: 0,0:38:20.00,0:38:24.00,Top,,0000,0000,0000,,kamilatti_choudjay_314:  Stop it , she is still pretty even now -_-
+Dialogue: 0,0:38:21.63,0:38:23.52,Bot,,0000,0000,0000,,You have to become humane first.
+Dialogue: 0,0:38:23.52,0:38:24.71,Bot,,0000,0000,0000,,She's right!
+Dialogue: 0,0:38:24.71,0:38:28.81,Bot,,0000,0000,0000,,We both have smelly breath in the morning when we wake up!
+Dialogue: 0,0:38:28.00,0:38:32.00,Top,,0000,0000,0000,,a_wong:  Is it me or this is really slow going?
+Dialogue: 0,0:38:28.81,0:38:30.47,Bot,,0000,0000,0000,,Don't act up, you rascals!
+Dialogue: 0,0:38:30.47,0:38:34.21,Bot,,0000,0000,0000,,Still, we are C-cup size and you're flat.
+Dialogue: 0,0:38:31.00,0:38:35.00,Top,,0000,0000,0000,,334309153606732_122:  We are C-Cup xD and you're flat ... omg burn 
+Dialogue: 0,0:38:34.00,0:38:38.00,Top,,0000,0000,0000,,danielavalle99_414:  LMBO
+Dialogue: 0,0:38:34.21,0:38:35.35,Bot,,0000,0000,0000,,Even the expression of flat is too much for them.
+Dialogue: 0,0:38:35.35,0:38:37.96,Bot,,0000,0000,0000,,{\i1} Ugh, it's so loud! You're the weightlifting club, aren't you?!{\i0}
+Dialogue: 0,0:38:37.96,0:38:39.22,Bot,,0000,0000,0000,,No.
+Dialogue: 0,0:38:39.22,0:38:41.80,Bot,,0000,0000,0000,,We're the Judo Team.
+Dialogue: 0,0:38:43.00,0:38:47.00,Top,,0000,0000,0000,,janekim1225:  @LC yeah it's you just be patient, this is ep 1 so they're establishing the characters and so far it's awesome
+Dialogue: 0,0:38:43.58,0:38:50.73,Bot,,0000,0000,0000,,♬ {\i1} I don't know where this feeling came from {\i0} ♬
+Dialogue: 0,0:38:46.00,0:38:50.00,Top,,0000,0000,0000,,mightbeandressa:  hahaha theyre so funny, love them!
+Dialogue: 0,0:38:48.00,0:38:52.00,Top,,0000,0000,0000,,evelynpagayon_35:  liking the song
+Dialogue: 0,0:38:50.73,0:38:59.00,Bot,,0000,0000,0000,,Bok Joo, if both Song Joong Ki and Kim Soo Hyun asked you out at the same time, what would you do?\N ♬ {\i1} There's a small quake only known to me {\i0} ♬
+Dialogue: 0,0:38:56.00,0:39:00.00,Top,,0000,0000,0000,,minwi16:  song jong ki and kim soo hyun😂😂
+Dialogue: 0,0:38:58.00,0:39:02.00,Top,,0000,0000,0000,,jdolma57_555:  They are literally funny
+
+Dialogue: 0,0:38:59.00,0:39:00.29,Bot,,0000,0000,0000,,Can't I date both at the same time?
+Dialogue: 0,0:39:00.29,0:39:04.70,Bot,,0000,0000,0000,,Hey, you wench! Have a conscience. You can't choose to eat both meat and sushi at the same time.
+Dialogue: 0,0:39:01.00,0:39:05.00,Top,,0000,0000,0000,,kdramapotato:  I CANT CHOOSE 😳😳😳 
+Dialogue: 0,0:39:04.70,0:39:09.13,Bot,,0000,0000,0000,,Hey, why can't I? I've lived my entire life being cautious of others and yielding.
+Dialogue: 0,0:39:07.00,0:39:11.00,Top,,0000,0000,0000,,lfitrash_789:  KIM SOO HYUN
+Dialogue: 0,0:39:09.13,0:39:13.16,Bot,,0000,0000,0000,,I don't think this is something to fight over. Look up at the sky.
+Dialogue: 0,0:39:13.00,0:39:17.00,Top,,0000,0000,0000,,yumyat:  I CHOSE SONG JOON KI AT THE VERY FIRST SECOND !!! HEHEHEEEE LUV YOU ALWAYS N FOREVER !!!!
+Dialogue: 0,0:39:14.23,0:39:17.10,Bot,,0000,0000,0000,,The weather is so nice.
+Dialogue: 0,0:39:17.10,0:39:20.16,Bot,,0000,0000,0000,,Hey Jeong Nan Hee, where's the fish jerky we bought?
+Dialogue: 0,0:39:20.16,0:39:21.26,Bot,,0000,0000,0000,,You all ate it all last time.
+Dialogue: 0,0:39:21.26,0:39:22.82,Bot,,0000,0000,0000,,- Hey, I didn't eat that much!\N - I didn't eat it!
+Dialogue: 0,0:39:22.82,0:39:25.21,Bot,,0000,0000,0000,,I really didn't eat it! You always blame me.
+Dialogue: 0,0:39:25.21,0:39:27.07,Bot,,0000,0000,0000,,Aish, I'm so hungry.
+Dialogue: 0,0:39:27.07,0:39:29.12,Bot,,0000,0000,0000,,You didn't say clearly in the end.
+Dialogue: 0,0:39:29.12,0:39:30.68,Bot,,0000,0000,0000,,Fine, I ate it.
+Dialogue: 0,0:39:30.68,0:39:32.34,Bot,,0000,0000,0000,,Go buy some more!
+Dialogue: 0,0:39:33.03,0:39:35.93,Bot,,0000,0000,0000,,Ah, Joon Hyeong! Let's go out.
+Dialogue: 0,0:39:35.93,0:39:37.65,Bot,,0000,0000,0000,,Let's go out!
+Dialogue: 0,0:39:37.65,0:39:41.92,Bot,,0000,0000,0000,,Head resident went to bed and I checked Hyung Gi Seok also went to bed.
+Dialogue: 0,0:39:40.00,0:39:44.00,Top,,0000,0000,0000,,lowkeyjimin:  Omg 😍
+Dialogue: 0,0:39:41.92,0:39:45.22,Bot,,0000,0000,0000,,I don't want to. I'm tired today.
+Dialogue: 0,0:39:42.00,0:39:46.00,Top,,0000,0000,0000,,thahswee28_741:  Lol that kid want to go out so bad 😂😂😂
+Dialogue: 0,0:39:45.22,0:39:48.22,Bot,,0000,0000,0000,,Just one hour. Let's just play some games for exactly one hour.
+Dialogue: 0,0:39:48.22,0:39:50.75,Bot,,0000,0000,0000,,Friend...
+Dialogue: 0,0:39:52.00,0:39:56.00,Top,,0000,0000,0000,,francine_mo:  Act like a man 
+Dialogue: 0,0:39:53.18,0:39:55.83,Bot,,0000,0000,0000,,It's not even two hours or three hours, but just one hour...
+Dialogue: 0,0:39:55.00,0:39:59.00,Top,,0000,0000,0000,,lakreolya_637:  Childish😂❤
+Dialogue: 0,0:39:55.83,0:40:00.17,Bot,,0000,0000,0000,,I just want to play games for just one hour, yet you just don't listen. You're making me upset!
+Dialogue: 0,0:39:59.00,0:40:03.00,Top,,0000,0000,0000,,miamayamina_536:  lol he whines too much 😂
+Dialogue: 0,0:40:00.17,0:40:03.73,Bot,,0000,0000,0000,,- Goodness! I'm so upset, I feel so wronged! \N- Aish!
+Dialogue: 0,0:40:02.00,0:40:06.00,Top,,0000,0000,0000,,youjustgotjennied:  dont make him upset lol, hell kidnap you and force feed you jjajangmyun
+Dialogue: 0,0:40:03.73,0:40:05.36,Bot,,0000,0000,0000,,Ugh! You're bothering me so much, you bastard.
+Dialogue: 0,0:40:05.00,0:40:09.00,Top,,0000,0000,0000,,miamayamina_536:  LOL. 😂😂😂😂😂😂
+Dialogue: 0,0:40:05.36,0:40:07.81,Bot,,0000,0000,0000,,If you keep doing this, I might ask the teacher to give me a different room.
+Dialogue: 0,0:40:07.81,0:40:09.52,Bot,,0000,0000,0000,,You're still going out now, right?
+Dialogue: 0,0:40:08.00,0:40:12.00,Top,,0000,0000,0000,,ggwolf_2000_960:  Danggggg!!!!
+Dialogue: 0,0:40:09.52,0:40:11.02,Bot,,0000,0000,0000,,Yeah, let's go. Let's go, you bastard.
+Dialogue: 0,0:40:11.02,0:40:14.23,Bot,,0000,0000,0000,,Joon Hyeong, I love you. Honey, I love you.
+Dialogue: 0,0:40:13.00,0:40:17.00,Top,,0000,0000,0000,,abidi_kaoutar_674:  😂😂socutee 
+Dialogue: 0,0:40:14.23,0:40:16.20,Bot,,0000,0000,0000,,Don't do it.
+Dialogue: 0,0:40:15.00,0:40:19.00,Top,,0000,0000,0000,,lilylam2613_207:  Il a dit "cherie" chui morte 😂😂😂
+Dialogue: 0,0:40:16.20,0:40:19.36,Bot,,0000,0000,0000,,Aish, get away.
+Dialogue: 0,0:40:19.00,0:40:23.00,Top,,0000,0000,0000,,minecraftgirl11_648:  If u don't stop I might start shipping u 😏
+Dialogue: 0,0:40:22.00,0:40:26.00,Top,,0000,0000,0000,,1109363492489251_131:  😂😂😂😂👌🏻😂😂
+Dialogue: 0,0:40:24.21,0:40:26.37,Bot,,0000,0000,0000,,{\i1}Who's there?{\i0}
+Dialogue: 0,0:40:26.37,0:40:29.57,Bot,,0000,0000,0000,,What, who's there? Stop!
+Dialogue: 0,0:40:29.00,0:40:33.00,Top,,0000,0000,0000,,ggwolf_2000_960:  That cubby cute girl with the pig 🐷 tails is so cute!!
+Dialogue: 0,0:40:32.00,0:40:36.00,Top,,0000,0000,0000,,alena_hollingshead_559:  OH NO
+Dialogue: 0,0:40:36.69,0:40:39.57,Bot,,0000,0000,0000,,Just where did they go?
+Dialogue: 0,0:40:40.00,0:40:44.00,Top,,0000,0000,0000,,dramamama3:  Laziest searcher ever
+Dialogue: 0,0:40:41.14,0:40:43.09,Bot,,0000,0000,0000,,Did she leave?
+Dialogue: 0,0:40:43.09,0:40:44.87,Bot,,0000,0000,0000,,She left, she left.
+Dialogue: 0,0:40:44.00,0:40:48.00,Top,,0000,0000,0000,,simplyemilyyy:  aren't they college students ? why are they so strict
+Dialogue: 0,0:40:46.00,0:40:50.00,Top,,0000,0000,0000,,ggwolf_2000_960:  Scaryyyy
+Dialogue: 0,0:40:49.00,0:40:53.00,Top,,0000,0000,0000,,tara47:  @LC LMAO 
+Dialogue: 0,0:40:52.00,0:40:56.00,Top,,0000,0000,0000,,soman_shokori_431:  panties robber
+Dialogue: 0,0:40:54.00,0:40:58.00,Top,,0000,0000,0000,,jadamaee21_391:  💀💀 What if he had a bloody nose..
+Dialogue: 0,0:41:00.94,0:41:04.08,Bot,,0000,0000,0000,,Pervert! Pervert!
+Dialogue: 0,0:41:04.08,0:41:05.95,Bot,,0000,0000,0000,,Pervert! Catch him!
+Dialogue: 0,0:41:05.95,0:41:08.41,Bot,,0000,0000,0000,,Hey, catch him! Pervert! Pervert!
+Dialogue: 0,0:41:10.00,0:41:14.00,Top,,0000,0000,0000,,cheyenne1318:  omg hahaha
+Dialogue: 0,0:41:10.22,0:41:13.07,Bot,,0000,0000,0000,,Hey, where are you going!?
+Dialogue: 0,0:41:13.00,0:41:17.00,Top,,0000,0000,0000,,jojoamane:  eu na vida ahaha
+Dialogue: 0,0:41:18.00,0:41:22.00,Top,,0000,0000,0000,,ttatenda_737:  loool, he legit is the pervert. i cant
+Dialogue: 0,0:41:22.08,0:41:24.70,Bot,,0000,0000,0000,,Hey! Come down.
+Dialogue: 0,0:41:23.00,0:41:27.00,Top,,0000,0000,0000,,ggwolf_2000_960:  Omg
+Dialogue: 0,0:41:33.00,0:41:37.00,Top,,0000,0000,0000,,djfhigibttrbrbgrbt_473:   Oh shit
+Dialogue: 0,0:41:35.38,0:41:39.39,Bot,,0000,0000,0000,,What? What is that? Hey, hurry up and come down. Hurry up!
+Dialogue: 0,0:41:38.00,0:41:42.00,Top,,0000,0000,0000,,jadamaee21_391:  😂😂😂😂
+Dialogue: 0,0:41:45.15,0:41:46.93,Bot,,0000,0000,0000,,Hey, you perverted bastard!
+Dialogue: 0,0:41:46.00,0:41:50.00,Top,,0000,0000,0000,,ggwolf_2000_960:  Get him! Get him!!!
+Dialogue: 0,0:41:46.93,0:41:51.49,Bot,,0000,0000,0000,,Hey! He's here, he's here! I caught the pervert!
+Dialogue: 0,0:41:51.00,0:41:55.00,Top,,0000,0000,0000,,alena_hollingshead_559:  BRUH
+Dialogue: 0,0:41:52.30,0:41:54.05,Bot,,0000,0000,0000,,- I caught the pervert!\N - Let go of me!
+Dialogue: 0,0:41:54.05,0:41:55.82,Bot,,0000,0000,0000,,Let go!
+Dialogue: 0,0:41:55.82,0:41:57.74,Bot,,0000,0000,0000,,- Let go of me! Let go!\N - Where do you think you're going, you perverted bastard?!
+Dialogue: 0,0:41:58.00,0:42:02.00,Top,,0000,0000,0000,,soman_shokori_431:  omg nooooo LOOOOOOOOOOOOOOOOOOOL
+Dialogue: 0,0:41:59.11,0:42:01.79,Bot,,0000,0000,0000,,- Hey, hey! Where do you think you're going?!\N - Let go of me! Hey!
+Dialogue: 0,0:42:01.00,0:42:05.00,Top,,0000,0000,0000,,yxsminoo:  i love this girl lmfaooo
+Dialogue: 0,0:42:01.79,0:42:04.18,Bot,,0000,0000,0000,,- Hey! Hey!\N - Pervert!
+Dialogue: 0,0:42:04.18,0:42:06.10,Bot,,0000,0000,0000,,- Hey, hey, hey! Aish!\N - Pervert!
+Dialogue: 0,0:42:05.00,0:42:09.00,Top,,0000,0000,0000,,alena_hollingshead_559:  HIS FRIEND OMFG IM LAUGHING SO HARD
+Dialogue: 0,0:42:06.10,0:42:08.52,Bot,,0000,0000,0000,,- I caught him!\N - Hey!
+Dialogue: 0,0:42:08.52,0:42:10.42,Bot,,0000,0000,0000,,I caught him!
+Dialogue: 0,0:42:10.42,0:42:11.86,Bot,,0000,0000,0000,,I'm telling you it's not me.
+Dialogue: 0,0:42:11.86,0:42:13.88,Bot,,0000,0000,0000,,It is him. I saw him clearly.
+Dialogue: 0,0:42:12.00,0:42:16.00,Top,,0000,0000,0000,,evelynpagayon_35:  his friend is a jerk for not helping him clear his name 😠
+Dialogue: 0,0:42:13.88,0:42:16.51,Bot,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:42:16.51,0:42:20.16,Bot,,0000,0000,0000,,I just sneaked out to go to a PC room but then she suddenly appeared and...
+Dialogue: 0,0:42:20.16,0:42:23.70,Bot,,0000,0000,0000,,I mean, if I like someone, I can just date them. Why would I steal female clothing?
+Dialogue: 0,0:42:23.70,0:42:25.44,Bot,,0000,0000,0000,,That's why you're abnormal.
+Dialogue: 0,0:42:24.00,0:42:28.00,Top,,0000,0000,0000,,djfhigibttrbrbgrbt_473:  OMG HE WAS IN SCARLET HEART
+Dialogue: 0,0:42:25.44,0:42:29.21,Bot,,0000,0000,0000,,I clearly saw you. I have perfect eyesight.
+Dialogue: 0,0:42:28.00,0:42:32.00,Top,,0000,0000,0000,,shinekisslove_434:  finally someone noticed baek ah :)
+Dialogue: 0,0:42:29.21,0:42:31.18,Bot,,0000,0000,0000,,- I'm about go nuts, seriously!\N - Um,
+Dialogue: 0,0:42:31.18,0:42:34.02,Bot,,0000,0000,0000,,even if you saw him, there's no evidence that he's the pervert.
+Dialogue: 0,0:42:34.02,0:42:37.39,Bot,,0000,0000,0000,,And to be honest, he's not the type to do that even though he jokes around a bit.
+Dialogue: 0,0:42:36.00,0:42:40.00,Top,,0000,0000,0000,,lowkeyjimin:  IMG ITS THE ONE HE IS TRAINING 
+Dialogue: 0,0:42:37.39,0:42:40.35,Bot,,0000,0000,0000,,For now, let's settle this here.
+Dialogue: 0,0:42:40.00,0:42:44.00,Top,,0000,0000,0000,,sophianguyen:  HAN YI AN
+Dialogue: 0,0:42:40.35,0:42:42.57,Bot,,0000,0000,0000,,Alright, well...
+Dialogue: 0,0:42:42.57,0:42:46.29,Bot,,0000,0000,0000,,Hey, you rascal. Be prepared to receive demerit points.
+Dialogue: 0,0:42:45.00,0:42:49.00,Top,,0000,0000,0000,,justwanabok:  I'm threw this is the funniest drama!😂💀
+Dialogue: 0,0:42:46.29,0:42:51.40,Bot,,0000,0000,0000,,Ah, but how did those people get past the security? I have to change it something else or something.
+Dialogue: 0,0:42:49.00,0:42:53.00,Top,,0000,0000,0000,,lowkeyjimin:  HIIIMMM
+Dialogue: 0,0:42:51.40,0:42:55.19,Bot,,0000,0000,0000,,You can't just let him go! He's really a strange kid!
+Dialogue: 0,0:42:55.19,0:42:58.90,Bot,,0000,0000,0000,,He even carries around a lace handkerchief, a girl's handkerchief.
+Dialogue: 0,0:42:57.00,0:43:01.00,Top,,0000,0000,0000,,empressvenom:  i knew that hater swim captain was the panty thief!
+Dialogue: 0,0:42:58.90,0:43:00.45,Bot,,0000,0000,0000,,{\i1} What?{\i0}
+Dialogue: 0,0:43:01.69,0:43:03.55,Bot,,0000,0000,0000,,{\i1} You perverted bastard.{\i0}
+Dialogue: 0,0:43:05.00,0:43:09.00,Top,,0000,0000,0000,,sktigerjs:  The perv was holding a sexy red thong
+Dialogue: 0,0:43:10.71,0:43:12.79,Bot,,0000,0000,0000,,Give me my handkerchief.
+Dialogue: 0,0:43:12.79,0:43:15.78,Bot,,0000,0000,0000,,You should give me my cotton T-shirt.
+Dialogue: 0,0:43:18.01,0:43:21.18,Bot,,0000,0000,0000,,Why are you asking me for your cotton T-shirt?
+Dialogue: 0,0:43:20.00,0:43:24.00,Top,,0000,0000,0000,,kdramas_and_art:  Jimbo Jones from The Simpsons on her shirt 😂
+Dialogue: 0,0:43:21.18,0:43:24.22,Bot,,0000,0000,0000,,Then I can't give you your handkerchief either.
+Dialogue: 0,0:43:26.00,0:43:30.00,Top,,0000,0000,0000,,hashleyp0913_653:  Oh I hate her already
+Dialogue: 0,0:43:28.02,0:43:31.12,Bot,,0000,0000,0000,,Fine, let's do this.
+Dialogue: 0,0:43:31.00,0:43:35.00,Top,,0000,0000,0000,,aurorab:  poor guy just wanted to stay in and sleep
+Dialogue: 0,0:43:37.00,0:43:41.00,Top,,0000,0000,0000,,iamb3ccaz_284:  all of you are crazy, i love this bitch
+Dialogue: 0,0:43:41.66,0:43:43.48,Bot,,0000,0000,0000,,I warned you, didn't I?
+Dialogue: 0,0:43:42.00,0:43:46.00,Top,,0000,0000,0000,,amberose:  BUT THE REAL PERV IS STILL OUT THERE!!! FUCKING GROSSS
+Dialogue: 0,0:43:43.48,0:43:47.52,Bot,,0000,0000,0000,,I told you that you would be caught red-handed big time. You slimy bastard.
+Dialogue: 0,0:43:48.66,0:43:51.92,Bot,,0000,0000,0000,,Do you know why I hate you so much?
+Dialogue: 0,0:43:49.00,0:43:53.00,Top,,0000,0000,0000,,minecraftgirl11_648:  I used to do that for my martial arts exercises in middle school
+Dialogue: 0,0:43:53.00,0:43:55.24,Bot,,0000,0000,0000,,Because you think you're so amazing.
+Dialogue: 0,0:43:55.24,0:43:59.22,Bot,,0000,0000,0000,,I can see that conceitedness in your face, but don't misunderstand.
+Dialogue: 0,0:43:59.22,0:44:04.55,Bot,,0000,0000,0000,,What's the use of breaking a record during training? You have a fragile mentality that always breaks whenever it's time for a competition.
+Dialogue: 0,0:44:08.84,0:44:15.13,Bot,,0000,0000,0000,,People like you, who aren't terrible but aren't amazing, are the worst.
+Dialogue: 0,0:44:09.00,0:44:13.00,Top,,0000,0000,0000,,teefunee:  one of the rg's member panties
+Dialogue: 0,0:44:13.00,0:44:17.00,Top,,0000,0000,0000,,ohmicky:  Oh fuck u
+Dialogue: 0,0:44:15.13,0:44:17.22,Bot,,0000,0000,0000,,Know your place before you act up.
+Dialogue: 0,0:44:16.00,0:44:20.00,Top,,0000,0000,0000,,ramendesu:  Shut the fck up
+Dialogue: 0,0:44:17.22,0:44:20.81,Bot,,0000,0000,0000,,Make sure you jump 100 times, have a conscience.
+Dialogue: 0,0:44:20.00,0:44:24.00,Top,,0000,0000,0000,,winxred12:  Yeah watch him be the perv
+Dialogue: 0,0:44:24.00,0:44:28.00,Top,,0000,0000,0000,,broccoli:  story of my lIFE
+Dialogue: 0,0:44:27.00,0:44:31.00,Top,,0000,0000,0000,,alondra8biblia_arae_753:  Don't they take classes 
+Dialogue: 0,0:44:30.00,0:44:34.00,Top,,0000,0000,0000,,casthee:  the age ranking system is horrible, just because youre older dosnt mean you can treat people this way
+Dialogue: 0,0:44:33.00,0:44:37.00,Top,,0000,0000,0000,,wasifahmed58_883:  Damn 
+Dialogue: 0,0:44:34.29,0:44:36.83,Bot,,0000,0000,0000,,Ugh, this is hard!
+Dialogue: 0,0:44:36.00,0:44:40.00,Top,,0000,0000,0000,,nomadish:  imagine how many times he had to jump those stairs for that take. crazy.
+Dialogue: 0,0:44:39.00,0:44:43.00,Top,,0000,0000,0000,,debbie_3:  this is a nice college campus btw...beautiful...
+Dialogue: 0,0:44:42.00,0:44:46.00,Top,,0000,0000,0000,,4d_alien:  What if at the last jump he just fell and that was the end⁉️😱😂
+Dialogue: 0,0:44:50.00,0:44:54.00,Top,,0000,0000,0000,,tara47:  I'd be mad  at myself  for listening to my friend  and leaving  the comfort of my bed. 
+Dialogue: 0,0:44:57.00,0:45:01.00,Top,,0000,0000,0000,,dramaqueen8:  why is he doing when the captan is not around
+Dialogue: 0,0:45:01.00,0:45:05.00,Top,,0000,0000,0000,,veronica_real:  I think so too
+Dialogue: 0,0:45:05.00,0:45:09.00,Top,,0000,0000,0000,,isabellevittoriabusi_94:  Eu malhando 😂
+Dialogue: 0,0:45:09.00,0:45:13.00,Top,,0000,0000,0000,,debbie_3:  his friend ain't shit. that's the type of dude you stop talking to the moment you graduate.
+Dialogue: 0,0:45:13.00,0:45:17.00,Top,,0000,0000,0000,,francine_mo:  Oh poor baby
+Dialogue: 0,0:45:13.74,0:45:15.72,Bot,,0000,0000,0000,,Joon Hyeong!
+Dialogue: 0,0:45:15.72,0:45:19.63,Bot,,0000,0000,0000,,Joon Hyeong! Joon Hyeong! Joon Hyeong!
+Dialogue: 0,0:45:17.00,0:45:21.00,Top,,0000,0000,0000,,veronica_real:  Lo mato!!! Mal amigo
+Dialogue: 0,0:45:19.63,0:45:23.47,Bot,,0000,0000,0000,,Hey, Joon Hyeong! I'm sorry, I was wrong! Joon Hyeong! Joon Hyeong!
+Dialogue: 0,0:45:20.00,0:45:24.00,Top,,0000,0000,0000,,kimsoeub_988:  Lol ROMEO N JULIET.....LOL
+Dialogue: 0,0:45:23.00,0:45:27.00,Top,,0000,0000,0000,,francine_mo:  Push that punk down the stairs, he left you hanging
+Dialogue: 0,0:45:24.04,0:45:25.68,Bot,,0000,0000,0000,,Hey, get up.
+Dialogue: 0,0:45:26.30,0:45:27.95,Bot,,0000,0000,0000,,Are you okay? Are you okay?
+Dialogue: 0,0:45:27.95,0:45:29.49,Bot,,0000,0000,0000,,Hey,
+Dialogue: 0,0:45:29.00,0:45:33.00,Top,,0000,0000,0000,,ohmicky:  Not a good fren
+Dialogue: 0,0:45:30.30,0:45:32.09,Bot,,0000,0000,0000,,- Water.\N - Water? Water.
+Dialogue: 0,0:45:32.09,0:45:37.00,Bot,,0000,0000,0000,,Alright, I got it. I'll get you premium luxurious foreign water... Wait, do I have some spare change?
+Dialogue: 0,0:45:34.00,0:45:38.00,Top,,0000,0000,0000,,beckywu97_651:  LOL PREMIUM LUXURIOUS FOREIGN WATER 😂😂😂😂😂
+Dialogue: 0,0:45:37.00,0:45:39.63,Bot,,0000,0000,0000,,Hey, I'll go...I'll go the fountain and get some change quickly—
+Dialogue: 0,0:45:40.00,0:45:44.00,Top,,0000,0000,0000,,phtu00_405:  😂😂
+Dialogue: 0,0:45:42.89,0:45:45.33,Bot,,0000,0000,0000,,You're terrible at everything!
+Dialogue: 0,0:45:44.00,0:45:48.00,Top,,0000,0000,0000,,pinnamanu_808:  😂😂😂
+Dialogue: 0,0:45:45.33,0:45:47.55,Bot,,0000,0000,0000,,Hey, Joon Hyeong! Joon Hyeong!
+Dialogue: 0,0:45:48.02,0:45:51.13,Bot,,0000,0000,0000,,Ah, Hyungnim. Hyungnim, I'm sorry. Are you okay?
+Dialogue: 0,0:45:50.00,0:45:54.00,Top,,0000,0000,0000,,bageljams:  lmao
+Dialogue: 0,0:45:51.13,0:45:53.36,Bot,,0000,0000,0000,,- I didn't mean to do that but—\N - Let go!
+Dialogue: 0,0:45:54.66,0:45:57.22,Bot,,0000,0000,0000,,Joon Hyeong. Joon Hyeong, I-I was wrong.
+Dialogue: 0,0:45:55.00,0:45:59.00,Top,,0000,0000,0000,,mylista_jen:  *slow claps*
+Dialogue: 0,0:45:57.22,0:45:59.05,Bot,,0000,0000,0000,,Why are you doing this to me!?
+Dialogue: 0,0:45:59.00,0:46:03.00,Top,,0000,0000,0000,,4smokie:  His friend is useless 😂🙃
+Dialogue: 0,0:45:59.05,0:46:01.11,Bot,,0000,0000,0000,,I committed a sin worthy of death, Joon Hyeong!
+Dialogue: 0,0:46:01.11,0:46:04.08,Bot,,0000,0000,0000,,Forget it. I'll go get the water myself.
+Dialogue: 0,0:46:03.00,0:46:07.00,Top,,0000,0000,0000,,queenshortie1_209:  Bromance!
+Dialogue: 0,0:46:06.00,0:46:10.00,Top,,0000,0000,0000,,jtrbl:   oh I just remembered. His friend is Healer's dad..
+Dialogue: 0,0:46:10.00,0:46:14.00,Top,,0000,0000,0000,,catchmine_id:  @lc what?? Nooo he is not Healer's dad
+Dialogue: 0,0:46:15.00,0:46:19.00,Top,,0000,0000,0000,,kei21:  Stretching. What everybody should do after working out
+Dialogue: 0,0:46:24.00,0:46:28.00,Top,,0000,0000,0000,,lizlovable_914:  Is that the red pantie in his back pocket
+Dialogue: 0,0:46:26.43,0:46:29.18,Bot,,0000,0000,0000,,Let's see, let's see.
+Dialogue: 0,0:46:29.00,0:46:33.00,Top,,0000,0000,0000,,reem_awa:  Hey, gotta admit...i've always wanted to do that 
+Dialogue: 0,0:46:32.00,0:46:36.00,Top,,0000,0000,0000,,francine_mo:  Nooooooooo
+Dialogue: 0,0:46:36.50,0:46:40.82,Bot,,0000,0000,0000,,Thank you. I will use this well.
+Dialogue: 0,0:46:37.00,0:46:41.00,Top,,0000,0000,0000,,ramendesu:  LOL WAOS.
+Dialogue: 0,0:46:40.00,0:46:44.00,Top,,0000,0000,0000,,johnvarn7_750:  Qui n'a jamais fait ça 😂😂
+Dialogue: 0,0:46:45.00,0:46:49.00,Top,,0000,0000,0000,,diriesumaya2004_361:  That's me I be doin that to fountains all the time
+Dialogue: 0,0:46:47.92,0:46:51.83,Bot,,0000,0000,0000,,You're a habitual thief.
+Dialogue: 0,0:46:48.00,0:46:52.00,Top,,0000,0000,0000,,erynasantewiredu_887:  Lmao lil Jon 
+Dialogue: 0,0:46:50.00,0:46:54.00,Top,,0000,0000,0000,,abidi_kaoutar_674:  😂😂😂😂😂
+Dialogue: 0,0:46:51.83,0:46:56.36,Bot,,0000,0000,0000,,I was wondering where all of the coins the students threw into the fountain disappeared to.
+Dialogue: 0,0:46:55.00,0:46:59.00,Top,,0000,0000,0000,,resse:  whattt the fuu XD
+Dialogue: 0,0:46:56.36,0:46:57.65,Bot,,0000,0000,0000,,Don't throw them into the wishing fountain.
+Dialogue: 0,0:46:57.65,0:47:01.14,Bot,,0000,0000,0000,,That's littering coins. Do you know how many coins are thrown away each year?
+Dialogue: 0,0:47:01.00,0:47:05.00,Top,,0000,0000,0000,,ohmygirl:  im dead they used lil jon voice mskds
+Dialogue: 0,0:47:01.14,0:47:04.25,Bot,,0000,0000,0000,,I'm doing all of this for the environment.
+Dialogue: 0,0:47:04.25,0:47:07.82,Bot,,0000,0000,0000,,Is that so? You're such an amazing environmentalist.
+Dialogue: 0,0:47:07.82,0:47:10.54,Bot,,0000,0000,0000,,Forget it. Give me back my handkerchief.
+Dialogue: 0,0:47:11.31,0:47:13.06,Bot,,0000,0000,0000,,Me?
+Dialogue: 0,0:47:13.00,0:47:17.00,Top,,0000,0000,0000,,christianaokwedy_927:  Her eyes are insanely pretty like 😍
+Dialogue: 0,0:47:13.06,0:47:16.34,Bot,,0000,0000,0000,,To you, Mr. Pervert? Why?
+Dialogue: 0,0:47:18.00,0:47:22.00,Top,,0000,0000,0000,,danielavalle99_414:  She's so pretty omg 
+Dialogue: 0,0:47:18.33,0:47:23.25,Bot,,0000,0000,0000,,Hey, give it back while I'm being nice.
+Dialogue: 0,0:47:23.25,0:47:25.31,Bot,,0000,0000,0000,,Hey, Sausage!
+Dialogue: 0,0:47:27.00,0:47:31.00,Top,,0000,0000,0000,,casthee:  ohmygosh, i just recognized her!! I love this actress, glad she's main:)
+Dialogue: 0,0:47:28.55,0:47:31.16,Bot,,0000,0000,0000,,- Hwaiting!\N - Hwaiting!
+Dialogue: 0,0:47:31.00,0:47:35.00,Top,,0000,0000,0000,,hayer23:  @LC It's 50 minutes into the drama lmao...
+Dialogue: 0,0:47:31.16,0:47:33.34,Bot,,0000,0000,0000,,{\i1}Weightlifting!\N Fighting!{\i1}{\i0}{\i0}
+Dialogue: 0,0:47:33.34,0:47:36.32,Bot,,0000,0000,0000,,- Hwaiting!
+Dialogue: 0,0:47:36.00,0:47:40.00,Top,,0000,0000,0000,,rose_shn:  @LC: lol someone is slow ^^
+Dialogue: 0,0:47:39.14,0:47:41.29,Bot,,0000,0000,0000,,{\i1}Weightlifting!\N Fighting!{\i1}{\i0}{\i0}
+Dialogue: 0,0:47:40.00,0:47:44.00,Top,,0000,0000,0000,,debbie_3:  this gives me track practice ptsd...i was not made for competitive sports...
+Dialogue: 0,0:47:41.29,0:47:42.76,Bot,,0000,0000,0000,,Hey! Give me back my handkerchief!
+Dialogue: 0,0:47:42.76,0:47:45.39,Bot,,0000,0000,0000,,Give me back my shirt first!
+Dialogue: 0,0:47:45.39,0:47:47.73,Bot,,0000,0000,0000,,Joon Hyeong, don't you come here quickly?!
+Dialogue: 0,0:47:56.23,0:47:59.66,Bot,,0000,0000,0000,,{\i1} Female Dormitory{\i0}
+Dialogue: 0,0:47:57.00,0:48:01.00,Top,,0000,0000,0000,,ikonicstudystickers_264:  Same
+Dialogue: 0,0:48:01.00,0:48:05.00,Top,,0000,0000,0000,,lowkeyjimin:  Me when I'm mad 
+Dialogue: 0,0:48:01.50,0:48:03.16,Bot,,0000,0000,0000,,{\i1} Death penalty.{\i0}
+Dialogue: 0,0:48:05.40,0:48:08.11,Bot,,0000,0000,0000,,That's not just a regular handkerchief. Give it back now.
+Dialogue: 0,0:48:07.00,0:48:11.00,Top,,0000,0000,0000,,tom_welling_digital_77:  She's so pretty 😍
+Dialogue: 0,0:48:08.11,0:48:11.79,Bot,,0000,0000,0000,,My shirt isn't just a regular T-shirt either. It's special too.
+Dialogue: 0,0:48:10.00,0:48:14.00,Top,,0000,0000,0000,,hunhan266_486:  when she was the 2nd female main lead, her clothes were popping, now thats she's first, they got her dressed all funky
+Dialogue: 0,0:48:11.79,0:48:16.42,Bot,,0000,0000,0000,,Hey, you're going to be so sorry towards me in the future. What will you do? It'll be less difficult for you if you just give it up now.
+Dialogue: 0,0:48:14.00,0:48:18.00,Top,,0000,0000,0000,,pgionani_62:  Yeah, they 👗 up  👍🏻 when they 2nd lead or the evil one.. she still very pretty.
+Dialogue: 0,0:48:16.42,0:48:19.23,Bot,,0000,0000,0000,,I wish I could be sorry towards you.
+Dialogue: 0,0:48:22.00,0:48:26.00,Top,,0000,0000,0000,,analogpanda:  because they dress up the bithcy second leads as pretty, so i guess they're her trying to stop her being typecast
+Dialogue: 0,0:48:25.95,0:48:30.45,Bot,,0000,0000,0000,,{\i1} 2017 Rhythmic Gymnastics National Representative Audition{\i0}
+Dialogue: 0,0:48:26.00,0:48:30.00,Top,,0000,0000,0000,,gail_d_533:  she looks incredibly different which helps ppl focus on her acting instead I guess
+Dialogue: 0,0:48:28.00,0:48:32.00,Top,,0000,0000,0000,,mholmes48_907:  i mean she's a weight lifter training at school lol she's wearing work out stuff it makes sense 
+Dialogue: 0,0:48:37.00,0:48:41.00,Top,,0000,0000,0000,,modupe_2:  i have been waiting
+Dialogue: 0,0:48:39.00,0:48:43.00,Top,,0000,0000,0000,,tara47:  That doesn't look like the same girl in Cheese in the Trap. She didn't look this tall.
+Dialogue: 0,0:48:43.00,0:48:47.00,Top,,0000,0000,0000,,bjdanddd_237:  @lc true! I mean her face is the same but her body is so different. In CITT she seemed small and thin with thin hips... idk!!!
+Dialogue: 0,0:48:46.00,0:48:50.00,Top,,0000,0000,0000,,mylista_jen:  She is NOT that girl from cheese n the trap -___-
+Dialogue: 0,0:48:50.00,0:48:54.00,Top,,0000,0000,0000,,muni81:  Nooo please don't make me hate the male lead. If he hurt her I can't look at him the same way.
+Dialogue: 0,0:48:52.00,0:48:56.00,Top,,0000,0000,0000,,becca_akin:  She and that doctor lady are both from plus nine boys 
+Dialogue: 0,0:48:52.83,0:48:58.13,Bot,,0000,0000,0000,,{\i1}The next competitor will use a ribbon. Competitor 5, Song Si Ho.{\i0}
+Dialogue: 0,0:48:56.00,0:49:00.00,Top,,0000,0000,0000,,kegbejuliet_650:  Omo 😳😳 calm your nerves bih 
+Dialogue: 0,0:49:01.00,0:49:05.00,Top,,0000,0000,0000,,newrachelle:  OMG her face is so much smaller than it was in plus nine boys :((((
+Dialogue: 0,0:49:02.30,0:49:07.16,Bot,,0000,0000,0000,,{\i1}2017 Rhythmic Gymnastics National Representative Audition, the first round.{\i0}
+Dialogue: 0,0:49:04.00,0:49:08.00,Top,,0000,0000,0000,,maribushito:  Is she the mean girl from before or?
+Dialogue: 0,0:49:07.00,0:49:11.00,Top,,0000,0000,0000,,saeleeh410_566:  She looks sooo old for him
+Dialogue: 0,0:49:07.16,0:49:13.15,Bot,,0000,0000,0000,,{\i1}A 3rd year at Haneol Sports College, this is Song Si Ho's ribbon performance.{\i0}
+Dialogue: 0,0:49:11.00,0:49:15.00,Top,,0000,0000,0000,,limparion:  I have great respect for gymnastics, but I never got the charm of the twirly rope on a stick.
+Dialogue: 0,0:49:13.87,0:49:17.59,Bot,,0000,0000,0000,,{\i1}The music selected is Ivan's Tango.{\i0}
+Dialogue: 0,0:49:14.00,0:49:18.00,Top,,0000,0000,0000,,analogpanda:  the way she's smiling is so creepy, seeing as she looked so sad before,
+Dialogue: 0,0:49:20.00,0:49:24.00,Top,,0000,0000,0000,,lowkeyjimin:  I love the outfit 
+Dialogue: 0,0:49:25.00,0:49:29.00,Top,,0000,0000,0000,,modupe_2:  she lost weight. she is suppose to be the weight lifting one. lol
+Dialogue: 0,0:49:30.00,0:49:34.00,Top,,0000,0000,0000,,yvodramatic:  She looks so different from Secret Love Affair
+Dialogue: 0,0:49:36.44,0:49:37.90,Bot,,0000,0000,0000,,{\i1}2017 Rhythmic Gymnastics National Representative Audition{\i0}
+Dialogue: 0,0:49:43.00,0:49:47.00,Top,,0000,0000,0000,,november1974_33:  I love the song
+Does anyone knows the name ? Please 
+Dialogue: 0,0:49:54.00,0:49:58.00,Top,,0000,0000,0000,,lollyrodsquad3_287:  That's incredible 
+Dialogue: 0,0:49:58.00,0:50:02.00,Top,,0000,0000,0000,,shinekisslove_434:  to be truthfully even I can do that ..
+Dialogue: 0,0:50:01.00,0:50:05.00,Top,,0000,0000,0000,,mother_tofu:  It's kind of funny how we get to see these sports that are not very often represented.
+Dialogue: 0,0:50:04.00,0:50:08.00,Top,,0000,0000,0000,,4smokie:  I guess twirling is a skill..??
+Dialogue: 0,0:50:07.00,0:50:11.00,Top,,0000,0000,0000,,dynasti:  my five year old does this all day
+Dialogue: 0,0:50:10.00,0:50:14.00,Top,,0000,0000,0000,,rubyrenee9_416:  She just laying and spinning and I guess that's a talent... wth 😂
+Dialogue: 0,0:50:15.00,0:50:19.00,Top,,0000,0000,0000,,rose_shn:  nice one :O
+Dialogue: 0,0:50:17.00,0:50:21.00,Top,,0000,0000,0000,,amithaalex98_513:  if you guys think you can do this at a competitive level. I would like to see you try, why are you being bitches towards her.  Seriously...
+Dialogue: 0,0:50:21.00,0:50:25.00,Top,,0000,0000,0000,,angela_mejia96_709:  It was a pretty routine but as a rhythmic gymnast myself a bit below her age range 
+Dialogue: 0,0:50:24.00,0:50:28.00,Top,,0000,0000,0000,,tashianna_bostick:  me too.
+Dialogue: 0,0:50:27.00,0:50:31.00,Top,,0000,0000,0000,,gail_d_533:  here's the real action - indentured servitude as chair lifters for university.
+Dialogue: 0,0:50:29.54,0:50:33.35,Bot,,0000,0000,0000,,What kind of school has so many events?!
+Dialogue: 0,0:50:33.35,0:50:36.10,Bot,,0000,0000,0000,,Speaking of which, I have to find my lucky T-shirt.
+Dialogue: 0,0:50:34.00,0:50:38.00,Top,,0000,0000,0000,,modupe_2:  seriously, not fair
+Dialogue: 0,0:50:36.10,0:50:40.33,Bot,,0000,0000,0000,,Hey, you know that swimmer... Are you sure he's a pervert?
+Dialogue: 0,0:50:37.00,0:50:41.00,Top,,0000,0000,0000,,casthee:  they should just leave the chairs in the gym, it wont cost anything to have them in a corner
+Dialogue: 0,0:50:40.33,0:50:44.29,Bot,,0000,0000,0000,,I mean, there's no way someone who looks like that would be a pervert.
+Dialogue: 0,0:50:43.00,0:50:47.00,Top,,0000,0000,0000,,jittoku:  ummm ... most large facilities have actual carts for storing & moving those things around
+Dialogue: 0,0:50:44.29,0:50:51.27,Bot,,0000,0000,0000,,Again, again! You concentrate too much on visuals, you wench. You can't be fooled by that face.
+Dialogue: 0,0:50:51.27,0:50:53.82,Bot,,0000,0000,0000,,But even I think he's not like that.
+Dialogue: 0,0:50:53.82,0:50:57.16,Bot,,0000,0000,0000,,Well, it's not as if I would frame him out of ill intentions.
+Dialogue: 0,0:50:57.00,0:51:01.00,Top,,0000,0000,0000,,angelica_casanova:  How hard is it for the school to buy some carts. They can get injured 
+Dialogue: 0,0:50:57.16,0:50:58.25,Bot,,0000,0000,0000,,Bicycle.
+Dialogue: 0,0:50:58.25,0:51:02.51,Bot,,0000,0000,0000,,- Sausage.\N - Ah, seriously, what do you see me as?!
+Dialogue: 0,0:51:01.00,0:51:05.00,Top,,0000,0000,0000,,francescafaisan_815:  Is she supposed to be considered fat inthe show?
+Dialogue: 0,0:51:02.51,0:51:03.89,Bot,,0000,0000,0000,,Ah, I don't know either!
+Dialogue: 0,0:51:03.89,0:51:05.23,Bot,,0000,0000,0000,,The icon of thoughtlessness.
+Dialogue: 0,0:51:05.23,0:51:09.23,Bot,,0000,0000,0000,,If you want to know about me, you have to go a long way. Hey, you go quickly!
+Dialogue: 0,0:51:07.00,0:51:11.00,Top,,0000,0000,0000,,smerlingrosario_271:  It's for training not because they can't afford it
+Dialogue: 0,0:51:19.00,0:51:23.00,Top,,0000,0000,0000,,orange_marmalade:  She's sooooo gonna be the second lead girl. I can see it now
+Dialogue: 0,0:51:23.11,0:51:26.63,Bot,,0000,0000,0000,,- Ah, sorry!\N - Sunbae, quickly! Hurry, hurry!
+Dialogue: 0,0:51:26.66,0:51:29.51,Bot,,0000,0000,0000,,Hurry up! Hurry!
+Dialogue: 0,0:51:27.00,0:51:31.00,Top,,0000,0000,0000,,iltzzu96:  She IS the second lead
+Dialogue: 0,0:51:29.51,0:51:31.87,Bot,,0000,0000,0000,,- Move aside! \N- Ugh!
+Dialogue: 0,0:51:33.56,0:51:39.33,Bot,,0000,0000,0000,,Hey, hey, hey! How can you place the chairs like this? You have to stack them up neatly in the corner over there.
+Dialogue: 0,0:51:34.00,0:51:38.00,Top,,0000,0000,0000,,yvodramatic:  She broke up with him for her career (as per the synopsis)
+Dialogue: 0,0:51:38.00,0:51:42.00,Top,,0000,0000,0000,,cutcookie21_141:  Why dont yo butt stack it then!
+Dialogue: 0,0:51:39.33,0:51:42.94,Bot,,0000,0000,0000,,Ah, you guys have no common sense.
+Dialogue: 0,0:51:45.85,0:51:48.30,Bot,,0000,0000,0000,,Tell them to bring all the boys back!
+Dialogue: 0,0:51:50.00,0:51:54.00,Top,,0000,0000,0000,,nabina_rahman12_658:  oh my fucking god!! lmao
+Dialogue: 0,0:51:50.14,0:51:51.86,Bot,,0000,0000,0000,,Oh!
+Dialogue: 0,0:51:53.00,0:51:57.00,Top,,0000,0000,0000,,orange_marmalade:  😂😂😂 
+Dialogue: 0,0:51:53.63,0:51:55.91,Bot,,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:51:56.00,0:52:00.00,Top,,0000,0000,0000,,sanhawae_942:  OMFGGGG IM SCREAMING 
+Dialogue: 0,0:51:57.04,0:51:58.84,Bot,,0000,0000,0000,,What is it?
+Dialogue: 0,0:52:04.97,0:52:06.98,Bot,,0000,0000,0000,,You saw?
+Dialogue: 0,0:52:05.00,0:52:09.00,Top,,0000,0000,0000,,analogpanda:  EWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+Dialogue: 0,0:52:08.00,0:52:12.00,Top,,0000,0000,0000,,empressvenom:  EWWWWWWWWWWWWWWWWWWW SO HE'S THE PANTIE!!! THIEF!!
+Dialogue: 0,0:52:10.00,0:52:14.00,Top,,0000,0000,0000,,iltzzu96:  I really don't understand perverts who do these things😂😂😂😂 That's disgusting
+Dialogue: 0,0:52:13.09,0:52:15.49,Bot,,0000,0000,0000,,- Ah, let go!\N - Let go!
+Dialogue: 0,0:52:14.00,0:52:18.00,Top,,0000,0000,0000,,jennigonzf_981:  JUMP HIM!!!
+Dialogue: 0,0:52:15.49,0:52:18.88,Bot,,0000,0000,0000,,- Hey, you pervert! Let go!\N - Pervert!
+Dialogue: 0,0:52:18.00,0:52:22.00,Top,,0000,0000,0000,,knightpuff:  creep
+Dialogue: 0,0:52:20.00,0:52:24.00,Top,,0000,0000,0000,,yvodramatic:  Cmon girls. 3 vs 1
+Dialogue: 0,0:52:25.00,0:52:29.00,Top,,0000,0000,0000,,tara47:  Ooh what a creeper!😲
+Dialogue: 0,0:52:27.00,0:52:31.00,Top,,0000,0000,0000,,jichangwookismydaddy_12:  OMG they come running to help
+Dialogue: 0,0:52:31.00,0:52:35.00,Top,,0000,0000,0000,,minsugajjangjjang_769:  I love how they come run and help 
+Dialogue: 0,0:52:33.00,0:52:37.00,Top,,0000,0000,0000,,audraguerrero13_423:  As strong as they are and the fact that there is three of them why do the get so scared 
+Dialogue: 0,0:52:37.27,0:52:39.82,Bot,,0000,0000,0000,,Stick it to your ear. That's right.
+Dialogue: 0,0:52:39.82,0:52:44.51,Bot,,0000,0000,0000,,Raise up, and take off your hand. Get your balance. That a girl.
+Dialogue: 0,0:52:41.00,0:52:45.00,Top,,0000,0000,0000,,lakreolya_637:  This is the funniest drama ive ever seen 😂my guy
+Dialogue: 0,0:52:44.51,0:52:47.71,Bot,,0000,0000,0000,,Nice job. Press down more.
+Dialogue: 0,0:52:46.00,0:52:50.00,Top,,0000,0000,0000,,tremani:  Why does she have fin from adventure time wrapped around her ankle??
+Dialogue: 0,0:52:47.71,0:52:52.30,Bot,,0000,0000,0000,,Unni, you received your clothes, right? That old man is seriously sick.
+Dialogue: 0,0:52:52.30,0:52:54.96,Bot,,0000,0000,0000,,I know. We didn't know and just framed the Weightlifting Club.
+Dialogue: 0,0:52:54.96,0:52:57.85,Bot,,0000,0000,0000,,We both misunderstood each other so just pretend that nothing happened.
+Dialogue: 0,0:52:57.85,0:53:00.44,Bot,,0000,0000,0000,,You two, don't yield to them just because you're sorry.
+Dialogue: 0,0:53:00.44,0:53:04.84,Bot,,0000,0000,0000,,Oh, who's talking?! Concentrate on stretching your body!
+Dialogue: 0,0:53:01.00,0:53:05.00,Top,,0000,0000,0000,,jozmorn98_58:  🍑😎
+Dialogue: 0,0:53:04.84,0:53:07.44,Bot,,0000,0000,0000,,Dani, press your heel down more. Continue.
+Dialogue: 0,0:53:09.41,0:53:13.72,Bot,,0000,0000,0000,,Yi Seul, your heel is turning. Press down.\N{\i1}Haneol Sports College{\i0}
+Dialogue: 0,0:53:10.00,0:53:14.00,Top,,0000,0000,0000,,ssinha1_314_188:  wish i was that flexible
+Dialogue: 0,0:53:13.72,0:53:16.60,Bot,,0000,0000,0000,,Coach, Si Ho Unni is here.
+Dialogue: 0,0:53:20.25,0:53:23.12,Bot,,0000,0000,0000,,- Is he the one?\N - He stole female clothing?
+Dialogue: 0,0:53:23.12,0:53:25.10,Bot,,0000,0000,0000,,- Old man, what are you looking at? Huh?\N - What is he staring at?
+Dialogue: 0,0:53:25.10,0:53:26.72,Bot,,0000,0000,0000,,- Someone like him exists?\N - Ugh, pervert.
+Dialogue: 0,0:53:26.72,0:53:28.33,Bot,,0000,0000,0000,,- How can there be someone like that?\N - What in the world?
+Dialogue: 0,0:53:27.00,0:53:31.00,Top,,0000,0000,0000,,limparion:  Please perverts, just buy your stuff in a store and pretend it's for your girlfriend or something. Or online.
+Dialogue: 0,0:53:28.33,0:53:29.29,Bot,,0000,0000,0000,,- Perverted bastard\N - Ugh.
+Dialogue: 0,0:53:29.29,0:53:31.81,Bot,,0000,0000,0000,,- He shouldn't do that.\N - Pervert.
+Dialogue: 0,0:53:31.81,0:53:33.53,Bot,,0000,0000,0000,,Hey! Let's go! Hurry!
+Dialogue: 0,0:53:32.00,0:53:36.00,Top,,0000,0000,0000,,gail_d_533:  the problem is the perv wanted sweaty, soiled underclothes to sniff them - feel so gross, need to rub purel on my brain
+Dialogue: 0,0:53:33.53,0:53:36.15,Bot,,0000,0000,0000,,- In the future, you should tell sunbaes...\N - Ah, seriously...
+Dialogue: 0,0:53:36.00,0:53:40.00,Top,,0000,0000,0000,,rubyrenee9_416:  God if this happened in America... 😂😂
+Dialogue: 0,0:53:36.15,0:53:38.41,Bot,,0000,0000,0000,,I feel lost.
+Dialogue: 0,0:53:38.41,0:53:42.14,Bot,,0000,0000,0000,,They always say that the darkest place is under the candlestick. You just never know by how they look.
+Dialogue: 0,0:53:39.00,0:53:43.00,Top,,0000,0000,0000,,modupe:  @lc it does...didn't you watch OITNB
+Dialogue: 0,0:53:42.14,0:53:43.80,Bot,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:53:43.80,0:53:45.82,Bot,,0000,0000,0000,,Come on, Bok Joo.
+Dialogue: 0,0:53:48.00,0:53:52.00,Top,,0000,0000,0000,,mejanet:  how small was his butt or how big was the underwear to peek over his pants
+Dialogue: 0,0:53:52.00,0:53:56.00,Top,,0000,0000,0000,,tanejavanshika98_170:  @LC LMFAOOOOOOOO 
+Dialogue: 0,0:53:54.00,0:53:58.00,Top,,0000,0000,0000,,tara47:  There's her lucky shirt. You got some splaining  to do Lucy!😁
+Dialogue: 0,0:53:59.15,0:54:00.94,Bot,,0000,0000,0000,,Hey, what should we eat?
+Dialogue: 0,0:54:03.24,0:54:06.14,Bot,,0000,0000,0000,,Hey, not that!
+Dialogue: 0,0:54:07.00,0:54:11.00,Top,,0000,0000,0000,,stargirl714:  me hahaha
+Dialogue: 0,0:54:11.56,0:54:16.98,Bot,,0000,0000,0000,,Why did that jerk jump in at that moment of all times and put me in this awkward situation...
+Dialogue: 0,0:54:13.00,0:54:17.00,Top,,0000,0000,0000,,lowkeyjimin:  Lmaoo 
+Dialogue: 0,0:54:16.98,0:54:20.83,Bot,,0000,0000,0000,,What do I do...
+Dialogue: 0,0:54:20.00,0:54:24.00,Top,,0000,0000,0000,,ggwolf_2000_960:  She's a nice girl
+Dialogue: 0,0:54:21.43,0:54:24.11,Bot,,0000,0000,0000,,I'm sorry, but can you open the door for me?
+Dialogue: 0,0:54:27.28,0:54:29.04,Bot,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:54:29.00,0:54:33.00,Top,,0000,0000,0000,,debbie_3:  imagine if they ended up being the main couple...that would be an awesome twist!
+Dialogue: 0,0:54:31.00,0:54:35.00,Top,,0000,0000,0000,,maribushito:  2nd leaaad
+Dialogue: 0,0:54:35.00,0:54:39.00,Top,,0000,0000,0000,,dimadalo007_559:  I ship them 
+Dialogue: 0,0:54:38.00,0:54:42.00,Top,,0000,0000,0000,,layna787:  i ship them?????
+Dialogue: 0,0:54:43.00,0:54:47.00,Top,,0000,0000,0000,,ttatenda_737:  new roommate
+Dialogue: 0,0:54:48.00,0:54:52.00,Top,,0000,0000,0000,,stillamanda00_611:  hah I ship them as well!
+Dialogue: 0,0:54:50.01,0:54:52.46,Bot,,0000,0000,0000,,Are you in room 302 too?
+Dialogue: 0,0:54:53.00,0:54:57.00,Top,,0000,0000,0000,,nabina_rahman12_658:  girl crush
+Dialogue: 0,0:54:53.30,0:54:55.23,Bot,,0000,0000,0000,,Y-Y-Yes.
+Dialogue: 0,0:54:55.90,0:54:59.80,Bot,,0000,0000,0000,,Nice to meet you. I'm Song Si Ho, a 3rd year at RG Club.
+Dialogue: 0,0:54:56.00,0:55:00.00,Top,,0000,0000,0000,,ggwolf_2000_960:    A pink bunny without the ears!!
+Dialogue: 0,0:54:59.80,0:55:02.63,Bot,,0000,0000,0000,,I'm going to share this room with you.
+Dialogue: 0,0:55:04.20,0:55:08.40,Bot,,0000,0000,0000,,Only this room is available. I just came back from Taereung because I failed to make the cut for the national team.
+Dialogue: 0,0:55:05.00,0:55:09.00,Top,,0000,0000,0000,,tabassum02_267:  Hahaha that handshake tho 😂😂😂😂🙈
+Dialogue: 0,0:55:08.40,0:55:11.18,Bot,,0000,0000,0000,,I'm looking forward to staying with you well.
+Dialogue: 0,0:55:09.00,0:55:13.00,Top,,0000,0000,0000,,dimadalo007_559:  They'll look cute together
+Dialogue: 0,0:55:14.00,0:55:18.00,Top,,0000,0000,0000,,sunwashedkelp432:  Awwwwwkssss...
+Dialogue: 0,0:55:17.00,0:55:21.00,Top,,0000,0000,0000,,rubyrenee9_416:  Love triangle is gonna happen soon... she better be prepared
+Dialogue: 0,0:55:17.95,0:55:19.31,Bot,,0000,0000,0000,,Hey,
+Dialogue: 0,0:55:19.31,0:55:21.22,Bot,,0000,0000,0000,,isn't she Song Si Ho from the RG club?
+Dialogue: 0,0:55:21.00,0:55:25.00,Top,,0000,0000,0000,,taileen:  Bet the handkerchief is hers
+Dialogue: 0,0:55:21.22,0:55:24.07,Bot,,0000,0000,0000,,She says she's my roommate...
+Dialogue: 0,0:55:24.07,0:55:26.00,Bot,,0000,0000,0000,,It'll be tiring for you.
+Dialogue: 0,0:55:27.21,0:55:29.37,Bot,,0000,0000,0000,,What can I do?
+Dialogue: 0,0:55:29.00,0:55:33.00,Top,,0000,0000,0000,,acidapplepie_111:  o.o
+Dialogue: 0,0:55:31.00,0:55:35.00,Top,,0000,0000,0000,,wolflife1_980:  I want her to be a funny second lead like the one in Protect The Boss
+Dialogue: 0,0:55:33.30,0:55:38.28,Bot,,0000,0000,0000,,Excuse me, you said your name was Bok Joo, right? Could you close the window?
+Dialogue: 0,0:55:35.00,0:55:39.00,Top,,0000,0000,0000,,parmardivyasingh_958:  They'll become good friends and then break up over a guy and then reunite...
+Dialogue: 0,0:55:38.00,0:55:42.00,Top,,0000,0000,0000,,evelynpagayon_35:  The best female 2nd lead is in Big Man, the 2nd best is in Protect the Boss, the most stunning is in Squad 38.
+Dialogue: 0,0:55:39.95,0:55:44.50,Bot,,0000,0000,0000,,I have a weak bronchus so I can't catch a cold. Sorry about that.
+Dialogue: 0,0:55:42.00,0:55:46.00,Top,,0000,0000,0000,,yvodramatic:  You can do that yourself  geez 
+Dialogue: 0,0:55:45.68,0:55:49.24,Bot,,0000,0000,0000,,I have a lot of body heat, so I leave it open though...
+Dialogue: 0,0:55:47.00,0:55:51.00,Top,,0000,0000,0000,,sierra_23:  THis RG crew is needy......UGH
+Dialogue: 0,0:55:55.45,0:56:00.40,Bot,,0000,0000,0000,,Excuse me. Also in your closet, could you make some space for me? There's no room.
+Dialogue: 0,0:56:00.40,0:56:03.69,Bot,,0000,0000,0000,,Yes. Ah, I used to just use it alone, so...
+Dialogue: 0,0:56:05.00,0:56:09.00,Top,,0000,0000,0000,,tara47:  Boy, let's see how this is gonna work🙄
+Dialogue: 0,0:56:08.09,0:56:09.93,Bot,,0000,0000,0000,,Here you go.
+Dialogue: 0,0:56:10.92,0:56:18.15,Bot,,0000,0000,0000,,{\i1}Timing and Subtitles brought to you by I'm Busy Getting Stronger Team @ Viki{\i0}
+Dialogue: 0,0:56:12.00,0:56:16.00,Top,,0000,0000,0000,,knightpuff:  that entire room just shook
+Dialogue: 0,0:56:14.00,0:56:18.00,Top,,0000,0000,0000,,kei21:  She dated the guy and doesnt know what that is?
+Dialogue: 0,0:56:21.00,0:56:25.00,Top,,0000,0000,0000,,reem_awa:  Shiiiiiiit 😂😂 THIS GIRL
+Dialogue: 0,0:56:28.00,0:56:32.00,Top,,0000,0000,0000,,sugarystardust:  She gon' burn it
+Dialogue: 0,0:56:32.00,0:56:36.81,Bot,,0000,0000,0000,,Hey, hey, hey, Joon Hyeong! Did you hear the news? The Dorm Pervert was caught.
+Dialogue: 0,0:56:36.81,0:56:41.66,Bot,,0000,0000,0000,,It was the jerk man who works in the administration office and looks very fishy. Now, you cleared yourself.
+Dialogue: 0,0:56:41.66,0:56:42.92,Bot,,0000,0000,0000,,Why did that old man steal clothing?
+Dialogue: 0,0:56:42.92,0:56:47.26,Bot,,0000,0000,0000,,I don't know. But rather, here's even more shocking news:
+Dialogue: 0,0:56:45.00,0:56:49.00,Top,,0000,0000,0000,,aishaaden36_963:  Do they of them like hime 
+Dialogue: 0,0:56:47.26,0:56:49.84,Bot,,0000,0000,0000,,Song Si Ho came back from Taereung.
+Dialogue: 0,0:56:50.00,0:56:54.00,Top,,0000,0000,0000,,jennigonzf_981:  Oh no.
+Dialogue: 0,0:56:51.72,0:56:56.21,Bot,,0000,0000,0000,,Your ex-girlfriend came back because she failed at the first round of the National Representative Audition.
+Dialogue: 0,0:56:53.00,0:56:57.00,Top,,0000,0000,0000,,orange_marmalade:  THEY KNOW EACH OTHER
+Dialogue: 0,0:56:56.00,0:57:00.00,Top,,0000,0000,0000,,diriesumaya2004_361:  I knew it
+Dialogue: 0,0:57:00.31,0:57:02.84,Bot,,0000,0000,0000,,Why did she do that?
+Dialogue: 0,0:57:02.00,0:57:06.00,Top,,0000,0000,0000,,muni81:  Did she perhaps choose her career over him or something?
+Dialogue: 0,0:57:06.00,0:57:10.00,Top,,0000,0000,0000,,jennigonzf_981:  Most likely, that always happens.
+Dialogue: 0,0:57:09.83,0:57:12.00,Bot,,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:57:10.00,0:57:14.00,Top,,0000,0000,0000,,aer_jade13_184:  @lc why would he be sad over that? it seems like a wise decision to me
+Dialogue: 0,0:57:12.00,0:57:16.00,Top,,0000,0000,0000,,sierra_23:  Hella rude .....
+Dialogue: 0,0:57:22.00,0:57:26.00,Top,,0000,0000,0000,,bperez112_107:  Yeah so good 
+Dialogue: 0,0:57:23.09,0:57:25.08,Bot,,0000,0000,0000,,Excuse me?
+Dialogue: 0,0:57:26.55,0:57:32.60,Bot,,0000,0000,0000,,You know, the guy that's tall, has a really sharp face,
+Dialogue: 0,0:57:30.00,0:57:34.00,Top,,0000,0000,0000,,isabellevittoriabusi_94:  Cara ela é muito  lindaaa 😍💜
+Dialogue: 0,0:57:32.60,0:57:36.36,Bot,,0000,0000,0000,,and always rides a bike?
+Dialogue: 0,0:57:36.36,0:57:37.86,Bot,,0000,0000,0000,,Who is she talking about?
+Dialogue: 0,0:57:37.86,0:57:39.20,Bot,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:57:39.20,0:57:45.61,Bot,,0000,0000,0000,,That person the students always call handsome or whatever, that...
+Dialogue: 0,0:57:45.00,0:57:49.00,Top,,0000,0000,0000,,salome_192:  BEHIND YOU BITCH
+Dialogue: 0,0:57:45.61,0:57:47.60,Bot,,0000,0000,0000,,Are you looking for me?
+Dialogue: 0,0:57:49.00,0:57:53.00,Top,,0000,0000,0000,,marybello79_40:   Lol 
+Dialogue: 0,0:57:49.17,0:57:54.45,Bot,,0000,0000,0000,,Tall, sharp faced, and always rides a bike.
+Dialogue: 0,0:57:52.00,0:57:56.00,Top,,0000,0000,0000,,miamayamina_536:  HEY, YOU IN THE COMMENTS DON'T CALL HER BITCH, FIGHT ME. I DARE YOU 👊
+Dialogue: 0,0:57:55.56,0:57:57.34,Bot,,0000,0000,0000,,It's me, isn't it?
+Dialogue: 0,0:57:59.50,0:58:03.38,Bot,,0000,0000,0000,,Excuse me, this.
+Dialogue: 0,0:58:00.00,0:58:04.00,Top,,0000,0000,0000,,lilpen:  I like!!!!
+Dialogue: 0,0:58:03.38,0:58:09.70,Bot,,0000,0000,0000,,I'm sorry for the misunderstanding. As an apology, I even washed it so—
+Dialogue: 0,0:58:06.00,0:58:10.00,Top,,0000,0000,0000,,dayanna_love2000_765:   shes fly as hell
+Dialogue: 0,0:58:09.00,0:58:13.00,Top,,0000,0000,0000,,coolcutepanda_611:  Yikes the moment to mess with something, CONFLICTION happens
+Dialogue: 0,0:58:12.00,0:58:16.00,Top,,0000,0000,0000,,jichangwookismydaddy_12:  Kinda weird that you sniff it
+Dialogue: 0,0:58:16.60,0:58:20.72,Bot,,0000,0000,0000,,Why did you wash this? Who told you to wash this however you wanted?!
+Dialogue: 0,0:58:18.00,0:58:22.00,Top,,0000,0000,0000,,jennigonzf_981:  Aww, he wanted to remember her scent.
+Dialogue: 0,0:58:21.26,0:58:26.46,Bot,,0000,0000,0000,,Hey! Is it a sin to wash a handkerchief?! I felt sorry, so
+Dialogue: 0,0:58:22.00,0:58:26.00,Top,,0000,0000,0000,,amor_saranghae:  aww crap she effd up
+Dialogue: 0,0:58:25.00,0:58:29.00,Top,,0000,0000,0000,,orange_marmalade:  Aww. She shouldn't have washed it, it probably smelled like someone he misses
+Dialogue: 0,0:58:26.46,0:58:30.65,Bot,,0000,0000,0000,,I thought to myself that I should at least give this to you first. I'm even late for my practice, but I brought it anyway!
+Dialogue: 0,0:58:28.00,0:58:32.00,Top,,0000,0000,0000,,rubicon49:  Knowing kdrama land that was his dead mothers who died of cancer, but we will soon find out that at the hospital they met while her...
+Dialogue: 0,0:58:30.65,0:58:35.82,Bot,,0000,0000,0000,,Wow! You're picking a fight over nothing. You have no manners.
+Dialogue: 0,0:58:31.00,0:58:35.00,Top,,0000,0000,0000,,newrachelle:  @LC LMAO RIGHT
+Dialogue: 0,0:58:35.00,0:58:39.00,Top,,0000,0000,0000,,mayphompheng_663:  I got scared when he yelled 😂
+Dialogue: 0,0:58:37.90,0:58:40.97,Bot,,0000,0000,0000,,- Give it back! I'll dirty it up again! Give it to me.\N - Let go.
+Dialogue: 0,0:58:40.00,0:58:44.00,Top,,0000,0000,0000,,katherine_moreno36_890:  I bet it was his moms and it had her perfume on it
+Dialogue: 0,0:58:40.97,0:58:42.28,Bot,,0000,0000,0000,,I'll dirty it up again! Give it back!
+Dialogue: 0,0:58:42.28,0:58:44.22,Bot,,0000,0000,0000,,Let go!
+Dialogue: 0,0:58:46.00,0:58:50.00,Top,,0000,0000,0000,,dramaqueen8:  @LC but his mother is alive right, we saw her when she went looking for the handkarcheif
+Dialogue: 0,0:58:49.00,0:58:53.00,Top,,0000,0000,0000,,kawaii_sugoi_380:  what the heck is @lc
+Dialogue: 0,0:58:53.00,0:58:57.00,Top,,0000,0000,0000,,idontlikeskittles:  oh well this is embarassing xd
+Dialogue: 0,0:58:53.78,0:58:55.50,Bot,,0000,0000,0000,,Hey!
+Dialogue: 0,0:58:56.00,0:59:00.00,Top,,0000,0000,0000,,jenniferphung1218_171:  Lol I can totally guess what's gonna happen
+Dialogue: 0,0:58:56.92,0:58:59.45,Bot,,0000,0000,0000,,Hey!
+Dialogue: 0,0:59:00.00,0:59:04.00,Top,,0000,0000,0000,,ssinha1_314_188:  oh my god if I had my phone in my pocket
+Dialogue: 0,0:59:02.00,0:59:06.00,Top,,0000,0000,0000,,hollabaekgirl:   I'm cringing so hard. Skip
+Dialogue: 0,0:59:03.61,0:59:05.74,Bot,,0000,0000,0000,,Hey!
+Dialogue: 0,0:59:05.00,0:59:09.00,Top,,0000,0000,0000,,ethiolilley:  Blah he was annoying 
+Dialogue: 0,0:59:09.00,0:59:13.00,Top,,0000,0000,0000,,miamayamina_536:  FUCKING SAVE HER YOU SMALL ASS PRICK. 
+Dialogue: 0,0:59:15.00,0:59:19.00,Top,,0000,0000,0000,,modupe_2:  he really took his time lol
+Dialogue: 0,0:59:20.00,0:59:24.00,Top,,0000,0000,0000,,anjem22_26:  he wanted her to suffer a bit
+Dialogue: 0,0:59:22.00,0:59:26.00,Top,,0000,0000,0000,,maliepale_589:  Teach yo kids how to SWiM PLS🙄😣🙄
+Dialogue: 0,0:59:25.00,0:59:29.00,Top,,0000,0000,0000,,coolcutepanda_611:  Oh no
+Dialogue: 0,0:59:27.83,0:59:35.16,Bot,,0000,0000,0000,,♬ {\i1} How can I get your love? {\i0} ♬
+Dialogue: 0,0:59:28.00,0:59:32.00,Top,,0000,0000,0000,,sonyeondan:  they're too cute
+Dialogue: 0,0:59:33.00,0:59:37.00,Top,,0000,0000,0000,,alena_hollingshead_559:  bruhhhhh
+Dialogue: 0,0:59:35.00,0:59:39.00,Top,,0000,0000,0000,,ggwolf_2000_960:  Fall in love
+Dialogue: 0,0:59:35.16,0:59:42.57,Bot,,0000,0000,0000,,♬ {\i1} How can I make you smile? {\i0} ♬
+Dialogue: 0,0:59:38.00,0:59:42.00,Top,,0000,0000,0000,,alli664:  ???
+Dialogue: 0,0:59:42.00,0:59:46.00,Top,,0000,0000,0000,,idontlikeskittles:  @lc SAME IM DEAD
+Dialogue: 0,0:59:42.57,0:59:49.85,Bot,,0000,0000,0000,,♬ {\i1} This heart-throbbing excitement {\i0} ♬
+Dialogue: 0,0:59:44.00,0:59:48.00,Top,,0000,0000,0000,,kwekwe:  Another kdrama cliché😩😩😩
+Dialogue: 0,0:59:47.00,0:59:51.00,Top,,0000,0000,0000,,osjdjs_709:  HAHAHAHAHH
+Dialogue: 0,0:59:49.00,0:59:53.00,Top,,0000,0000,0000,,iltzzu96:  OMFG THAT'S THE CUTEST KID I HAVE EVER SEEN😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍
+Dialogue: 0,0:59:49.85,0:59:57.39,Bot,,0000,0000,0000,,♬ {\i1} colors my feelings {\i0} ♬
+Dialogue: 0,0:59:52.00,0:59:56.00,Top,,0000,0000,0000,,sierra_23:  OMG ....why is that little boy sooooo darn CUTE >....
+Dialogue: 0,0:59:55.00,0:59:59.00,Top,,0000,0000,0000,,exoi:  That's a lot of starring 
+Dialogue: 0,0:59:57.39,1:00:02.71,Bot,,0000,0000,0000,,♬ {\i1} you and I in my dream {\i0} ♬
+Dialogue: 0,0:59:58.00,1:00:02.00,Top,,0000,0000,0000,,ele316:  Did she just spit in his face? :'D
+Dialogue: 0,1:00:00.00,1:00:04.00,Top,,0000,0000,0000,,thekpopist:  This is soo cute, they knew each other as kids.
+Dialogue: 0,1:00:02.71,1:00:10.21,Bot,,0000,0000,0000,,♬ {\i1} I don't know where this feeling came from {\i0} ♬
+Dialogue: 0,1:00:04.00,1:00:08.00,Top,,0000,0000,0000,,newrachelle:  Its not a kdrama unless they were best friends during their childhood or knew each other lol
+Dialogue: 0,1:00:06.00,1:00:10.00,Top,,0000,0000,0000,,lissy5417_16:  my heart
+Dialogue: 0,1:00:10.00,1:00:14.00,Top,,0000,0000,0000,,amor_saranghae:  i was just going to say no ones going to acknowledge she just barfed on his face?? lol
+Dialogue: 0,1:00:10.21,1:00:17.58,Bot,,0000,0000,0000,,♬ {\i1} There's a small quake only known to me {\i0} ♬
+Dialogue: 0,1:00:13.00,1:00:17.00,Top,,0000,0000,0000,,sunwashedkelp432:  That was so random omg
+Dialogue: 0,1:00:16.00,1:00:20.00,Top,,0000,0000,0000,,kdramapotato:  what just happened lol
+Dialogue: 0,1:00:17.58,1:00:20.78,Bot,,0000,0000,0000,,{\i1}Weightlifting Fairy Kim bok Joo Preview{\i0}
+Dialogue: 0,1:00:20.00,1:00:24.00,Top,,0000,0000,0000,,mdac82:  Was I the only one dying from laughter at the flashback?? She spits in your face and all u do is laugh????????? LOL
+Dialogue: 0,1:00:20.78,1:00:22.31,Bot,,0000,0000,0000,,{\i1}Why are you acting impishly, not like you?{\i0}
+Dialogue: 0,1:00:22.31,1:00:23.50,Bot,,0000,0000,0000,,{\i1}Why is this so fun?{\i0}
+Dialogue: 0,1:00:23.00,1:00:27.00,Top,,0000,0000,0000,,alena_hollingshead_559:  yah time for episode 2
+Dialogue: 0,1:00:23.50,1:00:25.69,Bot,,0000,0000,0000,,{\i1}Fatty! Give me a high five, give me a high five!{\i0}
+Dialogue: 0,1:00:25.00,1:00:29.00,Top,,0000,0000,0000,,10203447907535932_208:  Oml 😱😭😭
+Dialogue: 0,1:00:25.69,1:00:26.52,Bot,,0000,0000,0000,,{\i1}You little!{\i0}
+Dialogue: 0,1:00:26.52,1:00:28.49,Bot,,0000,0000,0000,,{\i1} I guess we have some sort of fate.{\i0}
+Dialogue: 0,1:00:28.49,1:00:29.66,Bot,,0000,0000,0000,,{\i1}Excuse me, teacher?{\i0}
+Dialogue: 0,1:00:29.66,1:00:31.02,Bot,,0000,0000,0000,,{\i1}I just came back because I missed you.{\i0}
+Dialogue: 0,1:00:31.00,1:00:35.00,Top,,0000,0000,0000,,taelor_davis_466:  Omffggggg
+Dialogue: 0,1:00:31.02,1:00:31.95,Bot,,0000,0000,0000,,{\i1}It's been a while.{\i0}
+Dialogue: 0,1:00:31.95,1:00:32.97,Bot,,0000,0000,0000,,{\i1}Excuse me, one moment.{\i0}
+Dialogue: 0,1:00:32.97,1:00:34.66,Bot,,0000,0000,0000,,{\i1} Have we perhaps met each other before?{\i0}
+Dialogue: 0,1:00:34.00,1:00:38.00,Top,,0000,0000,0000,,lizlovable_914:  LEE JONG SUK LEE JONG SUK MY BABY OMG
+Dialogue: 0,1:00:34.66,1:00:36.26,Bot,,0000,0000,0000,,{\i1}Train well. Don't get hurt.{\i0}
+Dialogue: 0,1:00:36.26,1:00:37.41,Bot,,0000,0000,0000,,{\i1}Even if you talk like that, to be honest,{\i0}
+Dialogue: 0,1:00:37.41,1:00:38.48,Bot,,0000,0000,0000,,{\i1}your heart is fluttering, isn't it?{\i0}
+Dialogue: 0,1:00:38.48,1:00:41.80,Bot,,0000,0000,0000,,{\i1}It was nice seeing you! See you again soon, Fatty!{\i0}
+Dialogue: 0,1:00:41.00,1:00:45.00,Top,,0000,0000,0000,,sanhawae_942:  HHHH IM NOW OBSESSED 
